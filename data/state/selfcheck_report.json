@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25",
+  "generated_at": "2026-08-27",
   "checked_days": [
-    "2026-08-25"
+    "2026-08-27"
   ],
   "n_alerts": 1,
   "alerts": [
-    "⚠ 2026-08-25: market_fair 覆盖率不足（2/2）——市场源缺失"
+    "⚠ 2026-08-27: predictions.json 不存在"
   ]
 }
