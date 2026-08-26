@@ -1,0 +1,308 @@
+{
+  "stable": [],
+  "value": [
+    {
+      "match": "2026-08-24_周一011",
+      "sel": "draw",
+      "odds": 2.9,
+      "stake": 76.84,
+      "prob": 0.457
+    },
+    {
+      "match": "2026-08-24_周一010",
+      "sel": "home",
+      "odds": 2.28,
+      "stake": 39.67,
+      "prob": 0.488
+    },
+    {
+      "match": "2026-08-24_周一003",
+      "sel": "away",
+      "odds": 2.2,
+      "stake": 33.49,
+      "prob": 0.495
+    }
+  ],
+  "lottery": [
+    {
+      "match": "2026-08-24_周一001",
+      "sel": "home",
+      "odds": 2.08,
+      "stake": 50.0,
+      "prob": 0.501,
+      "downgrade_reason": "prob_5060"
+    }
+  ],
+  "total_stake": 200.0,
+  "expected_roi": 0.1738,
+  "bankroll": 4047.1111,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-24_周一001",
+          "home": "博洛尼亚",
+          "away": "拉齐奥",
+          "league": "意甲",
+          "sel": "home",
+          "odds": 2.08,
+          "prob": 0.501,
+          "cal_prob": 0.581,
+          "market_prob": 0.426,
+          "source": "fusion",
+          "hit_prob": 0.581
+        },
+        {
+          "match": "2026-08-24_周一010",
+          "home": "马拉加",
+          "away": "拉科",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 2.28,
+          "prob": 0.488,
+          "cal_prob": 0.533,
+          "market_prob": 0.388,
+          "source": "fusion",
+          "hit_prob": 0.533
+        }
+      ],
+      "total_odds": 4.74,
+      "model_ev": 0.32,
+      "cal_ev": 2.73,
+      "cal_roi": 0.4684,
+      "market_ev": -0.43,
+      "market_roi": -0.216,
+      "hit_prob_cal": 0.31,
+      "recommended": true,
+      "stake": 5.82,
+      "n_bets": 1,
+      "potential": 27.6,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-24_周一003",
+          "home": "马尔默",
+          "away": "佐加顿斯",
+          "league": "瑞典超",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.495,
+          "cal_prob": 0.533,
+          "market_prob": 0.403,
+          "source": "fusion",
+          "hit_prob": 0.533
+        },
+        {
+          "match": "2026-08-24_周一010",
+          "home": "马拉加",
+          "away": "拉科",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 2.28,
+          "prob": 0.488,
+          "cal_prob": 0.533,
+          "market_prob": 0.388,
+          "source": "fusion",
+          "hit_prob": 0.533
+        }
+      ],
+      "total_odds": 5.02,
+      "model_ev": 0.43,
+      "cal_ev": 2.11,
+      "cal_roi": 0.4266,
+      "market_ev": -0.43,
+      "market_roi": -0.2159,
+      "hit_prob_cal": 0.284,
+      "recommended": true,
+      "stake": 4.94,
+      "n_bets": 1,
+      "potential": 24.78,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-24_周一001",
+          "home": "博洛尼亚",
+          "away": "拉齐奥",
+          "league": "意甲",
+          "sel": "home",
+          "odds": 2.08,
+          "prob": 0.501,
+          "cal_prob": 0.581,
+          "market_prob": 0.426,
+          "source": "fusion",
+          "hit_prob": 0.581
+        },
+        {
+          "match": "2026-08-24_周一003",
+          "home": "马尔默",
+          "away": "佐加顿斯",
+          "league": "瑞典超",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.495,
+          "cal_prob": 0.533,
+          "market_prob": 0.403,
+          "source": "fusion",
+          "hit_prob": 0.533
+        }
+      ],
+      "total_odds": 4.58,
+      "model_ev": 0.27,
+      "cal_ev": 2.26,
+      "cal_roi": 0.4169,
+      "market_ev": -0.43,
+      "market_roi": -0.2158,
+      "hit_prob_cal": 0.31,
+      "recommended": true,
+      "stake": 5.42,
+      "n_bets": 1,
+      "potential": 24.8,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串1",
+      "legs": [
+        {
+          "match": "2026-08-24_周一001",
+          "home": "博洛尼亚",
+          "away": "拉齐奥",
+          "league": "意甲",
+          "sel": "home",
+          "odds": 2.08,
+          "prob": 0.501,
+          "cal_prob": 0.581,
+          "market_prob": 0.426,
+          "source": "fusion",
+          "hit_prob": 0.581
+        },
+        {
+          "match": "2026-08-24_周一003",
+          "home": "马尔默",
+          "away": "佐加顿斯",
+          "league": "瑞典超",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.495,
+          "cal_prob": 0.533,
+          "market_prob": 0.403,
+          "source": "fusion",
+          "hit_prob": 0.533
+        },
+        {
+          "match": "2026-08-24_周一010",
+          "home": "马拉加",
+          "away": "拉科",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 2.28,
+          "prob": 0.488,
+          "cal_prob": 0.533,
+          "market_prob": 0.388,
+          "source": "fusion",
+          "hit_prob": 0.533
+        }
+      ],
+      "total_odds": 10.43,
+      "model_ev": 0.53,
+      "cal_ev": 2.57,
+      "cal_roi": 0.7228,
+      "market_ev": -0.61,
+      "market_roi": -0.3057,
+      "hit_prob_cal": 0.165,
+      "recommended": true,
+      "stake": 3.56,
+      "n_bets": 1,
+      "potential": 37.14,
+      "worst_win": 0.0,
+      "note": "三场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串4",
+      "legs": [
+        {
+          "match": "2026-08-24_周一001",
+          "home": "博洛尼亚",
+          "away": "拉齐奥",
+          "league": "意甲",
+          "sel": "home",
+          "odds": 2.08,
+          "prob": 0.501,
+          "cal_prob": 0.581,
+          "market_prob": 0.426,
+          "source": "fusion",
+          "hit_prob": 0.581
+        },
+        {
+          "match": "2026-08-24_周一003",
+          "home": "马尔默",
+          "away": "佐加顿斯",
+          "league": "瑞典超",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.495,
+          "cal_prob": 0.533,
+          "market_prob": 0.403,
+          "source": "fusion",
+          "hit_prob": 0.533
+        },
+        {
+          "match": "2026-08-24_周一010",
+          "home": "马拉加",
+          "away": "拉科",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 2.28,
+          "prob": 0.488,
+          "cal_prob": 0.533,
+          "market_prob": 0.388,
+          "source": "fusion",
+          "hit_prob": 0.533
+        }
+      ],
+      "total_odds": 6.19,
+      "model_ev": null,
+      "cal_ev": 2.31,
+      "cal_roi": 0.5087,
+      "market_ev": -1.91,
+      "market_roi": -0.2383,
+      "hit_prob_cal": 0.165,
+      "recommended": true,
+      "stake": 4.55,
+      "n_bets": 4,
+      "potential": 28.17,
+      "worst_win": 9.15,
+      "note": "容错：错 1 场仍中 1 注 2串1（回 ¥9），全中 ¥50",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [],
+  "parlay_calibration": {
+    "overall": 0.4933,
+    "n": 371,
+    "table": {
+      "0.35": 0.4141,
+      "0.4": 0.55,
+      "0.45": 0.5333,
+      "0.5": 0.5806,
+      "0.55": 0.3,
+      "0.6": 0.5385,
+      "0.7": 0.5455
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}

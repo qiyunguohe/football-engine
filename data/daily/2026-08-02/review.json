@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-02",
+  "n_matches": 14,
+  "hit_rate": 0.3571,
+  "hits": 5,
+  "source_brier": {
+    "model": 0.8107,
+    "market": 0.5802,
+    "djyy": 0.5837,
+    "final": 0.7392
+  },
+  "by_league": {
+    "K1联赛": {
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.5258
+    },
+    "瑞典超": {
+      "n": 3,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.0364
+    },
+    "芬超": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8371
+    },
+    "挪超": {
+      "n": 4,
+      "hit_rate": 0.75,
+      "wilson_lower": 0.3006,
+      "avg_brier": 0.5987
+    },
+    "巴西杯": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7963
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 8,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.2152,
+      "avg_brier": 0.6081
+    },
+    "high": {
+      "n": 3,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.1655
+    },
+    "low": {
+      "n": 3,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0615,
+      "avg_brier": 0.6622
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 6,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0968,
+      "avg_brier": 0.6788
+    },
+    "1.5-2.0": {
+      "n": 8,
+      "hit_rate": 0.375,
+      "wilson_lower": 0.1368,
+      "avg_brier": 0.7845
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 3,
+    "top5": 4,
+    "top8": 7,
+    "any": 8
+  },
+  "score_rank_hist": {
+    "3": 2,
+    "7": 1,
+    "2": 1,
+    "10": 1,
+    "5": 1,
+    "6": 1,
+    "8": 1
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 0,
+      "hits": 0
+    }
+  },
+  "market_signal_stats": {
+    "n": 0,
+    "hits": 0
+  },
+  "layered": {
+    "log_loss_final": 1.2413,
+    "goal_framework": {
+      "n": 14,
+      "hits": 6
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 5,
+        "hit_rate": 0.4
+      },
+      "50-60%": {
+        "n": 5,
+        "hit_rate": 0.4
+      },
+      "60%+": {
+        "n": 1,
+        "hit_rate": 0.0
+      },
+      "<40%": {
+        "n": 3,
+        "hit_rate": 0.3333
+      }
+    },
+    "freshness_groups": {}
+  },
+  "biases": [],
+  "total_pnl": 0,
+  "generated_at": "2026-08-13T19:02:07.370059",
+  "sha256": "77d3a207d42d04c50f9c990069da1f84"
+}

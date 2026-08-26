@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-21",
+  "n_matches": 7,
+  "hit_rate": 0.4286,
+  "hits": 3,
+  "source_brier": {
+    "model": 0.5249,
+    "market": null,
+    "djyy": 0.772,
+    "final": 0.5277
+  },
+  "by_league": {
+    "K1联赛": {
+      "n": 3,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0615,
+      "avg_brier": 0.5462
+    },
+    "欧冠": {
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.4033
+    },
+    "巴甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8452
+    }
+  },
+  "by_confidence_tier": {
+    "low": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7058
+    },
+    "mid": {
+      "n": 3,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0615,
+      "avg_brier": 0.6707
+    },
+    "high": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.135
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 3,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7523
+    },
+    "1.5-2.0": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5835
+    },
+    "1.0-1.5": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.135
+    }
+  },
+  "score_stats": {
+    "top1": 2,
+    "top3": 4,
+    "top5": 5,
+    "top8": 5,
+    "any": 5
+  },
+  "score_rank_hist": {
+    "1": 2,
+    "5": 1,
+    "3": 2
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 0,
+      "hits": 0
+    }
+  },
+  "market_signal_stats": {
+    "n": 0,
+    "hits": 0
+  },
+  "layered": {
+    "log_loss_final": 0.9055,
+    "goal_framework": {
+      "n": 4,
+      "hits": 1
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 2,
+        "hit_rate": 0.0
+      },
+      "50-60%": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
+      "60%+": {
+        "n": 2,
+        "hit_rate": 1.0
+      },
+      "<40%": {
+        "n": 2,
+        "hit_rate": 0.0
+      }
+    },
+    "freshness_groups": {}
+  },
+  "biases": [
+    {
+      "dimension": "outcome",
+      "key": "all",
+      "outcome": "draw",
+      "predicted_avg": 0.2313,
+      "actual_rate": 0.4286,
+      "gap": -0.1973,
+      "n": 7,
+      "severity": "warn",
+      "suggested_action": "reduce draw_bias"
+    }
+  ],
+  "total_pnl": 0,
+  "generated_at": "2026-08-13T19:02:07.332917",
+  "sha256": "79eb39cf949e372124cedc9cb6633462"
+}

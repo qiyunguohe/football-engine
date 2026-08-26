@@ -1,0 +1,300 @@
+[
+  {
+    "match_id": "2026-07-28_周二001",
+    "competition": "欧冠",
+    "home_team": "库奥皮奥",
+    "away_team": "萨巴赫",
+    "home_win_prob": 0.4322,
+    "draw_prob": 0.2416,
+    "away_win_prob": 0.3261,
+    "home_xg": 1.836,
+    "away_xg": 1.421,
+    "home_odds": 2.7,
+    "draw_odds": 3.45,
+    "away_odds": 2.13,
+    "odds_synthetic": false,
+    "handicap": 1.0,
+    "confidence": 0.1238,
+    "wilson_trust": 0.2742,
+    "model_raw": {
+      "home": 0.4515,
+      "draw": 0.2457,
+      "away": 0.3028
+    },
+    "market_fair": [
+      0.3278,
+      0.2566,
+      0.4156
+    ],
+    "top_scores": [
+      [
+        1,
+        0,
+        0.146
+      ],
+      [
+        1,
+        1,
+        0.1242
+      ],
+      [
+        2,
+        0,
+        0.1067
+      ],
+      [
+        0,
+        0,
+        0.0964
+      ],
+      [
+        2,
+        1,
+        0.0886
+      ],
+      [
+        0,
+        1,
+        0.0857
+      ],
+      [
+        3,
+        0,
+        0.0513
+      ],
+      [
+        1,
+        2,
+        0.051
+      ]
+    ],
+    "total_goals": [
+      [
+        2,
+        0.2665
+      ],
+      [
+        1,
+        0.2316
+      ],
+      [
+        3,
+        0.2013
+      ],
+      [
+        4,
+        0.1191
+      ],
+      [
+        0,
+        0.0964
+      ],
+      [
+        5,
+        0.0542
+      ]
+    ],
+    "htft": {
+      "HH": 0.2154,
+      "HD": 0.0962,
+      "HA": 0.0518,
+      "DH": 0.1951,
+      "DD": 0.0737,
+      "DA": 0.1118,
+      "AH": 0.0595,
+      "AD": 0.0892,
+      "AA": 0.1075
+    },
+    "htft_top3": [
+      [
+        "HH",
+        0.2154
+      ],
+      [
+        "DH",
+        0.1951
+      ],
+      [
+        "DA",
+        0.1118
+      ]
+    ],
+    "reverse_upset_risk": 56.7,
+    "reverse_direction": null,
+    "reverse_compression": null,
+    "same_odds_matched": 0,
+    "same_odds_confidence": 0.0,
+    "same_odds_bias": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "combo_boost": 0.3648,
+    "djyy_enriched": false,
+    "djyy_model_prob": null,
+    "_djyy_id": null,
+    "elo_home": 1580.4,
+    "elo_away": 1515.9,
+    "kelly_edge": 0.1669,
+    "actual_result": "0-2",
+    "actual_home_score": 0,
+    "actual_away_score": 2,
+    "direction": "home",
+    "direction_correct": false,
+    "predicted_score": "1-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false
+  },
+  {
+    "match_id": "2026-07-28_周二002",
+    "competition": "欧冠",
+    "home_team": "哈茨",
+    "away_team": "格风暴",
+    "home_win_prob": 0.2869,
+    "draw_prob": 0.2158,
+    "away_win_prob": 0.4972,
+    "home_xg": 0.839,
+    "away_xg": 2.021,
+    "home_odds": 1.79,
+    "draw_odds": 3.92,
+    "away_odds": 3.17,
+    "odds_synthetic": false,
+    "handicap": -1.0,
+    "confidence": 0.1862,
+    "wilson_trust": 0.3286,
+    "model_raw": {
+      "home": 0.2127,
+      "draw": 0.2208,
+      "away": 0.5665
+    },
+    "market_fair": [
+      0.4947,
+      0.2259,
+      0.2794
+    ],
+    "top_scores": [
+      [
+        0,
+        1,
+        0.1349
+      ],
+      [
+        1,
+        1,
+        0.1184
+      ],
+      [
+        0,
+        2,
+        0.1066
+      ],
+      [
+        1,
+        2,
+        0.094
+      ],
+      [
+        0,
+        0,
+        0.086
+      ],
+      [
+        1,
+        0,
+        0.0761
+      ],
+      [
+        0,
+        3,
+        0.0571
+      ],
+      [
+        2,
+        1,
+        0.0503
+      ]
+    ],
+    "total_goals": [
+      [
+        2,
+        0.2589
+      ],
+      [
+        1,
+        0.211
+      ],
+      [
+        3,
+        0.2107
+      ],
+      [
+        4,
+        0.1301
+      ],
+      [
+        0,
+        0.086
+      ],
+      [
+        5,
+        0.0633
+      ]
+    ],
+    "htft": {
+      "HH": 0.0392,
+      "HD": 0.0699,
+      "HA": 0.0376,
+      "DH": 0.0734,
+      "DD": 0.0683,
+      "DA": 0.2498,
+      "AH": 0.043,
+      "AD": 0.0645,
+      "AA": 0.3544
+    },
+    "htft_top3": [
+      [
+        "AA",
+        0.3544
+      ],
+      [
+        "DA",
+        0.2498
+      ],
+      [
+        "DH",
+        0.0734
+      ]
+    ],
+    "reverse_upset_risk": 46.5,
+    "reverse_direction": null,
+    "reverse_compression": null,
+    "same_odds_matched": 0,
+    "same_odds_confidence": 0.0,
+    "same_odds_bias": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "combo_boost": 0.0584,
+    "djyy_enriched": false,
+    "djyy_model_prob": null,
+    "_djyy_id": null,
+    "elo_home": 1390.3,
+    "elo_away": 1517.0,
+    "kelly_edge": 0.5761,
+    "actual_result": "0-2",
+    "actual_home_score": 0,
+    "actual_away_score": 2,
+    "direction": "away",
+    "direction_correct": true,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 3,
+    "score_top3_hit": true,
+    "score_top5_hit": true,
+    "score_top8_hit": true
+  }
+]

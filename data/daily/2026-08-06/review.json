@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-06",
+  "n_matches": 5,
+  "hit_rate": 0.2,
+  "hits": 1,
+  "source_brier": {
+    "model": 0.6898,
+    "market": 0.8124,
+    "djyy": 0.555,
+    "final": 0.6545
+  },
+  "by_league": {
+    "欧罗巴": {
+      "n": 4,
+      "hit_rate": 0.25,
+      "wilson_lower": 0.0456,
+      "avg_brier": 0.6356
+    },
+    "巴西杯": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7302
+    }
+  },
+  "by_confidence_tier": {
+    "low": {
+      "n": 3,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.719
+    },
+    "mid": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5577
+    }
+  },
+  "by_odds_band": {
+    "3.0+": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.731
+    },
+    "1.0-1.5": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5577
+    },
+    "2.0-3.0": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.713
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 3,
+    "top5": 3,
+    "top8": 3,
+    "any": 3
+  },
+  "score_rank_hist": {
+    "3": 1,
+    "2": 2
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 2,
+      "hits": 2
+    },
+    "mc": {
+      "n": 3,
+      "hits": 2
+    }
+  },
+  "market_signal_stats": {
+    "n": 5,
+    "hits": 0
+  },
+  "layered": {
+    "log_loss_final": 1.0847,
+    "goal_framework": {
+      "n": 5,
+      "hits": 2
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 2,
+        "hit_rate": 0.5
+      },
+      "<40%": {
+        "n": 3,
+        "hit_rate": 0.0
+      }
+    },
+    "freshness_groups": {
+      "ok": {
+        "n": 2,
+        "hit_rate": 0.5
+      },
+      "watch": {
+        "n": 3,
+        "hit_rate": 0.0
+      }
+    }
+  },
+  "biases": [],
+  "total_pnl": 0.0,
+  "generated_at": "2026-08-13T19:02:07.381272",
+  "sha256": "ace1b14aed2f6d0cc9a3bca3d50be9e7"
+}

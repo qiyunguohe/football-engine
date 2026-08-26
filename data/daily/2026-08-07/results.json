@@ -1,0 +1,125 @@
+[
+  {
+    "match_id": "2026-08-07_周五001",
+    "home_score": 3,
+    "away_score": 4,
+    "home_team": "横滨水手",
+    "away_team": "鹿岛鹿角",
+    "half_home_score": 2,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-07_周五002",
+    "home_score": 4,
+    "away_score": 3,
+    "home_team": "大阪钢巴",
+    "away_team": "浦和红钻",
+    "half_home_score": 2,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-07_周五003",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "塞那乔其",
+    "away_team": "赫尔火花",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "2026-08-07_周五004",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "桑德菲杰",
+    "away_team": "奥斯陆",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-07_周五005",
+    "home_score": 0,
+    "away_score": 4,
+    "home_team": "坎布尔",
+    "away_team": "SBV精英",
+    "half_home_score": 0,
+    "half_away_score": 3
+  },
+  {
+    "match_id": "2026-08-07_周五006",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "奥斯",
+    "away_team": "布雷达",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-07_周五007",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "埃门",
+    "away_team": "罗达JC",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-07_周五008",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "波鸿",
+    "away_team": "柏林赫塔",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-07_周五009",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "米德尔斯堡",
+    "away_team": "雷克瑟姆",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-07_周五010",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "埃斯托里尔",
+    "away_team": "法马利康",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周五004",
+    "home_team": "桑纳菲",
+    "away_team": "奥斯KFUM",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "挪超",
+    "match_date": "2026-08-07",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五009",
+    "home_team": "米堡",
+    "away_team": "雷克斯",
+    "home_score": 1,
+    "away_score": 0,
+    "competition": "英联杯",
+    "match_date": "2026-08-07",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五010",
+    "home_team": "埃斯托里",
+    "away_team": "法马利康",
+    "home_score": 1,
+    "away_score": 1,
+    "competition": "葡超",
+    "match_date": "2026-08-07",
+    "match_no": "",
+    "status": "完赛"
+  }
+]

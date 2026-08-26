@@ -1,0 +1,385 @@
+{
+ "stable": [
+  {
+   "match": "2026-07-26_周日213",
+   "sel": "home",
+   "odds": 1.72,
+   "stake": 8898.85
+  },
+  {
+   "match": "2026-07-26_周日210",
+   "sel": "home",
+   "odds": 1.39,
+   "stake": 8898.85
+  },
+  {
+   "match": "2026-07-26_周日215",
+   "sel": "away",
+   "odds": 1.31,
+   "stake": 8898.85
+  },
+  {
+   "match": "2026-07-26_周日202",
+   "sel": "home",
+   "odds": 1.43,
+   "stake": 8898.85
+  }
+ ],
+ "value": [
+  {
+   "match": "2026-07-26_周日201",
+   "sel": "home",
+   "odds": 1.85,
+   "stake": 8898.85
+  },
+  {
+   "match": "2026-07-26_周日218",
+   "sel": "away",
+   "odds": 2.37,
+   "stake": 3177.53
+  }
+ ],
+ "lottery": [
+  {
+   "match": "2026-07-26_周日204",
+   "sel": "home",
+   "odds": 4.3,
+   "stake": 6173.25
+  },
+  {
+   "match": "2026-07-26_周日209",
+   "sel": "away",
+   "odds": 4.23,
+   "stake": 4950.31
+  }
+ ],
+ "total_stake": 58795.34,
+ "expected_roi": 0.3601,
+ "bankroll": 111235.59199999993,
+ "breaker_multiplier": 1.0,
+ "parlay": [
+  {
+   "type": "2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日201",
+     "home": "首尔FC",
+     "away": "蔚山现代",
+     "league": "K1联赛",
+     "sel": "home",
+     "odds": 1.85,
+     "prob": 0.758,
+     "cal_prob": 0.5,
+     "market_prob": 0.521,
+     "source": "fusion",
+     "hit_prob": 0.5
+    },
+    {
+     "match": "2026-07-26_周日217",
+     "home": "弗拉门戈",
+     "away": "圣保罗",
+     "league": "巴甲",
+     "sel": "home",
+     "odds": 1.32,
+     "prob": 0.737,
+     "cal_prob": 0.5,
+     "market_prob": 0.671,
+     "source": "fusion",
+     "hit_prob": 0.5
+    }
+   ],
+   "total_odds": 2.44,
+   "model_ev": 0.73,
+   "cal_ev": -0.78,
+   "cal_roi": -0.3895,
+   "market_ev": -0.29,
+   "market_roi": -0.1463,
+   "hit_prob_cal": 0.25,
+   "recommended": false,
+   "stake": 2.0,
+   "n_bets": 1,
+   "potential": 4.88,
+   "worst_win": 0.0,
+   "note": "两场全中才赢",
+   "source": "calibrated"
+  },
+  {
+   "type": "2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日201",
+     "home": "首尔FC",
+     "away": "蔚山现代",
+     "league": "K1联赛",
+     "sel": "home",
+     "odds": 1.85,
+     "prob": 0.758,
+     "cal_prob": 0.5,
+     "market_prob": 0.521,
+     "source": "fusion",
+     "hit_prob": 0.5
+    },
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "sel": "away",
+     "odds": 1.31,
+     "prob": 0.726,
+     "cal_prob": 0.5,
+     "market_prob": 0.726,
+     "source": "fusion",
+     "hit_prob": 0.5
+    }
+   ],
+   "total_odds": 2.42,
+   "model_ev": 0.67,
+   "cal_ev": -0.79,
+   "cal_roi": -0.3941,
+   "market_ev": -0.16,
+   "market_roi": -0.0823,
+   "hit_prob_cal": 0.25,
+   "recommended": false,
+   "stake": 2.0,
+   "n_bets": 1,
+   "potential": 4.85,
+   "worst_win": 0.0,
+   "note": "两场全中才赢",
+   "source": "calibrated"
+  },
+  {
+   "type": "2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日217",
+     "home": "弗拉门戈",
+     "away": "圣保罗",
+     "league": "巴甲",
+     "sel": "home",
+     "odds": 1.32,
+     "prob": 0.737,
+     "cal_prob": 0.5,
+     "market_prob": 0.671,
+     "source": "fusion",
+     "hit_prob": 0.5
+    },
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "sel": "away",
+     "odds": 1.31,
+     "prob": 0.726,
+     "cal_prob": 0.5,
+     "market_prob": 0.726,
+     "source": "fusion",
+     "hit_prob": 0.5
+    }
+   ],
+   "total_odds": 1.73,
+   "model_ev": -0.15,
+   "cal_ev": -1.14,
+   "cal_roi": -0.5677,
+   "market_ev": -0.32,
+   "market_roi": -0.1579,
+   "hit_prob_cal": 0.25,
+   "recommended": false,
+   "stake": 2.0,
+   "n_bets": 1,
+   "potential": 3.46,
+   "worst_win": 0.0,
+   "note": "两场全中才赢",
+   "source": "calibrated"
+  }
+ ],
+ "parlay_calibration": {
+  "overall": 0.4351,
+  "n": 131,
+  "table": {
+   "0.35": 0.3214,
+   "0.4": 0.4583,
+   "0.45": 0.6,
+   "0.5": 0.4375,
+   "0.55": 0.3158,
+   "0.6": 0.5,
+   "0.7": 0.5
+  }
+ },
+ "score_parlay": [
+  {
+   "type": "比分2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日205",
+     "home": "布鲁马波",
+     "away": "哈马比",
+     "league": "瑞典超",
+     "score": "1-0",
+     "prob": 0.173,
+     "odds": 7.0
+    },
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "score": "0-2",
+     "prob": 0.168,
+     "odds": 10.0
+    }
+   ],
+   "total_odds": 70.0,
+   "hit_prob": 0.029,
+   "stake": 2.0,
+   "potential": 140.0,
+   "worst_win": 0.0,
+   "n_bets": 1,
+   "odds_source": "simulated",
+   "note": "两场比分都中才赢（单场命中率约 17% × 17%）"
+  },
+  {
+   "type": "比分2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日205",
+     "home": "布鲁马波",
+     "away": "哈马比",
+     "league": "瑞典超",
+     "score": "1-0",
+     "prob": 0.173,
+     "odds": 7.0
+    },
+    {
+     "match": "2026-07-26_周日204",
+     "home": "安养FC",
+     "away": "江原FC",
+     "league": "K1联赛",
+     "score": "1-0",
+     "prob": 0.154,
+     "odds": 7.0
+    }
+   ],
+   "total_odds": 49.0,
+   "hit_prob": 0.0266,
+   "stake": 2.0,
+   "potential": 98.0,
+   "worst_win": 0.0,
+   "n_bets": 1,
+   "odds_source": "simulated",
+   "note": "两场比分都中才赢（单场命中率约 17% × 15%）"
+  },
+  {
+   "type": "比分2串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "score": "0-2",
+     "prob": 0.168,
+     "odds": 10.0
+    },
+    {
+     "match": "2026-07-26_周日204",
+     "home": "安养FC",
+     "away": "江原FC",
+     "league": "K1联赛",
+     "score": "1-0",
+     "prob": 0.154,
+     "odds": 7.0
+    }
+   ],
+   "total_odds": 70.0,
+   "hit_prob": 0.0259,
+   "stake": 2.0,
+   "potential": 140.0,
+   "worst_win": 0.0,
+   "n_bets": 1,
+   "odds_source": "simulated",
+   "note": "两场比分都中才赢（单场命中率约 17% × 15%）"
+  },
+  {
+   "type": "比分3串1",
+   "legs": [
+    {
+     "match": "2026-07-26_周日205",
+     "home": "布鲁马波",
+     "away": "哈马比",
+     "league": "瑞典超",
+     "score": "1-0",
+     "prob": 0.173,
+     "odds": 7.0
+    },
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "score": "0-2",
+     "prob": 0.168,
+     "odds": 10.0
+    },
+    {
+     "match": "2026-07-26_周日204",
+     "home": "安养FC",
+     "away": "江原FC",
+     "league": "K1联赛",
+     "score": "1-0",
+     "prob": 0.154,
+     "odds": 7.0
+    }
+   ],
+   "total_odds": 490.0,
+   "hit_prob": 0.0045,
+   "stake": 2.0,
+   "potential": 980.0,
+   "worst_win": 0.0,
+   "n_bets": 1,
+   "odds_source": "simulated",
+   "note": "三场比分全中才赢（赔率 490 倍）"
+  },
+  {
+   "type": "比分3串4(容错)",
+   "legs": [
+    {
+     "match": "2026-07-26_周日205",
+     "home": "布鲁马波",
+     "away": "哈马比",
+     "league": "瑞典超",
+     "score": "1-0",
+     "prob": 0.173,
+     "odds": 7.0
+    },
+    {
+     "match": "2026-07-26_周日215",
+     "home": "桑纳菲",
+     "away": "博德闪耀",
+     "league": "挪超",
+     "score": "0-2",
+     "prob": 0.168,
+     "odds": 10.0
+    },
+    {
+     "match": "2026-07-26_周日204",
+     "home": "安养FC",
+     "away": "江原FC",
+     "league": "K1联赛",
+     "score": "1-0",
+     "prob": 0.154,
+     "odds": 7.0
+    }
+   ],
+   "total_odds": 490.0,
+   "hit_prob": 0.0045,
+   "stake": 8.0,
+   "potential": 1358.0,
+   "worst_win": 140.0,
+   "n_bets": 4,
+   "odds_source": "simulated",
+   "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥140，全中≈¥1358"
+  }
+ ]
+}

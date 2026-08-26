@@ -1,0 +1,94 @@
+[
+  {
+    "match_id": "2026-08-20_周四004",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "阿拉木图",
+    "away_team": "安德莱赫特",
+    "half_home_score": 0,
+    "half_away_score": 3
+  },
+  {
+    "match_id": "2026-08-20_周四005",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "米亚尔比",
+    "away_team": "萨尔茨堡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-20_周四006",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "特拉布宗",
+    "away_team": "费伦茨",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-20_周四007",
+    "home_score": 7,
+    "away_score": 0,
+    "home_team": "波兹南莱赫",
+    "away_team": "图恩",
+    "half_home_score": 5,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-20_周四001",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "费哈",
+    "away_team": "利雅得新月",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-20_周四008",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "贝红星\t",
+    "away_team": "比尔森",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-20_周四002",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "巴列卡诺",
+    "away_team": "阿拉维斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-20_周四009",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "本菲卡",
+    "away_team": "奥胡斯",
+    "half_home_score": 3,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-20_周四003",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "科林蒂安",
+    "away_team": "罗萨里奥",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周四001",
+    "home_team": "迈季宽广",
+    "away_team": "利雅新月",
+    "home_score": 0,
+    "away_score": 3,
+    "competition": "沙特联",
+    "match_date": "2026-08-20",
+    "match_no": "",
+    "status": "完赛"
+  }
+]

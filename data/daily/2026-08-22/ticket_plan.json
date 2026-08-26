@@ -1,0 +1,333 @@
+{
+  "stable": [],
+  "value": [
+    {
+      "match": "2026-08-22_周六021",
+      "sel": "home",
+      "odds": 2.4,
+      "stake": 81.38,
+      "prob": 0.471
+    },
+    {
+      "match": "2026-08-22_周六026",
+      "sel": "home",
+      "odds": 2.23,
+      "stake": 45.58,
+      "prob": 0.477
+    },
+    {
+      "match": "2026-08-22_周六024",
+      "sel": "home",
+      "odds": 2.34,
+      "stake": 23.05,
+      "prob": 0.442
+    }
+  ],
+  "lottery": [],
+  "total_stake": 150.01,
+  "expected_roi": 0.0953,
+  "bankroll": 4313.890600000001,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-22_周六026",
+          "home": "图卢兹",
+          "away": "里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.23,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.397,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六018",
+          "home": "布伦特",
+          "away": "热刺",
+          "league": "英超",
+          "sel": "home",
+          "odds": 2.02,
+          "prob": 0.472,
+          "cal_prob": 0.538,
+          "market_prob": 0.438,
+          "source": "fusion",
+          "hit_prob": 0.538
+        }
+      ],
+      "total_odds": 4.5,
+      "model_ev": 0.03,
+      "cal_ev": 2.01,
+      "cal_roi": 0.3063,
+      "market_ev": -0.43,
+      "market_roi": -0.2161,
+      "hit_prob_cal": 0.29,
+      "recommended": true,
+      "stake": 6.56,
+      "n_bets": 1,
+      "potential": 29.55,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-22_周六026",
+          "home": "图卢兹",
+          "away": "里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.23,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.397,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六025",
+          "home": "尼斯",
+          "away": "洛里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.0,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.443,
+          "source": "fusion",
+          "hit_prob": 0.538
+        }
+      ],
+      "total_odds": 4.46,
+      "model_ev": 0.03,
+      "cal_ev": 1.87,
+      "cal_roi": 0.2933,
+      "market_ev": -0.43,
+      "market_roi": -0.216,
+      "hit_prob_cal": 0.29,
+      "recommended": true,
+      "stake": 6.36,
+      "n_bets": 1,
+      "potential": 28.37,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-22_周六025",
+          "home": "尼斯",
+          "away": "洛里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.0,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.443,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六018",
+          "home": "布伦特",
+          "away": "热刺",
+          "league": "英超",
+          "sel": "home",
+          "odds": 2.02,
+          "prob": 0.472,
+          "cal_prob": 0.538,
+          "market_prob": 0.438,
+          "source": "fusion",
+          "hit_prob": 0.538
+        }
+      ],
+      "total_odds": 4.04,
+      "model_ev": -0.18,
+      "cal_ev": 0.73,
+      "cal_roi": 0.1715,
+      "market_ev": -0.43,
+      "market_roi": -0.2156,
+      "hit_prob_cal": 0.29,
+      "recommended": true,
+      "stake": 4.24,
+      "n_bets": 1,
+      "potential": 17.13,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串1",
+      "legs": [
+        {
+          "match": "2026-08-22_周六026",
+          "home": "图卢兹",
+          "away": "里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.23,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.397,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六025",
+          "home": "尼斯",
+          "away": "洛里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.0,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.443,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六018",
+          "home": "布伦特",
+          "away": "热刺",
+          "league": "英超",
+          "sel": "home",
+          "odds": 2.02,
+          "prob": 0.472,
+          "cal_prob": 0.538,
+          "market_prob": 0.438,
+          "source": "fusion",
+          "hit_prob": 0.538
+        }
+      ],
+      "total_odds": 9.01,
+      "model_ev": -0.07,
+      "cal_ev": 1.55,
+      "cal_roi": 0.4068,
+      "market_ev": -0.61,
+      "market_roi": -0.3057,
+      "hit_prob_cal": 0.156,
+      "recommended": true,
+      "stake": 3.81,
+      "n_bets": 1,
+      "potential": 34.33,
+      "worst_win": 0.0,
+      "note": "三场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串4",
+      "legs": [
+        {
+          "match": "2026-08-22_周六026",
+          "home": "图卢兹",
+          "away": "里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.23,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.397,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六025",
+          "home": "尼斯",
+          "away": "洛里昂",
+          "league": "法甲",
+          "sel": "home",
+          "odds": 2.0,
+          "prob": 0.477,
+          "cal_prob": 0.538,
+          "market_prob": 0.443,
+          "source": "fusion",
+          "hit_prob": 0.538
+        },
+        {
+          "match": "2026-08-22_周六018",
+          "home": "布伦特",
+          "away": "热刺",
+          "league": "英超",
+          "sel": "home",
+          "odds": 2.02,
+          "prob": 0.472,
+          "cal_prob": 0.538,
+          "market_prob": 0.438,
+          "source": "fusion",
+          "hit_prob": 0.538
+        }
+      ],
+      "total_odds": 5.5,
+      "model_ev": null,
+      "cal_ev": 1.45,
+      "cal_roi": 0.2945,
+      "market_ev": -1.91,
+      "market_roi": -0.2383,
+      "hit_prob_cal": 0.156,
+      "recommended": true,
+      "stake": 4.91,
+      "n_bets": 4,
+      "potential": 27.02,
+      "worst_win": 8.08,
+      "note": "容错：错 1 场仍中 1 注 2串1（回 ¥8），全中 ¥44",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-08-22_周六022",
+          "home": "多特蒙德",
+          "away": "拜仁",
+          "league": "德超杯",
+          "score": "1-0",
+          "prob": 0.185,
+          "cal_prob": 0.1135,
+          "odds": 26.0
+        },
+        {
+          "match": "2026-08-22_周六028",
+          "home": "温哥华白浪",
+          "away": "达拉斯FC",
+          "league": "美职",
+          "score": "1-0",
+          "prob": 0.202,
+          "cal_prob": 0.1135,
+          "odds": 9.5
+        }
+      ],
+      "total_odds": 247.0,
+      "hit_prob": 0.0129,
+      "stake": 2.0,
+      "potential": 494.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 1.3% × 赔率 247 倍 = EV +218%）"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.4652,
+    "n": 316,
+    "table": {
+      "0.35": 0.4124,
+      "0.4": 0.5122,
+      "0.45": 0.5385,
+      "0.5": 0.4783,
+      "0.55": 0.3,
+      "0.6": 0.5,
+      "0.7": 0.5
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}

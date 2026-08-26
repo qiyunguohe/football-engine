@@ -1,0 +1,56 @@
+name: Health Check
+
+on:
+  schedule:
+    # 2026-08-14：5min→15min（每天 288 次→96 次，省 Actions 分钟）。
+    # daily-forecast 每 30 分钟跑一次，15 分钟探测完全来得及发现"超1小时没跑"。
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Check last Daily Forecast run
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 获取最近一次 daily-forecast workflow 的完成时间
+          LAST_RUN=$(gh api repos/${{ github.repository }}/actions/workflows/daily-forecast.yml/runs \
+            --jq '.workflow_runs[0] | {conclusion: .conclusion, created_at: .created_at, status: .status}')
+
+          CONCLUSION=$(echo "$LAST_RUN" | jq -r '.conclusion // "none"')
+          CREATED_AT=$(echo "$LAST_RUN" | jq -r '.created_at')
+          STATUS=$(echo "$LAST_RUN" | jq -r '.status')
+
+          echo "→ 上次 Daily Forecast: $CREATED_AT ($STATUS, $CONCLUSION)"
+
+          # 计算距今分钟数
+          CREATED_TS=$(date -d "$CREATED_AT" +%s)
+          NOW_TS=$(date +%s)
+          ELAPSED_MIN=$(( (NOW_TS - CREATED_TS) / 60 ))
+
+          echo "→ 距今 ${ELAPSED_MIN} 分钟"
+
+          if [ "$STATUS" = "in_progress" ]; then
+            echo "→ Daily Forecast 正在运行中，跳过"
+            exit 0
+          fi
+
+          if [ "$ELAPSED_MIN" -gt 60 ]; then
+            echo "→ 超过60分钟未运行，触发 Daily Forecast..."
+            # 用 gh api 触发，不需要 git checkout
+            gh api repos/${{ github.repository }}/actions/workflows/daily-forecast.yml/dispatches \
+              -X POST \
+              -f ref=main
+            echo "::notice::已自动触发 Daily Forecast（上次运行于 ${ELAPSED_MIN} 分钟前）"
+          else
+            echo "→ 正常运行中，无需触发"
+          fi

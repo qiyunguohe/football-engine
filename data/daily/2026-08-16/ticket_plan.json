@@ -1,0 +1,285 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [
+    {
+      "match": "2026-08-16_周日026",
+      "sel": "draw",
+      "odds": 3.52,
+      "stake": 50.0,
+      "prob": 0.358
+    }
+  ],
+  "total_stake": 50.0,
+  "expected_roi": 0.2616,
+  "bankroll": 4286.390600000001,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-16_周日025",
+          "home": "达伽马",
+          "away": "桑托斯",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.4,
+          "prob": 0.397,
+          "cal_prob": 0.442,
+          "market_prob": 0.26,
+          "source": "fusion",
+          "hit_prob": 0.442
+        },
+        {
+          "match": "2026-08-16_周日023",
+          "home": "阿罗卡",
+          "away": "摩雷伦斯",
+          "league": "葡超",
+          "sel": "draw",
+          "odds": 3.0,
+          "prob": 0.385,
+          "cal_prob": 0.442,
+          "market_prob": 0.295,
+          "source": "fusion",
+          "hit_prob": 0.442
+        }
+      ],
+      "total_odds": 10.2,
+      "model_ev": 1.12,
+      "cal_ev": 6.37,
+      "cal_roi": 0.9891,
+      "market_ev": -0.43,
+      "market_roi": -0.2157,
+      "hit_prob_cal": 0.195,
+      "recommended": true,
+      "stake": 6.44,
+      "n_bets": 1,
+      "potential": 65.69,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-16_周日022",
+          "home": "西班牙人",
+          "away": "莱万特",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 1.97,
+          "prob": 0.469,
+          "cal_prob": 0.537,
+          "market_prob": 0.449,
+          "source": "fusion",
+          "hit_prob": 0.537
+        },
+        {
+          "match": "2026-08-16_周日025",
+          "home": "达伽马",
+          "away": "桑托斯",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.4,
+          "prob": 0.397,
+          "cal_prob": 0.442,
+          "market_prob": 0.26,
+          "source": "fusion",
+          "hit_prob": 0.442
+        }
+      ],
+      "total_odds": 6.7,
+      "model_ev": 0.49,
+      "cal_ev": 3.63,
+      "cal_roi": 0.5872,
+      "market_ev": -0.43,
+      "market_roi": -0.216,
+      "hit_prob_cal": 0.237,
+      "recommended": true,
+      "stake": 6.18,
+      "n_bets": 1,
+      "potential": 41.39,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-16_周日022",
+          "home": "西班牙人",
+          "away": "莱万特",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 1.97,
+          "prob": 0.469,
+          "cal_prob": 0.537,
+          "market_prob": 0.449,
+          "source": "fusion",
+          "hit_prob": 0.537
+        },
+        {
+          "match": "2026-08-16_周日023",
+          "home": "阿罗卡",
+          "away": "摩雷伦斯",
+          "league": "葡超",
+          "sel": "draw",
+          "odds": 3.0,
+          "prob": 0.385,
+          "cal_prob": 0.442,
+          "market_prob": 0.295,
+          "source": "fusion",
+          "hit_prob": 0.442
+        }
+      ],
+      "total_odds": 5.91,
+      "model_ev": 0.14,
+      "cal_ev": 1.96,
+      "cal_roi": 0.4004,
+      "market_ev": -0.43,
+      "market_roi": -0.2158,
+      "hit_prob_cal": 0.237,
+      "recommended": true,
+      "stake": 4.89,
+      "n_bets": 1,
+      "potential": 28.9,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串1",
+      "legs": [
+        {
+          "match": "2026-08-16_周日022",
+          "home": "西班牙人",
+          "away": "莱万特",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 1.97,
+          "prob": 0.469,
+          "cal_prob": 0.537,
+          "market_prob": 0.449,
+          "source": "fusion",
+          "hit_prob": 0.537
+        },
+        {
+          "match": "2026-08-16_周日025",
+          "home": "达伽马",
+          "away": "桑托斯",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.4,
+          "prob": 0.397,
+          "cal_prob": 0.442,
+          "market_prob": 0.26,
+          "source": "fusion",
+          "hit_prob": 0.442
+        },
+        {
+          "match": "2026-08-16_周日023",
+          "home": "阿罗卡",
+          "away": "摩雷伦斯",
+          "league": "葡超",
+          "sel": "draw",
+          "odds": 3.0,
+          "prob": 0.385,
+          "cal_prob": 0.442,
+          "market_prob": 0.295,
+          "source": "fusion",
+          "hit_prob": 0.442
+        }
+      ],
+      "total_odds": 20.09,
+      "model_ev": 0.88,
+      "cal_ev": 3.82,
+      "cal_roi": 1.1027,
+      "market_ev": -0.61,
+      "market_roi": -0.3056,
+      "hit_prob_cal": 0.105,
+      "recommended": true,
+      "stake": 3.46,
+      "n_bets": 1,
+      "potential": 69.53,
+      "worst_win": 0.0,
+      "note": "三场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串4",
+      "legs": [
+        {
+          "match": "2026-08-16_周日022",
+          "home": "西班牙人",
+          "away": "莱万特",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 1.97,
+          "prob": 0.469,
+          "cal_prob": 0.537,
+          "market_prob": 0.449,
+          "source": "fusion",
+          "hit_prob": 0.537
+        },
+        {
+          "match": "2026-08-16_周日025",
+          "home": "达伽马",
+          "away": "桑托斯",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.4,
+          "prob": 0.397,
+          "cal_prob": 0.442,
+          "market_prob": 0.26,
+          "source": "fusion",
+          "hit_prob": 0.442
+        },
+        {
+          "match": "2026-08-16_周日023",
+          "home": "阿罗卡",
+          "away": "摩雷伦斯",
+          "league": "葡超",
+          "sel": "draw",
+          "odds": 3.0,
+          "prob": 0.385,
+          "cal_prob": 0.442,
+          "market_prob": 0.295,
+          "source": "fusion",
+          "hit_prob": 0.442
+        }
+      ],
+      "total_odds": 10.73,
+      "model_ev": null,
+      "cal_ev": 3.66,
+      "cal_roi": 0.7699,
+      "market_ev": -1.91,
+      "market_roi": -0.2383,
+      "hit_prob_cal": 0.105,
+      "recommended": true,
+      "stake": 4.75,
+      "n_bets": 4,
+      "potential": 50.95,
+      "worst_win": 11.82,
+      "note": "容错：错 1 场仍中 1 注 2串1（回 ¥12），全中 ¥86",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [],
+  "parlay_calibration": {
+    "overall": 0.4622,
+    "n": 251,
+    "table": {
+      "0.35": 0.4416,
+      "0.4": 0.5075,
+      "0.45": 0.5366,
+      "0.5": 0.4211,
+      "0.55": 0.3,
+      "0.6": 0.4545,
+      "0.7": 0.5
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}

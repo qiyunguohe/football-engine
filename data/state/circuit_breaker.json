@@ -1,0 +1,1414 @@
+{
+  "current_streak": 1,
+  "total_losses": 334,
+  "total_wins": 349,
+  "halted": false,
+  "halt_date": "",
+  "tier": 0,
+  "daily_pnl": -9.81199999999999,
+  "daily_date": "2026-08-25",
+  "weekly_pnl": -126.58149999999998,
+  "weekly_start": "2026-08-24",
+  "history": [
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": false,
+      "pnl": -150.0,
+      "streak": -1,
+      "bankroll": 4836.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-10",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-11",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-12",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-12",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": -150.0,
+      "streak": -2,
+      "bankroll": 4686.39
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4536.39
+    },
+    {
+      "date": "2026-08-13",
+      "won": true,
+      "pnl": -87.21,
+      "streak": 1,
+      "bankroll": 4536.39
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4449.18
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4449.18
+    },
+    {
+      "date": "2026-08-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4449.18
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": -62.79,
+      "streak": -4,
+      "bankroll": 4449.18
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -5,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": -25.0,
+      "streak": 3,
+      "bankroll": 4386.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": -25.0,
+      "streak": -1,
+      "bankroll": 4361.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-14",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": -50.0,
+      "streak": -2,
+      "bankroll": 4336.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -4,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-15",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-16",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -4,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": -50.0,
+      "streak": -2,
+      "bankroll": 4286.39
+    },
+    {
+      "date": "2026-08-17",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -4,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-18",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-19",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-19",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-19",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -4,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-19",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -5,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -6,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-20",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-21",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": false,
+      "pnl": 77.5,
+      "streak": -2,
+      "bankroll": 4236.39
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-22",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-22",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 7,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 8,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 9,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": -81.38,
+      "streak": -1,
+      "bankroll": 4313.89
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4232.51
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4232.51
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": -45.58,
+      "streak": -2,
+      "bankroll": 4232.51
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4186.93
+    },
+    {
+      "date": "2026-08-23",
+      "won": false,
+      "pnl": -23.05,
+      "streak": -1,
+      "bankroll": 4186.93
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-23",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 7,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 2,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 7,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 17.02,
+      "streak": 2,
+      "bankroll": 4163.88
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 3,
+      "bankroll": 4180.9
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 4,
+      "bankroll": 4180.9
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 5,
+      "bankroll": 4180.9
+    },
+    {
+      "date": "2026-08-24",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 6,
+      "bankroll": 4180.9
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": -133.79,
+      "streak": -1,
+      "bankroll": 4180.9
+    },
+    {
+      "date": "2026-08-24",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 4047.11
+    },
+    {
+      "date": "2026-08-25",
+      "won": false,
+      "pnl": -50.0,
+      "streak": -3,
+      "bankroll": 4047.11
+    },
+    {
+      "date": "2026-08-25",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 3997.11
+    },
+    {
+      "date": "2026-08-25",
+      "won": true,
+      "pnl": 40.19,
+      "streak": 2,
+      "bankroll": 3997.11
+    },
+    {
+      "date": "2026-08-25",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 4037.3
+    },
+    {
+      "date": "2026-08-25",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 4037.3
+    }
+  ]
+}

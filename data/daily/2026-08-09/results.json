@@ -1,0 +1,284 @@
+[
+  {
+    "match_id": "2026-08-09_周日001",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "东京绿茵",
+    "away_team": "川崎前锋",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日002",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "长崎成功丸",
+    "away_team": "京都不死鸟",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日003",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "山形山神",
+    "away_team": "枥木市FC",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日004",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "鹿特丹",
+    "away_team": "费耶诺德",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日005",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "圣保利",
+    "away_team": "菲尔特",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日006",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "纽伦堡",
+    "away_team": "德累斯顿",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日007",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "哈马比",
+    "away_team": "赫根",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日008",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "库奥皮奥",
+    "away_team": "TPS图尔库",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日009",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "兹沃勒",
+    "away_team": "阿贾克斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日010",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "格罗宁根",
+    "away_team": "乌德勒支",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日011",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "利勒斯",
+    "away_team": "罗森博格",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日012",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "国际图尔库",
+    "away_team": "拉赫蒂",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日013",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "哈尔姆",
+    "away_team": "哥德堡盖斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日014",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "哥德堡",
+    "away_team": "卡尔马",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日015",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "海伦芬",
+    "away_team": "特温特",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日016",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "汉坎",
+    "away_team": "奥勒松",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日017",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "奥卢",
+    "away_team": "赫尔辛基",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日018",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "波尔图",
+    "away_team": "艾华卡",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日019",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "克里斯蒂",
+    "away_team": "莫尔德",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日020",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "本菲卡",
+    "away_team": "维塞乌",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日021",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "吉尔维森特",
+    "away_team": "里奥阿维",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-08-09_周日022",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "莫雷拉人",
+    "away_team": "布拉加",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-08-09_周日023",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "桑托斯",
+    "away_team": "巴拉纳竞技",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "2026-08-09_周日024",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "弗拉门戈",
+    "away_team": "维多利亚",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周日002",
+    "home_team": "长崎航海",
+    "away_team": "京都",
+    "home_score": 2,
+    "away_score": 1,
+    "competition": "日职联",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周日004",
+    "home_team": "鹿斯巴达",
+    "away_team": "费耶诺德",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "荷甲",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周日013",
+    "home_team": "哈尔姆斯",
+    "away_team": "盖斯",
+    "home_score": 0,
+    "away_score": 2,
+    "competition": "瑞典超",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周日017",
+    "home_team": "AC奥卢",
+    "away_team": "赫尔辛基",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "芬超",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周日021",
+    "home_team": "吉维森特",
+    "away_team": "里奥阿维",
+    "home_score": 1,
+    "away_score": 0,
+    "competition": "葡超",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周日022",
+    "home_team": "摩雷伦斯",
+    "away_team": "布拉加",
+    "home_score": 2,
+    "away_score": 2,
+    "competition": "葡超",
+    "match_date": "2026-08-09",
+    "match_no": "",
+    "status": "完赛"
+  }
+]

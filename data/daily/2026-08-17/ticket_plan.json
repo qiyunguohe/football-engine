@@ -1,0 +1,71 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 4236.390600000001,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-08-17_周一004",
+          "home": "拉科",
+          "away": "埃尔切",
+          "league": "西甲",
+          "sel": "home",
+          "odds": 1.98,
+          "prob": 0.459,
+          "cal_prob": 0.54,
+          "market_prob": 0.448,
+          "source": "fusion",
+          "hit_prob": 0.54
+        },
+        {
+          "match": "2026-08-17_周一006",
+          "home": "巴西国际",
+          "away": "雷莫",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.95,
+          "prob": 0.369,
+          "cal_prob": 0.402,
+          "market_prob": 0.224,
+          "source": "fusion",
+          "hit_prob": 0.402
+        }
+      ],
+      "total_odds": 7.82,
+      "model_ev": 0.65,
+      "cal_ev": 10.66,
+      "cal_roi": 0.699,
+      "market_ev": -0.43,
+      "market_roi": -0.2146,
+      "hit_prob_cal": 0.217,
+      "recommended": true,
+      "stake": 15.25,
+      "n_bets": 1,
+      "potential": 119.27,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [],
+  "parlay_calibration": {
+    "overall": 0.4496,
+    "n": 278,
+    "table": {
+      "0.35": 0.4023,
+      "0.4": 0.5,
+      "0.45": 0.54,
+      "0.5": 0.4,
+      "0.55": 0.3,
+      "0.6": 0.5,
+      "0.7": 0.5
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
