@@ -1352,10 +1352,10 @@
     "rest_days": 3
   },
   "朗斯": {
-    "elo": 1829.7,
-    "attack": 1.5629,
-    "defense": 0.8643,
-    "form": 0.6641,
+    "elo": 1806.1,
+    "attack": 1.4457,
+    "defense": 0.8504,
+    "form": 0.1649,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1558.6,
-    "attack": 0.811,
-    "defense": 1.0531,
-    "form": -0.1416,
+    "elo": 1588.1,
+    "attack": 0.9079,
+    "defense": 1.0208,
+    "form": 0.2009,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3576,10 +3576,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1586.4,
-    "attack": 1.0814,
-    "defense": 1.0937,
-    "form": -0.0941,
+    "elo": 1610.0,
+    "attack": 1.0463,
+    "defense": 1.0222,
+    "form": 0.2341,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1519.4,
-    "attack": 0.9377,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1489.9,
+    "attack": 0.9166,
+    "defense": 0.9904,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
