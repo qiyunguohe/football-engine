@@ -2408,10 +2408,10 @@
     "rest_days": 3
   },
   "帕尔马": {
-    "elo": 1516.1,
-    "attack": 0.5615,
-    "defense": 0.8671,
-    "form": -0.342,
+    "elo": 1492.9,
+    "attack": 0.5068,
+    "defense": 0.8529,
+    "form": -0.5394,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1519.0,
-    "attack": 0.9377,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1542.2,
+    "attack": 0.9166,
+    "defense": 0.8145,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
