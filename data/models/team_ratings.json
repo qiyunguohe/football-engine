@@ -2032,10 +2032,10 @@
     "rest_days": 3
   },
   "奥格斯堡": {
-    "elo": 1552.6,
-    "attack": 0.9734,
-    "defense": 1.2421,
-    "form": 0.0933,
+    "elo": 1580.6,
+    "attack": 0.984,
+    "defense": 1.121,
+    "form": 0.3653,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4600,10 +4600,10 @@
     "rest_days": 3
   },
   "曼联": {
-    "elo": 1810.8,
-    "attack": 1.3366,
-    "defense": 0.9107,
-    "form": -0.1783,
+    "elo": 1820.3,
+    "attack": 1.3822,
+    "defense": 0.8923,
+    "form": 0.1752,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10320,10 +10320,10 @@
     "rest_days": 3
   },
   "伊普斯维奇": {
-    "elo": 1520.9,
-    "attack": 0.9729,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1511.4,
+    "attack": 0.9484,
+    "defense": 1.0222,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10539,6 +10539,14 @@
     "elo": 1485.5,
     "attack": 0.9377,
     "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "沙尔克": {
+    "elo": 1472.0,
+    "attack": 0.9025,
+    "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3

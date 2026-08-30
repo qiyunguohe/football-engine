@@ -133,5 +133,23 @@
     "away_team": "马拉加",
     "half_home_score": 3,
     "half_away_score": 0
+  },
+  {
+    "match_id": "3755003",
+    "home_score": 5,
+    "away_score": 2,
+    "home_team": "曼联",
+    "away_team": "伊普斯维奇",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3763483",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "奥格斯堡",
+    "away_team": "沙尔克",
+    "half_home_score": 1,
+    "half_away_score": 0
   }
 ]
