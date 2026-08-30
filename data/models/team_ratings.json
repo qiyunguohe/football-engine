@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1694.6,
-    "attack": 0.551,
-    "defense": 0.317,
-    "form": 0.3015,
+    "elo": 1732.5,
+    "attack": 0.6028,
+    "defense": 0.2861,
+    "form": 0.5111,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -392,10 +392,10 @@
     "rest_days": 3
   },
   "博塔弗戈": {
-    "elo": 1729.0,
-    "attack": 0.3755,
-    "defense": 0.2015,
-    "form": 0.6179,
+    "elo": 1691.1,
+    "attack": 0.3389,
+    "defense": 0.2874,
+    "form": 0.1325,
     "injury": 0.0,
     "rest_days": 3
   },
