@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1756.0,
-    "attack": 1.1586,
-    "defense": 0.5109,
-    "form": 0.4866,
+    "elo": 1780.1,
+    "attack": 1.1864,
+    "defense": 0.4611,
+    "form": 0.6406,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4760,10 +4760,10 @@
     "rest_days": 3
   },
   "特尔斯达": {
-    "elo": 1472.3,
-    "attack": 1.0482,
-    "defense": 1.0615,
-    "form": 0.1592,
+    "elo": 1448.2,
+    "attack": 0.946,
+    "defense": 1.0987,
+    "form": -0.1886,
     "injury": 0.0,
     "rest_days": 3
   },

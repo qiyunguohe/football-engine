@@ -273,5 +273,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3748408",
+    "match_no": "周日012",
+    "home_team": "特尔斯达",
+    "away_team": "阿贾克斯",
+    "home_score": 0,
+    "away_score": 4,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "荷甲",
+    "match_time": "2026-08-30 22:45:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 5.15,
+    "odds_draw": 4.55,
+    "odds_away": 1.4,
+    "corner_home": "5",
+    "corner_away": "4",
+    "yellow_home": "0",
+    "yellow_away": "0",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
