@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1834.8,
-    "attack": 1.205,
-    "defense": 0.6401,
-    "form": 0.4559,
+    "elo": 1851.7,
+    "attack": 1.1579,
+    "defense": 0.6129,
+    "form": 0.6191,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1788.5,
-    "attack": 1.0783,
-    "defense": 0.6551,
-    "form": 0.6154,
+    "elo": 1771.6,
+    "attack": 1.0084,
+    "defense": 0.6616,
+    "form": 0.1308,
     "injury": 0.0,
     "rest_days": 3
   },
