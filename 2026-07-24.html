@@ -1366,20 +1366,20 @@ body {
   </div>
   <div style="overflow-x:auto"><table class="edge-table">
     <tr><th>时点</th><th>场次</th><th>Brier</th><th>命中率</th><th>总EV</th></tr>
-    <tr><td>开赛前24小时</td><td>0</td><td>0.0000</td><td>0.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前6小时</td><td>8</td><td>0.5575</td><td>50.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前90分钟</td><td>40</td><td>0.6241</td><td>52.5%</td><td style="color:var(--red);font-weight:700">-122.51u</td></tr><tr><td>收盘市场</td><td>43</td><td>0.5501</td><td>69.8%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr>
+    <tr><td>开赛前24小时</td><td>2</td><td>0.3340</td><td>100.0%</td><td style="color:var(--dim);font-weight:700">+0.00u</td></tr><tr><td>开赛前6小时</td><td>11</td><td>0.6103</td><td>36.4%</td><td style="color:var(--red);font-weight:700">-133.79u</td></tr><tr><td>开赛前90分钟</td><td>54</td><td>0.5820</td><td>61.1%</td><td style="color:var(--red);font-weight:700">-65.30u</td></tr><tr><td>收盘市场</td><td>45</td><td>0.5555</td><td>68.9%</td><td style="color:var(--red);font-weight:700">-50.00u</td></tr>
   </table></div>
 
   <div class="section-title">Dixon-Coles 分层收缩挑战者（vs 生产模型）</div>
   <div style="padding:6px 2px;font-size:0.68rem;color:var(--dim)">
-    滚动拟合（只用评估日之前历史，防泄漏）对比 Brier，n=323 场。
+    滚动拟合（只用评估日之前历史，防泄漏）对比 Brier，n=344 场。
     Verdict: <b style="color:var(--amber)">hold</b> —— 只做 challenger 跟踪，不上位。
   </div>
   <div style="overflow-x:auto"><table class="edge-table">
     <tr><th>模型</th><th>Brier</th></tr>
-    <tr><td>shrinkage_dc（挑战者）</td><td style="font-weight:700">0.7126</td></tr>
-    <tr><td>生产 final（现役）</td><td style="font-weight:700">0.6277</td></tr>
-    <tr><td>模型原始（未融合）</td><td style="font-weight:700">0.6582</td></tr>
-    <tr><td>市场基准（去水）</td><td style="font-weight:700">0.6037</td></tr>
+    <tr><td>shrinkage_dc（挑战者）</td><td style="font-weight:700">0.7140</td></tr>
+    <tr><td>生产 final（现役）</td><td style="font-weight:700">0.6206</td></tr>
+    <tr><td>模型原始（未融合）</td><td style="font-weight:700">0.6527</td></tr>
+    <tr><td>市场基准（去水）</td><td style="font-weight:700">0.5930</td></tr>
   </table></div>
       </div>
     </details>
