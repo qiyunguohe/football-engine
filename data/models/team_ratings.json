@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1666.9,
-    "attack": 0.9053,
-    "defense": 0.9164,
-    "form": 0.3918,
+    "elo": 1629.5,
+    "attack": 0.8522,
+    "defense": 0.9326,
+    "form": -0.0257,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1495.3,
-    "attack": 0.8815,
-    "defense": 0.8815,
-    "form": 0.0,
+    "elo": 1532.7,
+    "attack": 0.9011,
+    "defense": 0.8307,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
