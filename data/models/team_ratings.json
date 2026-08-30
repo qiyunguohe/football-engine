@@ -1088,10 +1088,10 @@
     "rest_days": 3
   },
   "摩纳哥": {
-    "elo": 1673.7,
-    "attack": 1.1949,
-    "defense": 1.1346,
-    "form": 0.0809,
+    "elo": 1698.0,
+    "attack": 1.1488,
+    "defense": 1.024,
+    "form": 0.3566,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1368,10 +1368,10 @@
     "rest_days": 3
   },
   "马赛": {
-    "elo": 1683.7,
-    "attack": 1.2319,
-    "defense": 0.9903,
-    "form": 0.5182,
+    "elo": 1659.4,
+    "attack": 1.1118,
+    "defense": 0.9641,
+    "form": 0.0627,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2352,10 +2352,10 @@
     "rest_days": 3
   },
   "卡利亚里": {
-    "elo": 1535.1,
-    "attack": 0.7595,
-    "defense": 0.9729,
-    "form": 0.5448,
+    "elo": 1515.3,
+    "attack": 0.6854,
+    "defense": 0.9132,
+    "form": 0.0814,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2384,18 +2384,18 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1687.6,
-    "attack": 0.7752,
-    "defense": 0.8095,
-    "form": 0.2567,
+    "elo": 1695.2,
+    "attack": 0.7348,
+    "defense": 0.7306,
+    "form": 0.4797,
     "injury": 0.0,
     "rest_days": 3
   },
   "热那亚": {
-    "elo": 1548.5,
-    "attack": 0.7036,
-    "defense": 0.9024,
-    "form": -0.6603,
+    "elo": 1540.9,
+    "attack": 0.635,
+    "defense": 0.8496,
+    "form": -0.7622,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1516.4,
-    "attack": 1.0432,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1536.2,
+    "attack": 0.9767,
+    "defense": 0.8463,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
