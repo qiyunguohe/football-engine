@@ -448,5 +448,30 @@
     "red_home": "1",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3748409",
+    "match_no": "周日018",
+    "home_team": "坎布尔",
+    "away_team": "特温特",
+    "home_score": 1,
+    "away_score": 4,
+    "half_home_score": 0,
+    "half_away_score": 2,
+    "league": "荷甲",
+    "match_time": "2026-08-31 02:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 8.75,
+    "odds_draw": 5.5,
+    "odds_away": 1.2,
+    "corner_home": "2",
+    "corner_away": "9",
+    "yellow_home": "1",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

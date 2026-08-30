@@ -169,5 +169,14 @@
     "away_team": "巴伦西亚",
     "half_home_score": 2,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3748409",
+    "home_score": 1,
+    "away_score": 4,
+    "home_team": "坎布尔",
+    "away_team": "特温特",
+    "half_home_score": 0,
+    "half_away_score": 2
   }
 ]

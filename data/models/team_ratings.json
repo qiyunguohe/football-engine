@@ -1280,18 +1280,18 @@
     "rest_days": 3
   },
   "坎布尔": {
-    "elo": 1246.4,
-    "attack": 0.8109,
-    "defense": 1.5631,
-    "form": -0.8283,
+    "elo": 1231.5,
+    "attack": 0.767,
+    "defense": 1.5514,
+    "form": -0.8798,
     "injury": 0.0,
     "rest_days": 3
   },
   "特温特": {
-    "elo": 1576.4,
-    "attack": 0.815,
-    "defense": 0.664,
-    "form": 0.2366,
+    "elo": 1591.3,
+    "attack": 0.8763,
+    "defense": 0.6344,
+    "form": 0.4656,
     "injury": 0.0,
     "rest_days": 3
   },
