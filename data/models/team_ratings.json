@@ -1416,10 +1416,10 @@
     "rest_days": 3
   },
   "圣埃蒂安": {
-    "elo": 1482.5,
-    "attack": 0.8784,
-    "defense": 1.2954,
-    "form": 0.2739,
+    "elo": 1491.5,
+    "attack": 0.8983,
+    "defense": 1.2395,
+    "form": 0.4917,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1749.4,
-    "attack": 1.0199,
-    "defense": 0.884,
-    "form": 0.2003,
+    "elo": 1757.5,
+    "attack": 0.9556,
+    "defense": 0.7978,
+    "form": 0.4402,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1626.6,
-    "attack": 0.8433,
-    "defense": 0.9529,
-    "form": -0.1485,
+    "elo": 1618.5,
+    "attack": 0.7611,
+    "defense": 0.8952,
+    "form": -0.4039,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5208,10 +5208,10 @@
     "rest_days": 3
   },
   "第戎": {
-    "elo": 1255.0,
-    "attack": 0.5161,
-    "defense": 1.4233,
-    "form": -0.2083,
+    "elo": 1246.0,
+    "attack": 0.5362,
+    "defense": 1.3901,
+    "form": -0.4458,
     "injury": 0.0,
     "rest_days": 3
   },
