@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1821.0,
-    "attack": 1.3432,
-    "defense": 0.7623,
-    "form": 0.8462,
+    "elo": 1845.0,
+    "attack": 1.353,
+    "defense": 0.688,
+    "form": 0.8923,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1616,10 +1616,10 @@
     "rest_days": 3
   },
   "莱切": {
-    "elo": 1536.5,
-    "attack": 0.6014,
-    "defense": 0.8696,
-    "form": 0.5636,
+    "elo": 1512.5,
+    "attack": 0.5428,
+    "defense": 0.9256,
+    "form": 0.0945,
     "injury": 0.0,
     "rest_days": 3
   },

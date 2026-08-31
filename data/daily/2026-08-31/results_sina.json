@@ -48,5 +48,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3744971",
+    "match_no": "周一003",
+    "home_team": "莱切",
+    "away_team": "罗马",
+    "home_score": 0,
+    "away_score": 4,
+    "half_home_score": 0,
+    "half_away_score": 3,
+    "league": "意甲",
+    "match_time": "2026-09-01 00:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 7.2,
+    "odds_draw": 4.1,
+    "odds_away": 1.34,
+    "corner_home": "2",
+    "corner_away": "1",
+    "yellow_home": "1",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
