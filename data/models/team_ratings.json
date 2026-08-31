@@ -6648,18 +6648,18 @@
     "rest_days": 3
   },
   "国际图尔库": {
-    "elo": 1648.5,
-    "attack": 0.6827,
-    "defense": 0.3769,
-    "form": 0.6291,
+    "elo": 1656.6,
+    "attack": 0.6513,
+    "defense": 0.3402,
+    "form": 0.7404,
     "injury": 0.0,
     "rest_days": 3
   },
   "TPS图尔库": {
-    "elo": 1557.8,
-    "attack": 0.9584,
-    "defense": 0.802,
-    "form": 0.447,
+    "elo": 1564.6,
+    "attack": 0.9001,
+    "defense": 0.759,
+    "form": 0.3129,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6752,10 +6752,10 @@
     "rest_days": 3
   },
   "库奥皮奥": {
-    "elo": 1525.5,
-    "attack": 0.63,
-    "defense": 0.5178,
-    "form": -0.2128,
+    "elo": 1517.4,
+    "attack": 0.5686,
+    "defense": 0.5025,
+    "form": -0.449,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7992,10 +7992,10 @@
     "rest_days": 3
   },
   "赫尔辛基火花": {
-    "elo": 1649.7,
-    "attack": 0.7909,
-    "defense": 0.5803,
-    "form": 0.6438,
+    "elo": 1642.9,
+    "attack": 0.749,
+    "defense": 0.5589,
+    "form": 0.4507,
     "injury": 0.0,
     "rest_days": 3
   },
