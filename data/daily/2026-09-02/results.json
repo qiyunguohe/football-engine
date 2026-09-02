@@ -61,5 +61,14 @@
     "away_team": "弗罗西诺内",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3828523",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "乌迪内斯",
+    "away_team": "威尼斯",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

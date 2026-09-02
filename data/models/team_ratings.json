@@ -2360,10 +2360,10 @@
     "rest_days": 3
   },
   "乌迪内斯": {
-    "elo": 1663.3,
-    "attack": 0.8483,
-    "defense": 0.795,
-    "form": 0.167,
+    "elo": 1667.4,
+    "attack": 0.836,
+    "defense": 0.7527,
+    "form": 0.4169,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5936,10 +5936,10 @@
     "rest_days": 3
   },
   "威尼斯": {
-    "elo": 1394.0,
-    "attack": 0.5084,
-    "defense": 1.0971,
-    "form": -0.7588,
+    "elo": 1389.9,
+    "attack": 0.494,
+    "defense": 1.0605,
+    "form": -0.8312,
     "injury": 0.0,
     "rest_days": 3
   },
