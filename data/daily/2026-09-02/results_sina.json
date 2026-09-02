@@ -248,5 +248,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3760557",
+    "match_no": "周三011",
+    "home_team": "伯恩利",
+    "away_team": "米德尔斯堡",
+    "home_score": 1,
+    "away_score": 1,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "英冠",
+    "match_time": "2026-09-03 03:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 2.73,
+    "odds_draw": 3.35,
+    "odds_away": 2.15,
+    "corner_home": "5",
+    "corner_away": "1",
+    "yellow_home": "2",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

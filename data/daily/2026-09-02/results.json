@@ -106,5 +106,14 @@
     "away_team": "拜仁慕尼黑",
     "half_home_score": 1,
     "half_away_score": 2
+  },
+  {
+    "match_id": "3760557",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "伯恩利",
+    "away_team": "米德尔斯堡",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]
