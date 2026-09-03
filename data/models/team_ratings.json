@@ -1376,10 +1376,10 @@
     "rest_days": 3
   },
   "里尔": {
-    "elo": 1713.9,
-    "attack": 0.8617,
-    "defense": 0.6525,
-    "form": 0.187,
+    "elo": 1725.9,
+    "attack": 0.8129,
+    "defense": 0.5889,
+    "form": 0.4309,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1424,10 +1424,10 @@
     "rest_days": 3
   },
   "图卢兹": {
-    "elo": 1559.2,
-    "attack": 0.8843,
-    "defense": 1.0665,
-    "form": -0.1672,
+    "elo": 1547.2,
+    "attack": 0.7981,
+    "defense": 0.9977,
+    "form": -0.417,
     "injury": 0.0,
     "rest_days": 3
   },
