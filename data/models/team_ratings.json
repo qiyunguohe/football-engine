@@ -5720,10 +5720,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1697.7,
-    "attack": 1.038,
-    "defense": 0.2758,
-    "form": 0.4849,
+    "elo": 1707.3,
+    "attack": 1.0072,
+    "defense": 0.2489,
+    "form": 0.6394,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7968,10 +7968,10 @@
     "rest_days": 3
   },
   "米亚尔比": {
-    "elo": 1352.3,
-    "attack": 0.4356,
-    "defense": 0.8598,
-    "form": -0.7894,
+    "elo": 1342.7,
+    "attack": 0.3931,
+    "defense": 0.8463,
+    "form": -0.8526,
     "injury": 0.0,
     "rest_days": 3
   },
