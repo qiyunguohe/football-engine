@@ -169,5 +169,16 @@
     "away_team": "米堡",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周三013",
+    "home_team": "桑托斯",
+    "away_team": "帕梅拉斯",
+    "home_score": 0,
+    "away_score": 0,
+    "competition": "巴西杯",
+    "match_date": "2026-09-02",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
