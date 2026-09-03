@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1613.1,
-    "attack": 1.0048,
-    "defense": 1.0879,
-    "form": -0.1616,
+    "elo": 1605.0,
+    "attack": 0.9068,
+    "defense": 0.9818,
+    "form": -0.1131,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1485.3,
-    "attack": 0.8145,
-    "defense": 0.8849,
-    "form": -0.3,
+    "elo": 1493.4,
+    "attack": 0.7351,
+    "defense": 0.7986,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
