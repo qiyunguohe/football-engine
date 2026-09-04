@@ -1392,10 +1392,10 @@
     "rest_days": 3
   },
   "里昂": {
-    "elo": 1678.8,
-    "attack": 0.8895,
-    "defense": 0.7115,
-    "form": -0.1307,
+    "elo": 1695.8,
+    "attack": 0.9083,
+    "defense": 0.6773,
+    "form": 0.2085,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3568,10 +3568,10 @@
     "rest_days": 3
   },
   "欧塞尔": {
-    "elo": 1592.7,
-    "attack": 0.8876,
-    "defense": 1.0134,
-    "form": 0.0891,
+    "elo": 1575.7,
+    "attack": 0.8362,
+    "defense": 1.0201,
+    "form": -0.2376,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6096,10 +6096,10 @@
     "rest_days": 3
   },
   "博德闪耀": {
-    "elo": 1942.5,
-    "attack": 1.0999,
-    "defense": 0.3339,
-    "form": 0.7809,
+    "elo": 1944.7,
+    "attack": 1.063,
+    "defense": 0.3365,
+    "form": 0.8466,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6536,10 +6536,10 @@
     "rest_days": 3
   },
   "腓特烈斯塔": {
-    "elo": 1421.4,
-    "attack": 0.5833,
-    "defense": 0.8448,
-    "form": 0.3964,
+    "elo": 1419.2,
+    "attack": 0.5616,
+    "defense": 0.8328,
+    "form": -0.0225,
     "injury": 0.0,
     "rest_days": 3
   },
