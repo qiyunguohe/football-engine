@@ -10624,10 +10624,18 @@
     "rest_days": 3
   },
   "迪里耶": {
-    "elo": 1469.7,
-    "attack": 0.9025,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1438.0,
+    "attack": 0.8145,
+    "defense": 0.9484,
+    "form": -0.51,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "胡巴卡德": {
+    "elo": 1531.7,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
