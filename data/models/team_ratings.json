@@ -2040,10 +2040,10 @@
     "rest_days": 3
   },
   "汉诺威96": {
-    "elo": 1440.0,
-    "attack": 0.7678,
-    "defense": 1.3657,
-    "form": -0.4892,
+    "elo": 1437.5,
+    "attack": 0.7633,
+    "defense": 1.3029,
+    "form": -0.3424,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10496,10 +10496,10 @@
     "rest_days": 3
   },
   "卡尔斯鲁厄": {
-    "elo": 1450.6,
-    "attack": 0.9729,
-    "defense": 1.0784,
-    "form": -0.3,
+    "elo": 1453.1,
+    "attack": 0.9484,
+    "defense": 1.0436,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },

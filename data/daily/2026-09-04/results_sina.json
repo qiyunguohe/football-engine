@@ -1,0 +1,27 @@
+[
+  {
+    "match_id": "3763884",
+    "match_no": "周五001",
+    "home_team": "汉诺威96",
+    "away_team": "卡尔斯鲁厄",
+    "home_score": 2,
+    "away_score": 2,
+    "half_home_score": 2,
+    "half_away_score": 1,
+    "league": "德乙",
+    "match_time": "2026-09-05 00:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.35,
+    "odds_draw": 4.7,
+    "odds_away": 5.7,
+    "corner_home": "1",
+    "corner_away": "5",
+    "yellow_home": "4",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
+  }
+]
