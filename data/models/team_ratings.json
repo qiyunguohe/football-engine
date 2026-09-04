@@ -1528,10 +1528,10 @@
     "rest_days": 3
   },
   "斯图加特": {
-    "elo": 1728.2,
-    "attack": 1.2386,
-    "defense": 1.2401,
-    "form": -0.5943,
+    "elo": 1741.8,
+    "attack": 1.2586,
+    "defense": 1.1544,
+    "form": -0.116,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1851.7,
-    "attack": 1.1579,
-    "defense": 0.6129,
-    "form": 0.6191,
+    "elo": 1868.0,
+    "attack": 1.1857,
+    "defense": 0.5883,
+    "form": 0.7334,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2056,10 +2056,10 @@
     "rest_days": 3
   },
   "科隆": {
-    "elo": 1509.1,
-    "attack": 1.0162,
-    "defense": 1.4008,
-    "form": -0.1129,
+    "elo": 1495.5,
+    "attack": 0.9523,
+    "defense": 1.405,
+    "form": -0.379,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2392,10 +2392,10 @@
     "rest_days": 3
   },
   "热那亚": {
-    "elo": 1540.9,
-    "attack": 0.635,
-    "defense": 0.8496,
-    "form": -0.7622,
+    "elo": 1524.6,
+    "attack": 0.6083,
+    "defense": 0.9075,
+    "form": -0.8335,
     "injury": 0.0,
     "rest_days": 3
   },
