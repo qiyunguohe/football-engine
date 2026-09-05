@@ -1088,10 +1088,10 @@
     "rest_days": 3
   },
   "摩纳哥": {
-    "elo": 1710.9,
-    "attack": 1.1072,
-    "defense": 0.9593,
-    "form": 0.5496,
+    "elo": 1730.8,
+    "attack": 1.0696,
+    "defense": 0.901,
+    "form": 0.6847,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1592,10 +1592,10 @@
     "rest_days": 3
   },
   "波尔图": {
-    "elo": 1872.4,
-    "attack": 1.0125,
-    "defense": 0.3313,
-    "form": 0.9297,
+    "elo": 1874.1,
+    "attack": 0.9842,
+    "defense": 0.3342,
+    "form": 0.9508,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1664,10 +1664,10 @@
     "rest_days": 3
   },
   "摩雷伦斯": {
-    "elo": 1441.2,
-    "attack": 0.7075,
-    "defense": 1.108,
-    "form": -0.1834,
+    "elo": 1439.5,
+    "attack": 0.6737,
+    "defense": 1.0703,
+    "form": -0.4284,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6512,10 +6512,10 @@
     "rest_days": 3
   },
   "巴黎圣曼": {
-    "elo": 1731.3,
-    "attack": 1.1554,
-    "defense": 0.8268,
-    "form": 0.1518,
+    "elo": 1711.4,
+    "attack": 1.0779,
+    "defense": 0.8166,
+    "form": -0.1937,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7096,10 +7096,10 @@
     "rest_days": 3
   },
   "纽约城": {
-    "elo": 1603.2,
-    "attack": 0.8018,
-    "defense": 0.5615,
-    "form": 0.0253,
+    "elo": 1597.2,
+    "attack": 0.7236,
+    "defense": 0.5068,
+    "form": 0.0177,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7152,10 +7152,10 @@
     "rest_days": 3
   },
   "纳什维尔": {
-    "elo": 1530.5,
-    "attack": 0.426,
-    "defense": 0.4622,
-    "form": -0.0844,
+    "elo": 1536.5,
+    "attack": 0.3845,
+    "defense": 0.4171,
+    "form": -0.0591,
     "injury": 0.0,
     "rest_days": 3
   },
