@@ -448,10 +448,10 @@
     "rest_days": 3
   },
   "巴伊亚": {
-    "elo": 1646.9,
-    "attack": 0.2636,
-    "defense": 0.2508,
-    "form": 0.0006,
+    "elo": 1659.2,
+    "attack": 0.3435,
+    "defense": 0.2967,
+    "form": 0.3004,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1936,10 +1936,10 @@
     "rest_days": 3
   },
   "比利亚雷亚尔": {
-    "elo": 1726.6,
-    "attack": 1.2072,
-    "defense": 1.0,
-    "form": -0.2369,
+    "elo": 1700.5,
+    "attack": 1.1599,
+    "defense": 1.0081,
+    "form": -0.4658,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1532.7,
-    "attack": 0.9011,
-    "defense": 0.8307,
-    "form": 0.3,
+    "elo": 1558.8,
+    "attack": 0.9188,
+    "defense": 0.8201,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10668,6 +10668,14 @@
     "attack": 0.9729,
     "defense": 0.9729,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "巴甘蒂诺": {
+    "elo": 1487.7,
+    "attack": 0.9729,
+    "defense": 1.0081,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }

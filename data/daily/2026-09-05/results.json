@@ -268,5 +268,23 @@
     "away_team": "布雷斯特",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3762551",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "比利亚雷亚尔",
+    "away_team": "拉科鲁尼亚",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3632668",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "巴甘蒂诺",
+    "away_team": "巴伊亚",
+    "half_home_score": 2,
+    "half_away_score": 2
   }
 ]
