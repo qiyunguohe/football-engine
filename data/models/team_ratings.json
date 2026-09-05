@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1879.6,
-    "attack": 1.2051,
-    "defense": 0.351,
-    "form": 0.8642,
+    "elo": 1887.5,
+    "attack": 1.1932,
+    "defense": 0.3168,
+    "form": 0.9049,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1600,10 +1600,10 @@
     "rest_days": 3
   },
   "马里迪莫": {
-    "elo": 1424.1,
-    "attack": 0.776,
-    "defense": 1.0127,
-    "form": 0.3272,
+    "elo": 1416.2,
+    "attack": 0.7003,
+    "defense": 1.0195,
+    "form": -0.071,
     "injury": 0.0,
     "rest_days": 3
   },

@@ -548,5 +548,30 @@
     "red_home": "2",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3775615",
+    "match_no": "周六023",
+    "home_team": "马里迪莫",
+    "away_team": "本菲卡",
+    "home_score": 0,
+    "away_score": 3,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "葡超",
+    "match_time": "2026-09-06 01:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 15.0,
+    "odds_draw": 6.6,
+    "odds_away": 1.1,
+    "corner_home": "3",
+    "corner_away": "5",
+    "yellow_home": "2",
+    "yellow_away": "3",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
