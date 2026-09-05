@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1780.1,
-    "attack": 1.1864,
-    "defense": 0.4611,
-    "form": 0.6406,
+    "elo": 1743.0,
+    "attack": 1.1059,
+    "defense": 0.5217,
+    "form": 0.1484,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3296,10 +3296,10 @@
     "rest_days": 3
   },
   "埃因霍温": {
-    "elo": 1742.2,
-    "attack": 1.2657,
-    "defense": 0.7785,
-    "form": 0.7157,
+    "elo": 1779.3,
+    "attack": 1.2478,
+    "defense": 0.7378,
+    "form": 0.801,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6248,10 +6248,10 @@
     "rest_days": 3
   },
   "吉达联合": {
-    "elo": 1556.2,
-    "attack": 0.9568,
-    "defense": 0.9798,
-    "form": 0.4355,
+    "elo": 1571.5,
+    "attack": 0.9339,
+    "defense": 0.9195,
+    "form": 0.6048,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10160,10 +10160,10 @@
     "rest_days": 3
   },
   "利雅得胜利": {
-    "elo": 1605.5,
-    "attack": 1.0537,
-    "defense": 0.8055,
-    "form": 0.657,
+    "elo": 1590.2,
+    "attack": 0.9861,
+    "defense": 0.7973,
+    "form": 0.1599,
     "injury": 0.0,
     "rest_days": 3
   },
