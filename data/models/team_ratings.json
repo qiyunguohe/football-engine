@@ -1040,10 +1040,10 @@
     "rest_days": 3
   },
   "赫尔城": {
-    "elo": 1441.3,
-    "attack": 0.6992,
-    "defense": 1.4286,
-    "form": 0.227,
+    "elo": 1453.1,
+    "attack": 0.631,
+    "defense": 1.2893,
+    "form": 0.1589,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1512,10 +1512,10 @@
     "rest_days": 3
   },
   "拜仁慕尼黑": {
-    "elo": 2174.2,
-    "attack": 2.2454,
-    "defense": 0.8255,
-    "form": 0.8641,
+    "elo": 2159.0,
+    "attack": 2.0265,
+    "defense": 0.745,
+    "form": 0.6049,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1544,10 +1544,10 @@
     "rest_days": 3
   },
   "阿斯顿维拉": {
-    "elo": 1836.2,
-    "attack": 0.9964,
-    "defense": 0.8014,
-    "form": -0.6018,
+    "elo": 1824.4,
+    "attack": 0.8993,
+    "defense": 0.7233,
+    "form": -0.4213,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1771.6,
-    "attack": 1.0084,
-    "defense": 0.6616,
-    "form": 0.1308,
+    "elo": 1748.3,
+    "attack": 0.9805,
+    "defense": 0.7026,
+    "form": -0.2084,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5488,10 +5488,10 @@
     "rest_days": 3
   },
   "布兰": {
-    "elo": 1552.4,
-    "attack": 0.818,
-    "defense": 0.5779,
-    "form": 0.2666,
+    "elo": 1529.0,
+    "attack": 0.7734,
+    "defense": 0.5919,
+    "form": -0.1134,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6912,10 +6912,10 @@
     "rest_days": 3
   },
   "利勒斯特伦": {
-    "elo": 1442.2,
-    "attack": 0.7703,
-    "defense": 0.9484,
-    "form": -0.357,
+    "elo": 1465.6,
+    "attack": 0.7656,
+    "defense": 0.8911,
+    "form": 0.0501,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1536.2,
-    "attack": 0.9767,
-    "defense": 0.8463,
-    "form": 0.51,
+    "elo": 1559.5,
+    "attack": 0.987,
+    "defense": 0.8342,
+    "form": 0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10544,10 +10544,10 @@
     "rest_days": 3
   },
   "沙尔克": {
-    "elo": 1472.0,
-    "attack": 0.9025,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1487.2,
+    "attack": 0.8145,
+    "defense": 0.9098,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
