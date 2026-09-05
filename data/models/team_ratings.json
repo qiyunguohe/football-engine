@@ -1352,10 +1352,10 @@
     "rest_days": 3
   },
   "朗斯": {
-    "elo": 1780.6,
-    "attack": 1.3399,
-    "defense": 0.8379,
-    "form": -0.1846,
+    "elo": 1754.7,
+    "attack": 1.2093,
+    "defense": 0.7914,
+    "form": -0.4292,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1448,10 +1448,10 @@
     "rest_days": 3
   },
   "洛里昂": {
-    "elo": 1593.4,
-    "attack": 0.9417,
-    "defense": 0.9289,
-    "form": -0.1218,
+    "elo": 1619.3,
+    "attack": 0.8851,
+    "defense": 0.8383,
+    "form": 0.2147,
     "injury": 0.0,
     "rest_days": 3
   },
