@@ -2264,10 +2264,10 @@
     "rest_days": 3
   },
   "巴列卡诺": {
-    "elo": 1619.7,
-    "attack": 0.787,
-    "defense": 0.8457,
-    "form": -0.3884,
+    "elo": 1627.8,
+    "attack": 0.8158,
+    "defense": 0.8336,
+    "form": 0.0281,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10200,10 +10200,10 @@
     "rest_days": 3
   },
   "桑坦德竞技": {
-    "elo": 1496.9,
-    "attack": 0.898,
-    "defense": 0.8945,
-    "form": 0.09,
+    "elo": 1488.8,
+    "attack": 0.8808,
+    "defense": 0.9128,
+    "form": -0.237,
     "injury": 0.0,
     "rest_days": 3
   },
