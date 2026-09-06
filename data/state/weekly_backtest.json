@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-09-06",
   "steps": {
     "walk_forward": {
       "total_matches": 384
@@ -66,7 +66,7 @@
     "shrinkage_dc": {
       "n_evaluated": 344,
       "skipped_dates": 5,
-      "shrinkage_dc_brier": 0.714,
+      "shrinkage_dc_brier": 0.7189,
       "final_brier": 0.6206,
       "model_raw_brier": 0.6527,
       "market_brier": 0.593,
