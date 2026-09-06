@@ -392,10 +392,10 @@
     "rest_days": 3
   },
   "博塔弗戈": {
-    "elo": 1691.1,
-    "attack": 0.3389,
-    "defense": 0.2874,
-    "form": 0.1325,
+    "elo": 1693.3,
+    "attack": 0.3059,
+    "defense": 0.2594,
+    "form": 0.0927,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -512,10 +512,10 @@
     "rest_days": 3
   },
   "帕尔梅拉斯": {
-    "elo": 1804.9,
-    "attack": 0.8724,
-    "defense": 0.3148,
-    "form": 0.295,
+    "elo": 1802.7,
+    "attack": 0.7873,
+    "defense": 0.2841,
+    "form": 0.2065,
     "injury": 0.0,
     "rest_days": 3
   },
