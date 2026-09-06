@@ -2152,10 +2152,10 @@
     "rest_days": 3
   },
   "马拉加": {
-    "elo": 1325.1,
-    "attack": 0.3993,
-    "defense": 1.0516,
-    "form": -0.7238,
+    "elo": 1333.3,
+    "attack": 0.3604,
+    "defense": 0.9491,
+    "form": -0.5067,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1588.1,
-    "attack": 0.9079,
-    "defense": 1.0208,
-    "form": 0.2009,
+    "elo": 1579.9,
+    "attack": 0.8194,
+    "defense": 0.9213,
+    "form": 0.1406,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1565.4,
-    "attack": 0.7112,
-    "defense": 0.846,
-    "form": -0.0837,
+    "elo": 1570.6,
+    "attack": 0.7122,
+    "defense": 0.8339,
+    "form": -0.0586,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1618.5,
-    "attack": 0.7611,
-    "defense": 0.8952,
-    "form": -0.4039,
+    "elo": 1613.3,
+    "attack": 0.7573,
+    "defense": 0.8783,
+    "form": -0.2827,
     "injury": 0.0,
     "rest_days": 3
   },
