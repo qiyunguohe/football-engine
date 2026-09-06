@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1706.3,
-    "attack": 1.1803,
-    "defense": 0.8592,
-    "form": 0.3216,
+    "elo": 1717.3,
+    "attack": 1.1356,
+    "defense": 0.7754,
+    "form": 0.5251,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9104,10 +9104,10 @@
     "rest_days": 3
   },
   "奥斯陆": {
-    "elo": 1519.9,
-    "attack": 0.8593,
-    "defense": 0.799,
-    "form": 0.357,
+    "elo": 1508.9,
+    "attack": 0.7755,
+    "defense": 0.7915,
+    "form": -0.0501,
     "injury": 0.0,
     "rest_days": 3
   },
