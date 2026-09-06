@@ -1008,10 +1008,10 @@
     "rest_days": 3
   },
   "切尔西": {
-    "elo": 1717.1,
-    "attack": 1.011,
-    "defense": 1.1605,
-    "form": -0.364,
+    "elo": 1714.3,
+    "attack": 0.9476,
+    "defense": 1.1177,
+    "form": -0.5548,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2059.2,
-    "attack": 1.0049,
-    "defense": 0.3642,
-    "form": 0.9005,
+    "elo": 2062.0,
+    "attack": 0.9773,
+    "defense": 0.3639,
+    "form": 0.9304,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2032,10 +2032,10 @@
     "rest_days": 3
   },
   "奥格斯堡": {
-    "elo": 1603.2,
-    "attack": 0.9936,
-    "defense": 1.0117,
-    "form": 0.5557,
+    "elo": 1649.7,
+    "attack": 1.0375,
+    "defense": 0.9482,
+    "form": 0.689,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2072,10 +2072,10 @@
     "rest_days": 3
   },
   "法兰克福": {
-    "elo": 1579.0,
-    "attack": 1.1318,
-    "defense": 1.3187,
-    "form": -0.2694,
+    "elo": 1532.5,
+    "attack": 1.0566,
+    "defense": 1.3309,
+    "form": -0.4886,
     "injury": 0.0,
     "rest_days": 3
   },
