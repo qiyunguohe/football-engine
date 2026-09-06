@@ -1688,10 +1688,10 @@
     "rest_days": 3
   },
   "里奥阿维": {
-    "elo": 1314.9,
-    "attack": 0.4502,
-    "defense": 1.0847,
-    "form": -0.8758,
+    "elo": 1296.2,
+    "attack": 0.4063,
+    "defense": 1.1197,
+    "form": -0.9131,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5752,10 +5752,10 @@
     "rest_days": 3
   },
   "圣克拉拉": {
-    "elo": 1522.6,
-    "attack": 0.6904,
-    "defense": 0.6929,
-    "form": 0.5026,
+    "elo": 1541.3,
+    "attack": 0.7638,
+    "defense": 0.6253,
+    "form": 0.6518,
     "injury": 0.0,
     "rest_days": 3
   },
