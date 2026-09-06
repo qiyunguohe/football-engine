@@ -3408,10 +3408,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1634.4,
-    "attack": 0.8086,
-    "defense": 0.7732,
-    "form": 0.613,
+    "elo": 1661.6,
+    "attack": 0.9057,
+    "defense": 0.7682,
+    "form": 0.7291,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5088,10 +5088,10 @@
     "rest_days": 3
   },
   "奥萨苏纳": {
-    "elo": 1573.9,
-    "attack": 0.7236,
-    "defense": 0.804,
-    "form": 0.2299,
+    "elo": 1546.7,
+    "attack": 0.7234,
+    "defense": 0.9015,
+    "form": -0.1391,
     "injury": 0.0,
     "rest_days": 3
   },
