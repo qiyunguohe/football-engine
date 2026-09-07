@@ -1616,10 +1616,10 @@
     "rest_days": 3
   },
   "莱切": {
-    "elo": 1512.5,
-    "attack": 0.5428,
-    "defense": 0.9256,
-    "form": 0.0945,
+    "elo": 1499.4,
+    "attack": 0.4899,
+    "defense": 0.8705,
+    "form": -0.2339,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2352,10 +2352,10 @@
     "rest_days": 3
   },
   "卡利亚里": {
-    "elo": 1511.6,
-    "attack": 0.6186,
-    "defense": 0.8593,
-    "form": -0.243,
+    "elo": 1524.7,
+    "attack": 0.5935,
+    "defense": 0.7755,
+    "form": 0.1299,
     "injury": 0.0,
     "rest_days": 3
   },
