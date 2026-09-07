@@ -98,5 +98,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3798987",
+    "match_no": "周一005",
+    "home_team": "利雅得新月",
+    "away_team": "新未来城体育",
+    "home_score": 0,
+    "away_score": 2,
+    "half_home_score": 0,
+    "half_away_score": 2,
+    "league": "沙特联",
+    "match_time": "2026-09-08 02:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.1,
+    "odds_draw": 6.75,
+    "odds_away": 14.0,
+    "corner_home": "4",
+    "corner_away": "4",
+    "yellow_home": "3",
+    "yellow_away": "3",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
