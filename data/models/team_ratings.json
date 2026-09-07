@@ -1848,18 +1848,18 @@
     "rest_days": 3
   },
   "阿罗卡": {
-    "elo": 1576.4,
-    "attack": 0.9615,
-    "defense": 0.9224,
-    "form": 0.2134,
+    "elo": 1574.7,
+    "attack": 0.8678,
+    "defense": 0.8325,
+    "form": 0.1494,
     "injury": 0.0,
     "rest_days": 3
   },
   "埃斯托里尔": {
-    "elo": 1474.4,
-    "attack": 0.8435,
-    "defense": 1.0732,
-    "form": -0.7056,
+    "elo": 1476.1,
+    "attack": 0.7613,
+    "defense": 0.9686,
+    "form": -0.4939,
     "injury": 0.0,
     "rest_days": 3
   },
