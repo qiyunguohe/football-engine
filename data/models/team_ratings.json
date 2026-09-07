@@ -5720,10 +5720,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1707.3,
-    "attack": 1.0072,
-    "defense": 0.2489,
-    "form": 0.6394,
+    "elo": 1715.4,
+    "attack": 0.9442,
+    "defense": 0.2246,
+    "form": 0.7476,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6680,10 +6680,10 @@
     "rest_days": 3
   },
   "卡尔马": {
-    "elo": 1453.7,
-    "attack": 0.7137,
-    "defense": 0.7636,
-    "form": -0.2897,
+    "elo": 1445.6,
+    "attack": 0.6441,
+    "defense": 0.7243,
+    "form": -0.5028,
     "injury": 0.0,
     "rest_days": 3
   },
