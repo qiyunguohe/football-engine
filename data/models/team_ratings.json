@@ -2216,10 +2216,10 @@
     "rest_days": 3
   },
   "埃尔切": {
-    "elo": 1476.8,
-    "attack": 0.7635,
-    "defense": 1.1174,
-    "form": -0.6389,
+    "elo": 1463.7,
+    "attack": 0.7594,
+    "defense": 1.114,
+    "form": -0.7472,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1605.0,
-    "attack": 0.9068,
-    "defense": 0.9818,
-    "form": -0.1131,
+    "elo": 1618.1,
+    "attack": 0.9239,
+    "defense": 0.9564,
+    "form": 0.2208,
     "injury": 0.0,
     "rest_days": 3
   },
