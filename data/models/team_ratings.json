@@ -2360,10 +2360,10 @@
     "rest_days": 3
   },
   "乌迪内斯": {
-    "elo": 1667.4,
-    "attack": 0.836,
-    "defense": 0.7527,
-    "form": 0.4169,
+    "elo": 1649.7,
+    "attack": 0.7897,
+    "defense": 0.7497,
+    "form": -0.0082,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2384,10 +2384,10 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1695.2,
-    "attack": 0.7348,
-    "defense": 0.7306,
-    "form": 0.4797,
+    "elo": 1712.9,
+    "attack": 0.7335,
+    "defense": 0.6946,
+    "form": 0.6358,
     "injury": 0.0,
     "rest_days": 3
   },
