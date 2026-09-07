@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1697.5,
-    "attack": 0.8279,
-    "defense": 0.6704,
-    "form": 0.2414,
+    "elo": 1702.9,
+    "attack": 0.7824,
+    "defense": 0.6402,
+    "form": 0.169,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1717.3,
-    "attack": 1.1356,
-    "defense": 0.7754,
-    "form": 0.5251,
+    "elo": 1723.7,
+    "attack": 1.0952,
+    "defense": 0.6998,
+    "form": 0.6676,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1296,10 +1296,10 @@
     "rest_days": 3
   },
   "海伦芬": {
-    "elo": 1512.1,
-    "attack": 1.0713,
-    "defense": 1.0493,
-    "form": -0.2392,
+    "elo": 1499.7,
+    "attack": 1.0372,
+    "defense": 1.0525,
+    "form": -0.4674,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1720,10 +1720,10 @@
     "rest_days": 3
   },
   "弗洛西诺": {
-    "elo": 1491.4,
-    "attack": 0.7186,
-    "defense": 1.128,
-    "form": 0.0608,
+    "elo": 1500.0,
+    "attack": 0.7541,
+    "defense": 1.0884,
+    "form": 0.3426,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2336,10 +2336,10 @@
     "rest_days": 3
   },
   "尤文图斯": {
-    "elo": 1754.3,
-    "attack": 1.123,
-    "defense": 0.6873,
-    "form": 0.3463,
+    "elo": 1748.9,
+    "attack": 1.0487,
+    "defense": 0.6555,
+    "form": 0.2424,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4472,10 +4472,10 @@
     "rest_days": 3
   },
   "阿尔克马": {
-    "elo": 1657.6,
-    "attack": 1.2154,
-    "defense": 1.0418,
-    "form": 0.295,
+    "elo": 1670.0,
+    "attack": 1.2025,
+    "defense": 1.0106,
+    "form": 0.5065,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4544,10 +4544,10 @@
     "rest_days": 3
   },
   "特鲁瓦": {
-    "elo": 1361.4,
-    "attack": 0.8415,
-    "defense": 1.4457,
-    "form": -0.4028,
+    "elo": 1322.9,
+    "attack": 0.8298,
+    "defense": 1.5159,
+    "form": -0.582,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5880,10 +5880,10 @@
     "rest_days": 3
   },
   "斯特拉斯": {
-    "elo": 1530.8,
-    "attack": 0.9534,
-    "defense": 0.9595,
-    "form": 0.2061,
+    "elo": 1569.3,
+    "attack": 1.0716,
+    "defense": 0.9363,
+    "form": 0.4443,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5936,10 +5936,10 @@
     "rest_days": 3
   },
   "威尼斯": {
-    "elo": 1383.1,
-    "attack": 0.5162,
-    "defense": 1.0627,
-    "form": -0.8818,
+    "elo": 1374.5,
+    "attack": 0.5362,
+    "defense": 1.0646,
+    "form": -0.9173,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8016,10 +8016,10 @@
     "rest_days": 3
   },
   "奥斯KFUM": {
-    "elo": 1419.8,
-    "attack": 0.8884,
-    "defense": 1.0723,
-    "form": -0.2319,
+    "elo": 1413.4,
+    "attack": 0.8018,
+    "defense": 1.0381,
+    "form": -0.4623,
     "injury": 0.0,
     "rest_days": 3
   },
