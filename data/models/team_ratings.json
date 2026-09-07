@@ -816,10 +816,10 @@
     "rest_days": 3
   },
   "马尔默": {
-    "elo": 1417.4,
-    "attack": 0.4903,
-    "defense": 0.6375,
-    "form": 0.2437,
+    "elo": 1415.5,
+    "attack": 0.4425,
+    "defense": 0.5753,
+    "form": 0.1706,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3920,10 +3920,10 @@
     "rest_days": 3
   },
   "索尔纳": {
-    "elo": 1441.2,
-    "attack": 0.4932,
-    "defense": 0.5767,
-    "form": 0.4301,
+    "elo": 1443.1,
+    "attack": 0.4451,
+    "defense": 0.5205,
+    "form": 0.3011,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "赫塔菲": {
-    "elo": 1476.6,
-    "attack": 0.7669,
-    "defense": 0.8563,
-    "form": -0.237,
+    "elo": 1474.4,
+    "attack": 0.7273,
+    "defense": 0.808,
+    "form": -0.1659,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1493.4,
-    "attack": 0.7351,
-    "defense": 0.7986,
-    "form": -0.21,
+    "elo": 1495.6,
+    "attack": 0.6986,
+    "defense": 0.7559,
+    "form": -0.147,
     "injury": 0.0,
     "rest_days": 3
   },
