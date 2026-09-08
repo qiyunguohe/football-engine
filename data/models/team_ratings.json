@@ -1848,10 +1848,10 @@
     "rest_days": 3
   },
   "阿罗卡": {
-    "elo": 1574.7,
-    "attack": 0.8678,
-    "defense": 0.8325,
-    "form": 0.1494,
+    "elo": 1573.0,
+    "attack": 0.7832,
+    "defense": 0.7513,
+    "form": 0.1046,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1596.5,
-    "attack": 0.5671,
-    "defense": 0.6696,
-    "form": -0.1911,
+    "elo": 1589.4,
+    "attack": 0.547,
+    "defense": 0.6395,
+    "form": -0.1338,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3288,10 +3288,10 @@
     "rest_days": 3
   },
   "埃斯托里": {
-    "elo": 1473.4,
-    "attack": 0.9277,
-    "defense": 1.0216,
-    "form": -0.4749,
+    "elo": 1475.1,
+    "attack": 0.8372,
+    "defense": 0.922,
+    "form": -0.3324,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5976,10 +5976,10 @@
     "rest_days": 3
   },
   "利雅新月": {
-    "elo": 1663.4,
-    "attack": 1.2233,
-    "defense": 1.0247,
-    "form": 0.5059,
+    "elo": 1619.6,
+    "attack": 1.104,
+    "defense": 0.9952,
+    "form": 0.0541,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1495.6,
-    "attack": 0.6986,
-    "defense": 0.7559,
-    "form": -0.147,
+    "elo": 1502.7,
+    "attack": 0.6657,
+    "defense": 0.7174,
+    "form": -0.1029,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10648,10 +10648,10 @@
     "rest_days": 3
   },
   "新未来SC": {
-    "elo": 1527.9,
-    "attack": 1.0081,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1571.7,
+    "attack": 0.9802,
+    "defense": 0.8145,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
