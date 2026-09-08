@@ -1040,10 +1040,10 @@
     "rest_days": 3
   },
   "赫尔城": {
-    "elo": 1462.2,
-    "attack": 0.5695,
-    "defense": 1.1636,
-    "form": 0.1112,
+    "elo": 1456.9,
+    "attack": 0.514,
+    "defense": 1.0853,
+    "form": -0.2222,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1560,18 +1560,18 @@
     "rest_days": 3
   },
   "桑德兰": {
-    "elo": 1676.5,
-    "attack": 0.6622,
-    "defense": 0.8126,
-    "form": 0.1474,
+    "elo": 1681.8,
+    "attack": 0.6328,
+    "defense": 0.7334,
+    "form": 0.4032,
     "injury": 0.0,
     "rest_days": 3
   },
   "斯旺西": {
-    "elo": 1413.0,
-    "attack": 0.7068,
-    "defense": 1.1098,
-    "form": 0.0377,
+    "elo": 1396.5,
+    "attack": 0.6731,
+    "defense": 1.1072,
+    "form": -0.2736,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10592,10 +10592,10 @@
     "rest_days": 3
   },
   "南安普顿": {
-    "elo": 1506.3,
-    "attack": 0.8815,
-    "defense": 0.8815,
-    "form": 0.0,
+    "elo": 1522.8,
+    "attack": 0.9011,
+    "defense": 0.8307,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
