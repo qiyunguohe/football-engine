@@ -9952,10 +9952,10 @@
     "rest_days": 3
   },
   "吉达国民": {
-    "elo": 1475.2,
-    "attack": 0.7638,
-    "defense": 0.9359,
-    "form": -0.363,
+    "elo": 1466.3,
+    "attack": 0.7597,
+    "defense": 0.9502,
+    "form": -0.5541,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9976,10 +9976,10 @@
     "rest_days": 3
   },
   "胡拜尔库迪西亚": {
-    "elo": 1576.7,
-    "attack": 0.8749,
-    "defense": 0.718,
-    "form": 0.4659,
+    "elo": 1585.6,
+    "attack": 0.8952,
+    "defense": 0.7184,
+    "form": 0.6261,
     "injury": 0.0,
     "rest_days": 3
   },
