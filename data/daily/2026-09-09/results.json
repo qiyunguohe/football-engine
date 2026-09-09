@@ -7,5 +7,14 @@
     "away_team": "全北现代",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3798992",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "拉斯永恒",
+    "away_team": "利雅得青年人",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

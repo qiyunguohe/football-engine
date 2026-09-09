@@ -9960,10 +9960,10 @@
     "rest_days": 3
   },
   "利雅得青年人": {
-    "elo": 1417.1,
-    "attack": 0.7955,
-    "defense": 0.9867,
-    "form": -0.657,
+    "elo": 1407.8,
+    "attack": 0.7531,
+    "defense": 0.9609,
+    "form": -0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10176,10 +10176,10 @@
     "rest_days": 3
   },
   "拉斯永恒": {
-    "elo": 1507.1,
-    "attack": 0.8976,
-    "defense": 0.8976,
-    "form": 0.0,
+    "elo": 1516.4,
+    "attack": 0.8805,
+    "defense": 0.8453,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
