@@ -5304,10 +5304,10 @@
     "rest_days": 3
   },
   "全北现代": {
-    "elo": 1613.3,
-    "attack": 0.5019,
-    "defense": 0.2689,
-    "form": 0.0421,
+    "elo": 1605.3,
+    "attack": 0.4881,
+    "defense": 0.2779,
+    "form": 0.0295,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6696,10 +6696,10 @@
     "rest_days": 3
   },
   "江原FC": {
-    "elo": 1358.8,
-    "attack": 0.3617,
-    "defense": 0.6809,
-    "form": -0.2527,
+    "elo": 1366.8,
+    "attack": 0.3616,
+    "defense": 0.6497,
+    "form": -0.1769,
     "injury": 0.0,
     "rest_days": 3
   },
