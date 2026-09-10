@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1854.4,
-    "attack": 1.2915,
-    "defense": 0.6561,
-    "form": 0.9246,
+    "elo": 1852.0,
+    "attack": 1.2008,
+    "defense": 0.6273,
+    "form": 0.6472,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4384,10 +4384,10 @@
     "rest_days": 3
   },
   "费内巴切": {
-    "elo": 1736.5,
-    "attack": 0.6623,
-    "defense": 0.4566,
-    "form": 0.56,
+    "elo": 1738.9,
+    "attack": 0.6329,
+    "defense": 0.4473,
+    "form": 0.392,
     "injury": 0.0,
     "rest_days": 3
   },
