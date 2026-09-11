@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1875.4,
-    "attack": 1.2108,
-    "defense": 0.5661,
-    "form": 0.8134,
+    "elo": 1891.1,
+    "attack": 1.2335,
+    "defense": 0.5461,
+    "form": 0.8694,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1768,10 +1768,10 @@
     "rest_days": 3
   },
   "布拉加": {
-    "elo": 1757.2,
-    "attack": 0.8146,
-    "defense": 0.3242,
-    "form": 0.0756,
+    "elo": 1729.8,
+    "attack": 0.7704,
+    "defense": 0.363,
+    "form": -0.2471,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5608,10 +5608,10 @@
     "rest_days": 3
   },
   "莱红牛": {
-    "elo": 1687.4,
-    "attack": 1.0192,
-    "defense": 1.1495,
-    "form": -0.3475,
+    "elo": 1671.7,
+    "attack": 0.955,
+    "defense": 1.1782,
+    "form": -0.5433,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5992,10 +5992,10 @@
     "rest_days": 3
   },
   "拜仁": {
-    "elo": 1759.2,
-    "attack": 1.1807,
-    "defense": 0.6435,
-    "form": 0.4756,
+    "elo": 1844.9,
+    "attack": 1.2415,
+    "defense": 0.5808,
+    "form": 0.6329,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6096,10 +6096,10 @@
     "rest_days": 3
   },
   "博德闪耀": {
-    "elo": 1922.3,
-    "attack": 0.9594,
-    "defense": 0.4796,
-    "form": 0.2926,
+    "elo": 1836.6,
+    "attack": 0.8659,
+    "defense": 0.6088,
+    "form": -0.0952,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6304,10 +6304,10 @@
     "rest_days": 3
   },
   "阿马多拉": {
-    "elo": 1380.4,
-    "attack": 0.7559,
-    "defense": 1.1465,
-    "form": -0.2866,
+    "elo": 1407.8,
+    "attack": 0.7526,
+    "defense": 1.0699,
+    "form": 0.0994,
     "injury": 0.0,
     "rest_days": 3
   },
