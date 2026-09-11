@@ -6248,10 +6248,10 @@
     "rest_days": 3
   },
   "吉达联合": {
-    "elo": 1581.5,
-    "attack": 0.9132,
-    "defense": 0.865,
-    "form": 0.7234,
+    "elo": 1607.0,
+    "attack": 0.9297,
+    "defense": 0.8158,
+    "form": 0.8064,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10040,10 +10040,10 @@
     "rest_days": 3
   },
   "费萨里": {
-    "elo": 1476.5,
-    "attack": 0.9729,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1451.0,
+    "attack": 0.9132,
+    "defense": 1.047,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
