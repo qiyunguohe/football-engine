@@ -1200,10 +1200,10 @@
     "rest_days": 3
   },
   "威廉二世": {
-    "elo": 1206.7,
-    "attack": 0.8044,
-    "defense": 1.3814,
-    "form": -0.6954,
+    "elo": 1221.5,
+    "attack": 0.7612,
+    "defense": 1.2819,
+    "form": -0.4868,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1256,10 +1256,10 @@
     "rest_days": 3
   },
   "阿尔克马尔": {
-    "elo": 1712.6,
-    "attack": 1.2748,
-    "defense": 0.7183,
-    "form": 0.8948,
+    "elo": 1697.8,
+    "attack": 1.1857,
+    "defense": 0.6835,
+    "form": 0.6264,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10724,6 +10724,22 @@
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "马斯特里赫特": {
+    "elo": 1435.5,
+    "attack": 0.9025,
+    "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "阿尔梅勒城": {
+    "elo": 1564.5,
+    "attack": 1.0432,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
