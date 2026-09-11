@@ -25,5 +25,14 @@
     "away_team": "吉达联合",
     "half_home_score": 0,
     "half_away_score": 2
+  },
+  {
+    "match_id": "3763883",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "纽伦堡",
+    "away_team": "汉诺威96",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

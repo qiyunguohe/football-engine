@@ -2040,10 +2040,10 @@
     "rest_days": 3
   },
   "汉诺威96": {
-    "elo": 1435.6,
-    "attack": 0.7592,
-    "defense": 1.2462,
-    "form": -0.2397,
+    "elo": 1425.3,
+    "attack": 0.7204,
+    "defense": 1.1951,
+    "form": -0.4678,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4744,10 +4744,10 @@
     "rest_days": 3
   },
   "纽伦堡": {
-    "elo": 1500.0,
-    "attack": 0.8449,
-    "defense": 1.1858,
-    "form": 0.1095,
+    "elo": 1510.3,
+    "attack": 0.8329,
+    "defense": 1.1054,
+    "form": 0.3766,
     "injury": 0.0,
     "rest_days": 3
   },
