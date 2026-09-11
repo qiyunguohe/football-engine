@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1535.6,
-    "attack": 0.7259,
-    "defense": 1.0308,
-    "form": -0.5226,
+    "elo": 1523.9,
+    "attack": 0.6551,
+    "defense": 0.9655,
+    "form": -0.6658,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1565.4,
-    "attack": 0.7516,
-    "defense": 0.9329,
-    "form": -0.0286,
+    "elo": 1577.1,
+    "attack": 0.7135,
+    "defense": 0.8419,
+    "form": 0.28,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1576,10 +1576,10 @@
     "rest_days": 3
   },
   "西汉姆联": {
-    "elo": 1729.1,
-    "attack": 1.05,
-    "defense": 0.974,
-    "form": 0.5968,
+    "elo": 1757.3,
+    "attack": 1.1587,
+    "defense": 0.879,
+    "form": 0.7178,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9448,10 +9448,10 @@
     "rest_days": 3
   },
   "雷克瑟姆": {
-    "elo": 1526.3,
-    "attack": 0.8294,
-    "defense": 0.7815,
-    "form": -0.0129,
+    "elo": 1498.1,
+    "attack": 0.7485,
+    "defense": 0.9164,
+    "form": -0.309,
     "injury": 0.0,
     "rest_days": 3
   },
