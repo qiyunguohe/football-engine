@@ -2056,10 +2056,10 @@
     "rest_days": 3
   },
   "科隆": {
-    "elo": 1495.5,
-    "attack": 0.9523,
-    "defense": 1.405,
-    "form": -0.379,
+    "elo": 1493.4,
+    "attack": 0.8946,
+    "defense": 1.3032,
+    "form": -0.2653,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2216,10 +2216,10 @@
     "rest_days": 3
   },
   "埃尔切": {
-    "elo": 1463.7,
-    "attack": 0.7594,
-    "defense": 1.114,
-    "form": -0.7472,
+    "elo": 1474.7,
+    "attack": 0.7205,
+    "defense": 1.0406,
+    "form": -0.523,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3680,10 +3680,10 @@
     "rest_days": 3
   },
   "毕尔巴鄂": {
-    "elo": 1693.3,
-    "attack": 1.0397,
-    "defense": 0.8226,
-    "form": 0.2651,
+    "elo": 1682.3,
+    "attack": 0.9735,
+    "defense": 0.7776,
+    "form": 0.1856,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10536,10 +10536,10 @@
     "rest_days": 3
   },
   "不莱梅": {
-    "elo": 1514.8,
-    "attack": 0.9518,
-    "defense": 0.9767,
-    "form": 0.09,
+    "elo": 1516.9,
+    "attack": 0.8942,
+    "defense": 0.9167,
+    "form": 0.063,
     "injury": 0.0,
     "rest_days": 3
   },
