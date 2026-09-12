@@ -232,5 +232,14 @@
     "away_team": "波尔图",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3748422",
+    "home_score": 1,
+    "away_score": 5,
+    "home_team": "福图纳",
+    "away_team": "阿贾克斯",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]
