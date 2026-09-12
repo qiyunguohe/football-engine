@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1702.9,
-    "attack": 0.7824,
-    "defense": 0.6402,
-    "form": 0.169,
+    "elo": 1706.3,
+    "attack": 0.7765,
+    "defense": 0.6482,
+    "form": 0.1183,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -752,10 +752,10 @@
     "rest_days": 3
   },
   "埃弗顿": {
-    "elo": 1762.6,
-    "attack": 0.8925,
-    "defense": 0.809,
-    "form": 0.1032,
+    "elo": 1763.3,
+    "attack": 0.8055,
+    "defense": 0.7301,
+    "form": 0.0722,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2384,10 +2384,10 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1712.9,
-    "attack": 0.7335,
-    "defense": 0.6946,
-    "form": 0.6358,
+    "elo": 1709.5,
+    "attack": 0.7324,
+    "defense": 0.6972,
+    "form": 0.4451,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3280,10 +3280,10 @@
     "rest_days": 3
   },
   "热刺": {
-    "elo": 1712.3,
-    "attack": 0.8651,
-    "defense": 0.5674,
-    "form": -0.1316,
+    "elo": 1711.6,
+    "attack": 0.7808,
+    "defense": 0.5121,
+    "form": -0.0921,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3960,10 +3960,10 @@
     "rest_days": 3
   },
   "罗森博格": {
-    "elo": 1655.8,
-    "attack": 0.9933,
-    "defense": 0.6178,
-    "form": -0.0542,
+    "elo": 1670.8,
+    "attack": 1.0724,
+    "defense": 0.6631,
+    "form": 0.2621,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8720,10 +8720,10 @@
     "rest_days": 3
   },
   "特罗姆瑟": {
-    "elo": 1539.9,
-    "attack": 1.0247,
-    "defense": 0.9902,
-    "form": -0.237,
+    "elo": 1524.9,
+    "attack": 1.0303,
+    "defense": 1.0696,
+    "form": -0.4659,
     "injury": 0.0,
     "rest_days": 3
   },
