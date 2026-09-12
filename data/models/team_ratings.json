@@ -1392,10 +1392,10 @@
     "rest_days": 3
   },
   "里昂": {
-    "elo": 1695.8,
-    "attack": 0.9083,
-    "defense": 0.6773,
-    "form": 0.2085,
+    "elo": 1698.5,
+    "attack": 0.8197,
+    "defense": 0.6113,
+    "form": 0.1459,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1748.1,
-    "attack": 0.8976,
-    "defense": 0.7904,
-    "form": 0.0081,
+    "elo": 1721.2,
+    "attack": 0.8453,
+    "defense": 0.7837,
+    "form": -0.2943,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2352,10 +2352,10 @@
     "rest_days": 3
   },
   "卡利亚里": {
-    "elo": 1524.7,
-    "attack": 0.5935,
-    "defense": 0.7755,
-    "form": 0.1299,
+    "elo": 1551.6,
+    "attack": 0.606,
+    "defense": 0.7351,
+    "form": 0.3909,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3456,10 +3456,10 @@
     "rest_days": 3
   },
   "巴黎FC": {
-    "elo": 1689.4,
-    "attack": 1.0479,
-    "defense": 0.8614,
-    "form": 0.6492,
+    "elo": 1686.7,
+    "attack": 0.9457,
+    "defense": 0.7774,
+    "form": 0.4544,
     "injury": 0.0,
     "rest_days": 3
   },
