@@ -151,5 +151,16 @@
     "away_team": "沙尔克04",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周五012",
+    "home_team": "科里蒂巴",
+    "away_team": "巴竞技",
+    "home_score": 3,
+    "away_score": 3,
+    "competition": "巴西甲",
+    "match_date": "2026-09-11",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
