@@ -10032,10 +10032,10 @@
     "rest_days": 3
   },
   "利雅得新月": {
-    "elo": 1618.1,
-    "attack": 0.9734,
-    "defense": 0.6787,
-    "form": 0.2823,
+    "elo": 1685.3,
+    "attack": 1.0896,
+    "defense": 0.6125,
+    "form": 0.4976,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10136,10 +10136,10 @@
     "rest_days": 3
   },
   "布赖代合作": {
-    "elo": 1497.0,
-    "attack": 0.9025,
-    "defense": 0.9025,
-    "form": 0.0,
+    "elo": 1429.8,
+    "attack": 0.8145,
+    "defense": 1.0256,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
