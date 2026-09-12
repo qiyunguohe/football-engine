@@ -1088,10 +1088,10 @@
     "rest_days": 3
   },
   "摩纳哥": {
-    "elo": 1730.8,
-    "attack": 1.0696,
-    "defense": 0.901,
-    "form": 0.6847,
+    "elo": 1729.7,
+    "attack": 1.0005,
+    "defense": 0.8483,
+    "form": 0.4793,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3576,10 +3576,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1642.1,
-    "attack": 1.1554,
-    "defense": 0.9929,
-    "form": 0.4639,
+    "elo": 1643.2,
+    "attack": 1.0779,
+    "defense": 0.9313,
+    "form": 0.3247,
     "injury": 0.0,
     "rest_days": 3
   },
