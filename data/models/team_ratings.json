@@ -1592,10 +1592,10 @@
     "rest_days": 3
   },
   "波尔图": {
-    "elo": 1832.4,
-    "attack": 0.8882,
-    "defense": 0.372,
-    "form": 0.3656,
+    "elo": 1841.3,
+    "attack": 0.9423,
+    "defense": 0.3709,
+    "form": 0.5559,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9520,10 +9520,10 @@
     "rest_days": 3
   },
   "卡萨比亚": {
-    "elo": 1398.9,
-    "attack": 0.6378,
-    "defense": 1.0824,
-    "form": -0.5299,
+    "elo": 1390.0,
+    "attack": 0.6108,
+    "defense": 1.1176,
+    "form": -0.6709,
     "injury": 0.0,
     "rest_days": 3
   },
