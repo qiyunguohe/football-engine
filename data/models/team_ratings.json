@@ -2048,10 +2048,10 @@
     "rest_days": 3
   },
   "沙尔克04": {
-    "elo": 1461.2,
-    "attack": 0.6596,
-    "defense": 1.3782,
-    "form": -0.4359,
+    "elo": 1500.4,
+    "attack": 0.7008,
+    "defense": 1.279,
+    "form": -0.0051,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4328,10 +4328,10 @@
     "rest_days": 3
   },
   "柏林联合": {
-    "elo": 1527.0,
-    "attack": 0.8817,
-    "defense": 1.1899,
-    "form": -0.343,
+    "elo": 1487.8,
+    "attack": 0.8309,
+    "defense": 1.1794,
+    "form": -0.5401,
     "injury": 0.0,
     "rest_days": 3
   },
