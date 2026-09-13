@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1723.7,
-    "attack": 1.0952,
-    "defense": 0.6998,
-    "form": 0.6676,
+    "elo": 1743.2,
+    "attack": 1.1643,
+    "defense": 0.6668,
+    "form": 0.7673,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1352,10 +1352,10 @@
     "rest_days": 3
   },
   "朗斯": {
-    "elo": 1766.8,
-    "attack": 1.1969,
-    "defense": 0.7846,
-    "form": -0.0004,
+    "elo": 1758.4,
+    "attack": 1.1506,
+    "defense": 0.7785,
+    "form": -0.0003,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6904,10 +6904,10 @@
     "rest_days": 3
   },
   "汉坎": {
-    "elo": 1394.6,
-    "attack": 0.2122,
-    "defense": 0.5849,
-    "form": -0.4957,
+    "elo": 1375.1,
+    "attack": 0.2267,
+    "defense": 0.7038,
+    "form": -0.647,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10796,6 +10796,14 @@
     "attack": 0.9377,
     "defense": 1.0081,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "勒芒": {
+    "elo": 1508.4,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   }
