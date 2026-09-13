@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "赫塔菲": {
-    "elo": 1474.4,
-    "attack": 0.7273,
-    "defense": 0.808,
-    "form": -0.1659,
+    "elo": 1475.3,
+    "attack": 0.6916,
+    "defense": 0.7644,
+    "form": -0.1161,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1558.8,
-    "attack": 0.9188,
-    "defense": 0.8201,
-    "form": 0.51,
+    "elo": 1557.9,
+    "attack": 0.8644,
+    "defense": 0.7753,
+    "form": 0.357,
     "injury": 0.0,
     "rest_days": 3
   },
