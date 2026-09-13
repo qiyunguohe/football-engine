@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1910.1,
-    "attack": 1.2396,
-    "defense": 0.258,
-    "form": 0.9534,
+    "elo": 1914.4,
+    "attack": 1.2243,
+    "defense": 0.268,
+    "form": 0.9674,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9656,10 +9656,10 @@
     "rest_days": 3
   },
   "吉尔维森特": {
-    "elo": 1537.5,
-    "attack": 0.7815,
-    "defense": 0.6634,
-    "form": 0.4599,
+    "elo": 1533.2,
+    "attack": 0.7405,
+    "defense": 0.7043,
+    "form": 0.0219,
     "injury": 0.0,
     "rest_days": 3
   },
