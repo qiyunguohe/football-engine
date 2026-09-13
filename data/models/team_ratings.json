@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1763.3,
-    "attack": 0.6249,
-    "defense": 0.233,
-    "form": 0.7605,
+    "elo": 1773.4,
+    "attack": 0.6343,
+    "defense": 0.2455,
+    "form": 0.8323,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -488,10 +488,10 @@
     "rest_days": 3
   },
   "科林蒂安": {
-    "elo": 1693.0,
-    "attack": 0.3722,
-    "defense": 0.1919,
-    "form": 0.2442,
+    "elo": 1682.9,
+    "attack": 0.3711,
+    "defense": 0.2436,
+    "form": -0.1291,
     "injury": 0.0,
     "rest_days": 3
   },
