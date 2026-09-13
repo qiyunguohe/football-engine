@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1736.3,
-    "attack": 0.8622,
-    "defense": 0.7028,
-    "form": -0.6121,
+    "elo": 1744.4,
+    "attack": 0.8133,
+    "defense": 0.6343,
+    "form": -0.1285,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1613.3,
-    "attack": 0.7573,
-    "defense": 0.8783,
-    "form": -0.2827,
+    "elo": 1605.2,
+    "attack": 0.6835,
+    "defense": 0.8279,
+    "form": -0.4979,
     "injury": 0.0,
     "rest_days": 3
   },
