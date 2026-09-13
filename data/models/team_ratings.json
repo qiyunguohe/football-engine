@@ -1512,10 +1512,10 @@
     "rest_days": 3
   },
   "拜仁慕尼黑": {
-    "elo": 2181.4,
-    "attack": 2.0048,
-    "defense": 0.6724,
-    "form": 0.7234,
+    "elo": 2182.6,
+    "attack": 1.8797,
+    "defense": 0.642,
+    "form": 0.8064,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4600,10 +4600,10 @@
     "rest_days": 3
   },
   "曼联": {
-    "elo": 1843.4,
-    "attack": 1.3636,
-    "defense": 0.7768,
-    "form": 0.5071,
+    "elo": 1823.1,
+    "attack": 1.2306,
+    "defense": 0.7362,
+    "form": 0.055,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6360,10 +6360,10 @@
     "rest_days": 3
   },
   "曼城": {
-    "elo": 1813.2,
-    "attack": 1.1402,
-    "defense": 0.6512,
-    "form": 0.7858,
+    "elo": 1833.5,
+    "attack": 1.0642,
+    "defense": 0.5877,
+    "form": 0.8501,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10504,10 +10504,10 @@
     "rest_days": 3
   },
   "埃弗斯堡": {
-    "elo": 1547.9,
-    "attack": 1.0506,
-    "defense": 0.9836,
-    "form": 0.51,
+    "elo": 1546.7,
+    "attack": 0.9834,
+    "defense": 0.9581,
+    "form": 0.057,
     "injury": 0.0,
     "rest_days": 3
   },
