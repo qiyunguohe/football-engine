@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1618.1,
-    "attack": 0.9239,
-    "defense": 0.9564,
-    "form": 0.2208,
+    "elo": 1573.3,
+    "attack": 0.8338,
+    "defense": 0.9687,
+    "form": -0.1454,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5672,10 +5672,10 @@
     "rest_days": 3
   },
   "马竞": {
-    "elo": 1656.6,
-    "attack": 0.9309,
-    "defense": 0.7314,
-    "form": -0.195,
+    "elo": 1701.4,
+    "attack": 0.9457,
+    "defense": 0.6601,
+    "form": 0.1635,
     "injury": 0.0,
     "rest_days": 3
   },

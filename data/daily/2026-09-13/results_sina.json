@@ -498,5 +498,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762562",
+    "match_no": "周日021",
+    "home_team": "皇家社会",
+    "away_team": "马竞",
+    "home_score": 0,
+    "away_score": 3,
+    "half_home_score": 0,
+    "half_away_score": 0,
+    "league": "西甲",
+    "match_time": "2026-09-14 03:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.12,
+    "odds_draw": 3.35,
+    "odds_away": 1.96,
+    "corner_home": "9",
+    "corner_away": "3",
+    "yellow_home": "2",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
