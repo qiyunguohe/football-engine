@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1852.0,
-    "attack": 1.2008,
-    "defense": 0.6273,
-    "form": 0.6472,
+    "elo": 1863.1,
+    "attack": 1.1541,
+    "defense": 0.5661,
+    "form": 0.753,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1891.1,
-    "attack": 1.2335,
-    "defense": 0.5461,
-    "form": 0.8694,
+    "elo": 1893.0,
+    "attack": 1.1836,
+    "defense": 0.528,
+    "form": 0.9086,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2376,10 +2376,10 @@
     "rest_days": 3
   },
   "都灵": {
-    "elo": 1537.3,
-    "attack": 0.7416,
-    "defense": 0.9422,
-    "form": -0.1892,
+    "elo": 1526.2,
+    "attack": 0.6693,
+    "defense": 0.9207,
+    "form": -0.4324,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2408,10 +2408,10 @@
     "rest_days": 3
   },
   "帕尔马": {
-    "elo": 1475.9,
-    "attack": 0.448,
-    "defense": 0.7934,
-    "form": -0.4743,
+    "elo": 1474.0,
+    "attack": 0.4395,
+    "defense": 0.7864,
+    "form": -0.632,
     "injury": 0.0,
     "rest_days": 3
   },
