@@ -1632,10 +1632,10 @@
     "rest_days": 3
   },
   "纽卡斯尔联": {
-    "elo": 1809.7,
-    "attack": 1.0598,
-    "defense": 1.007,
-    "form": 0.2703,
+    "elo": 1767.4,
+    "attack": 0.9917,
+    "defense": 1.0496,
+    "form": -0.1108,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1936,10 +1936,10 @@
     "rest_days": 3
   },
   "比利亚雷亚尔": {
-    "elo": 1693.1,
-    "attack": 1.1172,
-    "defense": 1.0154,
-    "form": -0.6261,
+    "elo": 1668.3,
+    "attack": 1.0435,
+    "defense": 0.9868,
+    "form": -0.7383,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3552,10 +3552,10 @@
     "rest_days": 3
   },
   "利兹联": {
-    "elo": 1738.5,
-    "attack": 0.7823,
-    "defense": 0.7559,
-    "form": -0.0393,
+    "elo": 1780.8,
+    "attack": 0.8468,
+    "defense": 0.7174,
+    "form": 0.2725,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1542.0,
-    "attack": 0.8839,
-    "defense": 0.877,
-    "form": 0.4659,
+    "elo": 1566.8,
+    "attack": 0.8681,
+    "defense": 0.8267,
+    "form": 0.6261,
     "injury": 0.0,
     "rest_days": 3
   },
