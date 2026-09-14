@@ -9952,10 +9952,10 @@
     "rest_days": 3
   },
   "吉达国民": {
-    "elo": 1456.0,
-    "attack": 0.756,
-    "defense": 0.9631,
-    "form": -0.6879,
+    "elo": 1455.0,
+    "attack": 0.7175,
+    "defense": 0.9044,
+    "form": -0.4815,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10836,6 +10836,14 @@
     "attack": 1.0784,
     "defense": 0.9377,
     "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "塔什干棉农": {
+    "elo": 1501.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   }
