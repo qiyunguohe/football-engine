@@ -2216,10 +2216,10 @@
     "rest_days": 3
   },
   "埃尔切": {
-    "elo": 1474.7,
-    "attack": 0.7205,
-    "defense": 1.0406,
-    "form": -0.523,
+    "elo": 1469.2,
+    "attack": 0.7206,
+    "defense": 1.0447,
+    "form": -0.6661,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3512,10 +3512,10 @@
     "rest_days": 3
   },
   "皇马": {
-    "elo": 1812.2,
-    "attack": 1.2729,
-    "defense": 0.637,
-    "form": 0.7404,
+    "elo": 1817.7,
+    "attack": 1.2543,
+    "defense": 0.6453,
+    "form": 0.8183,
     "injury": 0.0,
     "rest_days": 3
   },

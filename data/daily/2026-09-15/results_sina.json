@@ -298,5 +298,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762577",
+    "match_no": "周二013",
+    "home_team": "埃尔切",
+    "away_team": "皇马",
+    "home_score": 2,
+    "away_score": 3,
+    "half_home_score": 0,
+    "half_away_score": 2,
+    "league": "西甲",
+    "match_time": "2026-09-16 03:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 0.0,
+    "odds_draw": 0.0,
+    "odds_away": 0.0,
+    "corner_home": "2",
+    "corner_away": "5",
+    "yellow_home": "4",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
