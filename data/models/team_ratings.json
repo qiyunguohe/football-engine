@@ -600,10 +600,10 @@
     "rest_days": 3
   },
   "利物浦": {
-    "elo": 1807.8,
-    "attack": 0.8863,
-    "defense": 0.6616,
-    "form": 0.4465,
+    "elo": 1824.1,
+    "attack": 0.9054,
+    "defense": 0.6323,
+    "form": 0.6125,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2075.8,
-    "attack": 0.8981,
-    "defense": 0.2964,
-    "form": 0.9659,
+    "elo": 2079.1,
+    "attack": 0.9513,
+    "defense": 0.3379,
+    "form": 0.9761,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3280,10 +3280,10 @@
     "rest_days": 3
   },
   "热刺": {
-    "elo": 1711.6,
-    "attack": 0.7808,
-    "defense": 0.5121,
-    "form": -0.0921,
+    "elo": 1695.3,
+    "attack": 0.7399,
+    "defense": 0.5677,
+    "form": -0.3645,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10320,10 +10320,10 @@
     "rest_days": 3
   },
   "伊普斯维奇": {
-    "elo": 1524.0,
-    "attack": 0.878,
-    "defense": 0.9665,
-    "form": 0.0459,
+    "elo": 1520.7,
+    "attack": 0.8628,
+    "defense": 1.013,
+    "form": -0.2679,
     "injury": 0.0,
     "rest_days": 3
   },
