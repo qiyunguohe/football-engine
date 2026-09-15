@@ -5824,10 +5824,10 @@
     "rest_days": 3
   },
   "艾因": {
-    "elo": 1519.2,
-    "attack": 1.1175,
-    "defense": 1.1283,
-    "form": -0.153,
+    "elo": 1574.5,
+    "attack": 1.1493,
+    "defense": 1.0183,
+    "form": 0.1929,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10160,10 +10160,10 @@
     "rest_days": 3
   },
   "利雅得胜利": {
-    "elo": 1590.2,
-    "attack": 0.9861,
-    "defense": 0.7973,
-    "form": 0.1599,
+    "elo": 1534.9,
+    "attack": 0.89,
+    "defense": 0.8603,
+    "form": -0.1881,
     "injury": 0.0,
     "rest_days": 3
   },
