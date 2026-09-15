@@ -9440,10 +9440,10 @@
     "rest_days": 3
   },
   "米德尔斯堡": {
-    "elo": 1513.0,
-    "attack": 0.8815,
-    "defense": 0.8497,
-    "form": 0.21,
+    "elo": 1506.2,
+    "attack": 0.8659,
+    "defense": 0.8372,
+    "form": 0.147,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9496,10 +9496,10 @@
     "rest_days": 3
   },
   "米尔沃尔": {
-    "elo": 1420.2,
-    "attack": 0.7752,
-    "defense": 0.8901,
-    "form": -0.363,
+    "elo": 1427.0,
+    "attack": 0.77,
+    "defense": 0.8737,
+    "form": -0.2541,
     "injury": 0.0,
     "rest_days": 3
   },
