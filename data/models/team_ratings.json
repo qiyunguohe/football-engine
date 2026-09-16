@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1577.1,
-    "attack": 0.7135,
-    "defense": 0.8419,
-    "form": 0.28,
+    "elo": 1595.2,
+    "attack": 0.6791,
+    "defense": 0.7598,
+    "form": 0.496,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5088,10 +5088,10 @@
     "rest_days": 3
   },
   "奥萨苏纳": {
-    "elo": 1513.6,
-    "attack": 0.6529,
-    "defense": 0.884,
-    "form": -0.3974,
+    "elo": 1493.0,
+    "attack": 0.5892,
+    "defense": 0.9386,
+    "form": -0.5782,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5672,10 +5672,10 @@
     "rest_days": 3
   },
   "马竞": {
-    "elo": 1701.4,
-    "attack": 0.9457,
-    "defense": 0.6601,
-    "form": 0.1635,
+    "elo": 1722.0,
+    "attack": 0.9942,
+    "defense": 0.5957,
+    "form": 0.4144,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1557.9,
-    "attack": 0.8644,
-    "defense": 0.7753,
-    "form": 0.357,
+    "elo": 1539.8,
+    "attack": 0.7801,
+    "defense": 0.7349,
+    "form": -0.0501,
     "injury": 0.0,
     "rest_days": 3
   },
