@@ -1920,10 +1920,10 @@
     "rest_days": 3
   },
   "奥莫尼亚": {
-    "elo": 1449.2,
-    "attack": 0.4566,
-    "defense": 0.5295,
-    "form": 0.2236,
+    "elo": 1464.2,
+    "attack": 0.4473,
+    "defense": 0.4779,
+    "form": 0.4565,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1493.3,
-    "attack": 0.636,
-    "defense": 0.6826,
-    "form": -0.072,
+    "elo": 1478.3,
+    "attack": 0.574,
+    "defense": 0.6512,
+    "form": -0.3504,
     "injury": 0.0,
     "rest_days": 3
   },
