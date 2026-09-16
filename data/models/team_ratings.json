@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1706.3,
-    "attack": 0.7765,
-    "defense": 0.6482,
-    "form": 0.1183,
+    "elo": 1689.0,
+    "attack": 0.7008,
+    "defense": 0.6554,
+    "form": -0.2172,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1918.3,
-    "attack": 1.2105,
-    "defense": 0.2771,
-    "form": 0.9772,
+    "elo": 1935.6,
+    "attack": 1.1628,
+    "defense": 0.2501,
+    "form": 0.984,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1392,18 +1392,18 @@
     "rest_days": 3
   },
   "里昂": {
-    "elo": 1698.5,
-    "attack": 0.8197,
-    "defense": 0.6113,
-    "form": 0.1459,
+    "elo": 1718.5,
+    "attack": 0.8101,
+    "defense": 0.5869,
+    "form": 0.4021,
     "injury": 0.0,
     "rest_days": 3
   },
   "雷恩": {
-    "elo": 1716.7,
-    "attack": 1.2046,
-    "defense": 1.0274,
-    "form": 0.3214,
+    "elo": 1713.3,
+    "attack": 1.0872,
+    "defense": 0.9272,
+    "form": 0.225,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1544,10 +1544,10 @@
     "rest_days": 3
   },
   "阿斯顿维拉": {
-    "elo": 1817.1,
-    "attack": 0.863,
-    "defense": 0.723,
-    "form": -0.2964,
+    "elo": 1826.7,
+    "attack": 0.8844,
+    "defense": 0.6877,
+    "form": 0.0925,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1816,10 +1816,10 @@
     "rest_days": 3
   },
   "勒沃库森": {
-    "elo": 1763.4,
-    "attack": 1.158,
-    "defense": 0.8953,
-    "form": -0.0473,
+    "elo": 1771.6,
+    "attack": 1.1155,
+    "defense": 0.808,
+    "form": 0.2669,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2952,10 +2952,10 @@
     "rest_days": 3
   },
   "安德莱赫特": {
-    "elo": 1721.8,
-    "attack": 0.8985,
-    "defense": 0.3994,
-    "form": 0.9932,
+    "elo": 1701.8,
+    "attack": 0.8461,
+    "defense": 0.4308,
+    "form": 0.3952,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3968,10 +3968,10 @@
     "rest_days": 3
   },
   "采列": {
-    "elo": 1515.9,
-    "attack": 0.7136,
-    "defense": 0.6503,
-    "form": 0.2071,
+    "elo": 1507.7,
+    "attack": 0.644,
+    "defense": 0.6573,
+    "form": -0.155,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4432,10 +4432,10 @@
     "rest_days": 3
   },
   "格拉茨风暴": {
-    "elo": 1576.0,
-    "attack": 0.5668,
-    "defense": 0.6379,
-    "form": 0.0368,
+    "elo": 1579.4,
+    "attack": 0.5115,
+    "defense": 0.5757,
+    "form": 0.0258,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10272,10 +10272,10 @@
     "rest_days": 3
   },
   "考文垂": {
-    "elo": 1471.6,
-    "attack": 0.7351,
-    "defense": 0.888,
-    "form": -0.657,
+    "elo": 1462.0,
+    "attack": 0.6986,
+    "defense": 0.907,
+    "form": -0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
