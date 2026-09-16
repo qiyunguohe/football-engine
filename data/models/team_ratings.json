@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1827.5,
-    "attack": 1.3736,
-    "defense": 0.744,
-    "form": 0.7798,
+    "elo": 1840.8,
+    "attack": 1.486,
+    "defense": 0.7418,
+    "form": 0.8459,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10200,10 +10200,10 @@
     "rest_days": 3
   },
   "桑坦德竞技": {
-    "elo": 1508.8,
-    "attack": 0.8653,
-    "defense": 0.859,
-    "form": 0.1341,
+    "elo": 1495.5,
+    "attack": 0.8513,
+    "defense": 1.0215,
+    "form": -0.2061,
     "injury": 0.0,
     "rest_days": 3
   },
