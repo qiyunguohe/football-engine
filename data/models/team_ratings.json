@@ -10904,15 +10904,23 @@
     "rest_days": 3
   },
   "柔佛": {
-    "elo": 1497.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
+    "elo": 1494.2,
+    "attack": 0.8815,
+    "defense": 0.8815,
     "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   },
   "武里南联": {
     "elo": 1503.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "布里兰": {
+    "elo": 1502.8,
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
