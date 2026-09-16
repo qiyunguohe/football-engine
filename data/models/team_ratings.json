@@ -1256,10 +1256,10 @@
     "rest_days": 3
   },
   "阿尔克马尔": {
-    "elo": 1697.8,
-    "attack": 1.1857,
-    "defense": 0.6835,
-    "form": 0.6264,
+    "elo": 1683.7,
+    "attack": 1.0701,
+    "defense": 0.652,
+    "form": 0.1385,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1560,10 +1560,10 @@
     "rest_days": 3
   },
   "桑德兰": {
-    "elo": 1674.0,
-    "attack": 0.5711,
-    "defense": 0.7323,
-    "form": -0.0178,
+    "elo": 1688.1,
+    "attack": 0.5506,
+    "defense": 0.6609,
+    "form": 0.2875,
     "injury": 0.0,
     "rest_days": 3
   },
