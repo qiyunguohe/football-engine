@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1595.2,
-    "attack": 0.6791,
-    "defense": 0.7598,
-    "form": 0.496,
+    "elo": 1608.3,
+    "attack": 0.6481,
+    "defense": 0.6857,
+    "form": 0.6472,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1560,10 +1560,10 @@
     "rest_days": 3
   },
   "桑德兰": {
-    "elo": 1688.1,
-    "attack": 0.5506,
-    "defense": 0.6609,
-    "form": 0.2875,
+    "elo": 1699.7,
+    "attack": 0.5321,
+    "defense": 0.5965,
+    "form": 0.5012,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2168,10 +2168,10 @@
     "rest_days": 3
   },
   "拉科": {
-    "elo": 1467.3,
-    "attack": 0.7334,
-    "defense": 1.0838,
-    "form": 0.1919,
+    "elo": 1454.2,
+    "attack": 0.6619,
+    "defense": 1.0133,
+    "form": -0.1657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4472,10 +4472,10 @@
     "rest_days": 3
   },
   "阿尔克马": {
-    "elo": 1655.6,
-    "attack": 1.1204,
-    "defense": 0.9473,
-    "form": 0.3545,
+    "elo": 1644.0,
+    "attack": 1.0112,
+    "defense": 0.8901,
+    "form": -0.0519,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1840.8,
-    "attack": 1.486,
-    "defense": 0.7418,
-    "form": 0.8459,
+    "elo": 1854.3,
+    "attack": 1.5874,
+    "defense": 0.7398,
+    "form": 0.8921,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6472,10 +6472,10 @@
     "rest_days": 3
   },
   "维拉": {
-    "elo": 1725.4,
-    "attack": 0.9375,
-    "defense": 0.7699,
-    "form": -0.0955,
+    "elo": 1739.3,
+    "attack": 0.9516,
+    "defense": 0.73,
+    "form": 0.2331,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10272,10 +10272,10 @@
     "rest_days": 3
   },
   "考文垂": {
-    "elo": 1462.0,
-    "attack": 0.6986,
-    "defense": 0.907,
-    "form": -0.7599,
+    "elo": 1448.1,
+    "attack": 0.6657,
+    "defense": 0.9241,
+    "form": -0.8319,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10424,10 +10424,10 @@
     "rest_days": 3
   },
   "桑坦德": {
-    "elo": 1524.4,
-    "attack": 0.955,
-    "defense": 0.9229,
-    "form": 0.237,
+    "elo": 1510.9,
+    "attack": 0.9323,
+    "defense": 1.0792,
+    "form": -0.1341,
     "injury": 0.0,
     "rest_days": 3
   },

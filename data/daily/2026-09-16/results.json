@@ -45,7 +45,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841232",
+    "match_id": "周三004",
     "home_score": 1,
     "away_score": 0,
     "home_team": "奥莫尼亚",
@@ -63,7 +63,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3762573",
+    "match_id": "周三006",
     "home_score": 4,
     "away_score": 0,
     "home_team": "马竞",
@@ -81,7 +81,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841101",
+    "match_id": "周三007",
     "home_score": 0,
     "away_score": 2,
     "home_team": "AC米兰",
@@ -90,7 +90,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3841118",
+    "match_id": "周三008",
     "home_score": 2,
     "away_score": 0,
     "home_team": "勒沃库森",
@@ -99,7 +99,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841275",
+    "match_id": "周三010",
     "home_score": 0,
     "away_score": 0,
     "home_team": "格拉茨风暴",
@@ -108,7 +108,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841106",
+    "match_id": "周三011",
     "home_score": 1,
     "away_score": 2,
     "home_team": "安德莱赫特",
@@ -150,6 +150,42 @@
     "home_team": "博塔弗戈",
     "away_team": "格雷米奥",
     "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周三005",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "拉科",
+    "away_team": "塞维利亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周三009",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "桑德兰",
+    "away_team": "阿尔克马",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周三012",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "考文垂",
+    "away_team": "维拉",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "周三013",
+    "home_score": 7,
+    "away_score": 2,
+    "home_team": "巴萨",
+    "away_team": "桑坦德",
+    "half_home_score": 4,
     "half_away_score": 1
   }
 ]
