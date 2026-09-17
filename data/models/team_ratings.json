@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "赫塔菲": {
-    "elo": 1475.3,
-    "attack": 0.6916,
-    "defense": 0.7644,
-    "form": -0.1161,
+    "elo": 1467.0,
+    "attack": 0.6242,
+    "defense": 0.7251,
+    "form": -0.3813,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1591.7,
-    "attack": 0.8538,
-    "defense": 0.7813,
-    "form": 0.7383,
+    "elo": 1600.0,
+    "attack": 0.8057,
+    "defense": 0.7051,
+    "form": 0.8168,
     "injury": 0.0,
     "rest_days": 3
   },
