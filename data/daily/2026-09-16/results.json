@@ -144,7 +144,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3632616",
+    "match_id": "周三016",
     "home_score": 3,
     "away_score": 2,
     "home_team": "博塔弗戈",
@@ -186,6 +186,15 @@
     "home_team": "巴萨",
     "away_team": "桑坦德",
     "half_home_score": 4,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周三015",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "基多体大",
+    "away_team": "帕梅拉斯",
+    "half_home_score": 1,
     "half_away_score": 1
   }
 ]

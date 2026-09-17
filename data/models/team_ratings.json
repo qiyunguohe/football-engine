@@ -512,10 +512,10 @@
     "rest_days": 3
   },
   "帕尔梅拉斯": {
-    "elo": 1784.1,
-    "attack": 0.7095,
-    "defense": 0.3144,
-    "form": 0.1278,
+    "elo": 1759.1,
+    "attack": 0.7107,
+    "defense": 0.3893,
+    "form": -0.2105,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10712,10 +10712,10 @@
     "rest_days": 3
   },
   "基多体大": {
-    "elo": 1496.6,
-    "attack": 0.9025,
-    "defense": 0.9377,
-    "form": -0.3,
+    "elo": 1521.6,
+    "attack": 0.9201,
+    "defense": 0.9166,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
