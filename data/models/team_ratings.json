@@ -2024,10 +2024,10 @@
     "rest_days": 3
   },
   "霍芬海姆": {
-    "elo": 1634.3,
-    "attack": 1.1354,
-    "defense": 1.1548,
-    "form": -0.0447,
+    "elo": 1599.8,
+    "attack": 1.0247,
+    "defense": 1.1126,
+    "form": -0.3313,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11012,6 +11012,14 @@
     "attack": 0.9377,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "克里特": {
+    "elo": 1534.5,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
