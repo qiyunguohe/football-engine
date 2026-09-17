@@ -392,10 +392,10 @@
     "rest_days": 3
   },
   "博塔弗戈": {
-    "elo": 1693.3,
-    "attack": 0.3059,
-    "defense": 0.2594,
-    "form": 0.0927,
+    "elo": 1701.1,
+    "attack": 0.3816,
+    "defense": 0.3045,
+    "form": 0.3649,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -432,10 +432,10 @@
     "rest_days": 3
   },
   "格雷米奥": {
-    "elo": 1562.8,
-    "attack": 0.5057,
-    "defense": 0.4947,
-    "form": -0.0171,
+    "elo": 1555.0,
+    "attack": 0.5268,
+    "defense": 0.552,
+    "form": -0.312,
     "injury": 0.0,
     "rest_days": 3
   },

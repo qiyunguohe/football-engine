@@ -348,5 +348,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3632616",
+    "match_no": "周三016",
+    "home_team": "博塔弗戈",
+    "away_team": "格雷米奥",
+    "home_score": 3,
+    "away_score": 2,
+    "half_home_score": 1,
+    "half_away_score": 1,
+    "league": "巴西甲",
+    "match_time": "2026-09-17 06:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.53,
+    "odds_draw": 3.8,
+    "odds_away": 4.7,
+    "corner_home": "3",
+    "corner_away": "3",
+    "yellow_home": "1",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
