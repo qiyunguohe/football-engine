@@ -664,10 +664,10 @@
     "rest_days": 3
   },
   "伯恩茅斯": {
-    "elo": 1801.7,
-    "attack": 0.8822,
-    "defense": 0.8032,
-    "form": -0.01,
+    "elo": 1810.7,
+    "attack": 0.8666,
+    "defense": 0.7601,
+    "form": 0.293,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -944,10 +944,10 @@
     "rest_days": 3
   },
   "贝西克塔斯": {
-    "elo": 1749.4,
-    "attack": 0.6635,
-    "defense": 0.2378,
-    "form": 0.9932,
+    "elo": 1770.8,
+    "attack": 0.7395,
+    "defense": 0.2498,
+    "form": 0.9952,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1368,10 +1368,10 @@
     "rest_days": 3
   },
   "马赛": {
-    "elo": 1630.7,
-    "attack": 0.9691,
-    "defense": 0.9158,
-    "form": -0.4793,
+    "elo": 1609.3,
+    "attack": 0.9098,
+    "defense": 0.9673,
+    "form": -0.6355,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1624,10 +1624,10 @@
     "rest_days": 3
   },
   "水晶宫": {
-    "elo": 1624.7,
-    "attack": 0.7818,
-    "defense": 0.9959,
-    "form": -0.5359,
+    "elo": 1666.6,
+    "attack": 0.8463,
+    "defense": 0.8988,
+    "form": -0.0751,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1573.3,
-    "attack": 0.8338,
-    "defense": 0.9687,
-    "form": -0.1454,
+    "elo": 1564.3,
+    "attack": 0.7877,
+    "defense": 0.9446,
+    "form": -0.4018,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3520,10 +3520,10 @@
     "rest_days": 3
   },
   "奈梅亨": {
-    "elo": 1554.6,
-    "attack": 1.0356,
-    "defense": 0.8925,
-    "form": -0.1247,
+    "elo": 1496.0,
+    "attack": 0.9346,
+    "defense": 0.9814,
+    "form": -0.3873,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4160,10 +4160,10 @@
     "rest_days": 3
   },
   "波兹南莱赫": {
-    "elo": 1608.7,
-    "attack": 1.1026,
-    "defense": 0.8084,
-    "form": 0.6259,
+    "elo": 1566.8,
+    "attack": 0.9951,
+    "defense": 0.8703,
+    "form": 0.1381,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6912,10 +6912,10 @@
     "rest_days": 3
   },
   "利勒斯特伦": {
-    "elo": 1465.6,
-    "attack": 0.7656,
-    "defense": 0.8911,
-    "form": 0.0501,
+    "elo": 1448.2,
+    "attack": 0.7261,
+    "defense": 0.8746,
+    "form": -0.2649,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1534.5,
-    "attack": 0.8487,
-    "defense": 0.8008,
-    "form": -0.0501,
+    "elo": 1593.1,
+    "attack": 0.9419,
+    "defense": 0.7227,
+    "form": 0.2649,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11019,6 +11019,14 @@
     "elo": 1534.5,
     "attack": 0.9729,
     "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "托伦斯": {
+    "elo": 1517.4,
+    "attack": 0.9729,
+    "defense": 0.9377,
     "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
