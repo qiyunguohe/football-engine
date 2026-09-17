@@ -1936,10 +1936,10 @@
     "rest_days": 3
   },
   "比利亚雷亚尔": {
-    "elo": 1668.3,
-    "attack": 1.0435,
-    "defense": 0.9868,
-    "form": -0.7383,
+    "elo": 1678.8,
+    "attack": 1.0473,
+    "defense": 0.9258,
+    "form": -0.2168,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2152,10 +2152,10 @@
     "rest_days": 3
   },
   "马拉加": {
-    "elo": 1342.7,
+    "elo": 1332.2,
     "attack": 0.3604,
-    "defense": 0.8917,
-    "form": -0.3547,
+    "defense": 0.9103,
+    "form": -0.5483,
     "injury": 0.0,
     "rest_days": 3
   },

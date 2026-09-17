@@ -88,5 +88,14 @@
     "away_team": "托伦斯",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3762582",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "马拉加",
+    "away_team": "比利亚雷亚尔",
+    "half_home_score": 1,
+    "half_away_score": 2
   }
 ]
