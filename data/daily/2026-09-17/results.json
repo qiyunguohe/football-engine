@@ -27,7 +27,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3841215",
+    "match_id": "周四003",
     "home_score": 2,
     "away_score": 0,
     "home_team": "克里特",
@@ -45,7 +45,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841145",
+    "match_id": "周四005",
     "home_score": 4,
     "away_score": 0,
     "home_team": "水晶宫",
@@ -54,7 +54,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841252",
+    "match_id": "周四006",
     "home_score": 1,
     "away_score": 2,
     "home_team": "皇家社会",
@@ -72,7 +72,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3841126",
+    "match_id": "周四008",
     "home_score": 4,
     "away_score": 1,
     "home_team": "贝西克塔斯",
@@ -95,6 +95,51 @@
     "away_score": 3,
     "home_team": "马拉加",
     "away_team": "比利亚雷亚尔",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "周四002",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "上海申花",
+    "away_team": "淡宾尼士",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周四004",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "贝蒂斯",
+    "away_team": "赫塔费",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周四007",
+    "home_score": 5,
+    "away_score": 0,
+    "home_team": "尤文图斯",
+    "away_team": "奈梅亨",
+    "half_home_score": 3,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周四009",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "利勒斯特",
+    "away_team": "托林斯",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周四010",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "马拉加",
+    "away_team": "比利亚雷",
     "half_home_score": 1,
     "half_away_score": 2
   }
