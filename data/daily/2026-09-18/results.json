@@ -97,5 +97,32 @@
     "away_team": "朗斯",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "3755060",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "布伦特福德",
+    "away_team": "切尔西",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3760615",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "布里斯托尔城",
+    "away_team": "沃特福德",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3762590",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "西班牙人",
+    "away_team": "埃尔切",
+    "half_home_score": 0,
+    "half_away_score": 2
   }
 ]

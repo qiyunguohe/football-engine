@@ -696,10 +696,10 @@
     "rest_days": 3
   },
   "布伦特福德": {
-    "elo": 1837.4,
-    "attack": 0.9858,
-    "defense": 0.7638,
-    "form": 0.1562,
+    "elo": 1861.2,
+    "attack": 0.9952,
+    "defense": 0.6893,
+    "form": 0.4093,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1008,10 +1008,10 @@
     "rest_days": 3
   },
   "切尔西": {
-    "elo": 1743.5,
-    "attack": 1.0327,
-    "defense": 1.076,
-    "form": -0.0619,
+    "elo": 1719.7,
+    "attack": 0.932,
+    "defense": 1.0766,
+    "form": -0.3433,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2184,10 +2184,10 @@
     "rest_days": 3
   },
   "西班牙人": {
-    "elo": 1580.4,
-    "attack": 0.6672,
-    "defense": 0.7802,
-    "form": -0.2036,
+    "elo": 1538.1,
+    "attack": 0.6373,
+    "defense": 0.8097,
+    "form": -0.4425,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2216,10 +2216,10 @@
     "rest_days": 3
   },
   "埃尔切": {
-    "elo": 1469.2,
-    "attack": 0.7206,
-    "defense": 1.0447,
-    "form": -0.6661,
+    "elo": 1511.5,
+    "attack": 0.7559,
+    "defense": 0.978,
+    "form": -0.1663,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3592,10 +3592,10 @@
     "rest_days": 3
   },
   "沃特福德": {
-    "elo": 1308.7,
-    "attack": 0.5524,
-    "defense": 1.4996,
-    "form": -0.8823,
+    "elo": 1303.6,
+    "attack": 0.4985,
+    "defense": 1.3886,
+    "form": -0.9176,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10584,10 +10584,10 @@
     "rest_days": 3
   },
   "布里斯托尔城": {
-    "elo": 1530.7,
-    "attack": 1.0081,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1535.8,
+    "attack": 0.945,
+    "defense": 0.8463,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
