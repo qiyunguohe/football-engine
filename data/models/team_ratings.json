@@ -1160,10 +1160,10 @@
     "rest_days": 3
   },
   "兹沃勒": {
-    "elo": 1320.7,
-    "attack": 0.7916,
-    "defense": 1.2767,
-    "form": -0.3674,
+    "elo": 1302.0,
+    "attack": 0.7144,
+    "defense": 1.2578,
+    "form": -0.5572,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1176,10 +1176,10 @@
     "rest_days": 3
   },
   "兰斯": {
-    "elo": 1485.6,
-    "attack": 0.6544,
-    "defense": 0.8862,
-    "form": 0.0992,
+    "elo": 1477.7,
+    "attack": 0.6258,
+    "defense": 0.835,
+    "form": 0.0694,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1224,10 +1224,10 @@
     "rest_days": 3
   },
   "格罗宁根": {
-    "elo": 1471.0,
-    "attack": 0.9462,
-    "defense": 1.041,
-    "form": -0.2768,
+    "elo": 1489.7,
+    "attack": 0.9595,
+    "defense": 0.9395,
+    "form": 0.1062,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1312,10 +1312,10 @@
     "rest_days": 3
   },
   "蒙彼利埃": {
-    "elo": 1362.7,
-    "attack": 0.5524,
-    "defense": 1.1615,
-    "form": 0.0293,
+    "elo": 1370.6,
+    "attack": 0.5337,
+    "defense": 1.0834,
+    "form": 0.0205,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1511.4,
-    "attack": 1.054,
-    "defense": 0.9802,
-    "form": 0.09,
+    "elo": 1523.9,
+    "attack": 1.0216,
+    "defense": 0.9198,
+    "form": 0.363,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11059,6 +11059,14 @@
     "elo": 1462.8,
     "attack": 0.9377,
     "defense": 1.0784,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "赫尔蒙德": {
+    "elo": 1487.5,
+    "attack": 0.9377,
+    "defense": 0.9729,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
