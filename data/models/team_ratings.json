@@ -1392,18 +1392,18 @@
     "rest_days": 3
   },
   "里昂": {
-    "elo": 1718.5,
-    "attack": 0.8101,
-    "defense": 0.5869,
-    "form": 0.4021,
+    "elo": 1762.1,
+    "attack": 0.8719,
+    "defense": 0.5297,
+    "form": 0.5815,
     "injury": 0.0,
     "rest_days": 3
   },
   "雷恩": {
-    "elo": 1713.3,
-    "attack": 1.0872,
-    "defense": 0.9272,
-    "form": 0.225,
+    "elo": 1669.7,
+    "attack": 0.9812,
+    "defense": 0.9775,
+    "form": -0.1425,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1608.3,
-    "attack": 0.6481,
-    "defense": 0.6857,
-    "form": 0.6472,
+    "elo": 1593.3,
+    "attack": 0.6201,
+    "defense": 0.7244,
+    "form": 0.153,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1854.3,
-    "attack": 1.5874,
-    "defense": 0.7398,
-    "form": 0.8921,
+    "elo": 1869.3,
+    "attack": 1.5382,
+    "defense": 0.7029,
+    "form": 0.9245,
     "injury": 0.0,
     "rest_days": 3
   },
