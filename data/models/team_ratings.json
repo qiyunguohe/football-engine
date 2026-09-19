@@ -1848,10 +1848,10 @@
     "rest_days": 3
   },
   "阿罗卡": {
-    "elo": 1573.0,
-    "attack": 0.7832,
-    "defense": 0.7513,
-    "form": 0.1046,
+    "elo": 1576.6,
+    "attack": 0.7772,
+    "defense": 0.7484,
+    "form": 0.0732,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9568,10 +9568,10 @@
     "rest_days": 3
   },
   "葡萄牙体育": {
-    "elo": 1587.2,
-    "attack": 0.9519,
-    "defense": 0.7479,
-    "form": 0.4599,
+    "elo": 1583.6,
+    "attack": 0.9295,
+    "defense": 0.7454,
+    "form": 0.3219,
     "injury": 0.0,
     "rest_days": 3
   },
