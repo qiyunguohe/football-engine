@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1863.1,
-    "attack": 1.1541,
-    "defense": 0.5661,
-    "form": 0.753,
+    "elo": 1851.0,
+    "attack": 1.1119,
+    "defense": 0.5813,
+    "form": 0.5271,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1504,10 +1504,10 @@
     "rest_days": 3
   },
   "多特蒙德": {
-    "elo": 1866.2,
-    "attack": 1.2225,
-    "defense": 0.7059,
-    "form": 0.8317,
+    "elo": 1879.5,
+    "attack": 1.1385,
+    "defense": 0.6371,
+    "form": 0.8822,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1528,10 +1528,10 @@
     "rest_days": 3
   },
   "斯图加特": {
-    "elo": 1743.0,
-    "attack": 1.1555,
-    "defense": 1.0424,
-    "form": -0.1468,
+    "elo": 1729.7,
+    "attack": 1.0428,
+    "defense": 0.976,
+    "form": -0.4028,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1585.3,
-    "attack": 1.0116,
-    "defense": 0.8485,
-    "form": 0.4119,
+    "elo": 1597.4,
+    "attack": 0.9833,
+    "defense": 0.8361,
+    "form": 0.2883,
     "injury": 0.0,
     "rest_days": 3
   },
