@@ -3456,10 +3456,10 @@
     "rest_days": 3
   },
   "巴黎FC": {
-    "elo": 1686.7,
-    "attack": 0.9457,
-    "defense": 0.7774,
-    "form": 0.4544,
+    "elo": 1697.9,
+    "attack": 0.9239,
+    "defense": 0.7368,
+    "form": 0.6181,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3576,10 +3576,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1643.2,
-    "attack": 1.0779,
-    "defense": 0.9313,
-    "form": 0.3247,
+    "elo": 1632.0,
+    "attack": 1.008,
+    "defense": 0.9109,
+    "form": -0.0727,
     "injury": 0.0,
     "rest_days": 3
   },
