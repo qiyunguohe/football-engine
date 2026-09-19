@@ -1008,10 +1008,10 @@
     "rest_days": 3
   },
   "切尔西": {
-    "elo": 1719.7,
-    "attack": 0.932,
-    "defense": 1.0766,
-    "form": -0.3433,
+    "elo": 1663.7,
+    "attack": 0.8411,
+    "defense": 1.0772,
+    "form": -0.5403,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3272,10 +3272,10 @@
     "rest_days": 3
   },
   "沃夫斯堡": {
-    "elo": 1668.7,
-    "attack": 1.0919,
-    "defense": 0.9803,
-    "form": -0.0102,
+    "elo": 1676.6,
+    "attack": 1.1614,
+    "defense": 0.9199,
+    "form": 0.2929,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3592,10 +3592,10 @@
     "rest_days": 3
   },
   "沃特福德": {
-    "elo": 1303.6,
-    "attack": 0.4985,
-    "defense": 1.3886,
-    "form": -0.9176,
+    "elo": 1298.5,
+    "attack": 0.4499,
+    "defense": 1.2884,
+    "form": -0.9423,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4328,10 +4328,10 @@
     "rest_days": 3
   },
   "柏林联合": {
-    "elo": 1485.5,
-    "attack": 0.7499,
-    "defense": 1.3107,
-    "form": -0.6781,
+    "elo": 1471.1,
+    "attack": 0.6768,
+    "defense": 1.4292,
+    "form": -0.7747,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4576,10 +4576,10 @@
     "rest_days": 3
   },
   "达姆施塔": {
-    "elo": 1290.2,
-    "attack": 0.5643,
-    "defense": 1.807,
-    "form": -0.8206,
+    "elo": 1282.3,
+    "attack": 0.5445,
+    "defense": 1.8067,
+    "form": -0.8744,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5792,10 +5792,10 @@
     "rest_days": 3
   },
   "萨普斯堡08": {
-    "elo": 1481.4,
-    "attack": 0.7091,
-    "defense": 0.8387,
-    "form": -0.549,
+    "elo": 1442.1,
+    "attack": 0.6751,
+    "defense": 0.8625,
+    "form": -0.6843,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5992,10 +5992,10 @@
     "rest_days": 3
   },
   "拜仁": {
-    "elo": 1851.0,
-    "attack": 1.1908,
-    "defense": 0.5594,
-    "form": 0.743,
+    "elo": 1865.4,
+    "attack": 1.321,
+    "defense": 0.5049,
+    "form": 0.8201,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7096,10 +7096,10 @@
     "rest_days": 3
   },
   "纽约城": {
-    "elo": 1597.2,
-    "attack": 0.7236,
-    "defense": 0.5068,
-    "form": 0.0177,
+    "elo": 1569.0,
+    "attack": 0.653,
+    "defense": 0.4926,
+    "form": -0.2876,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7112,10 +7112,10 @@
     "rest_days": 3
   },
   "纽约红牛": {
-    "elo": 1314.7,
-    "attack": 0.4226,
-    "defense": 0.8237,
-    "form": -0.5703,
+    "elo": 1342.9,
+    "attack": 0.4166,
+    "defense": 0.7434,
+    "form": -0.0992,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8016,10 +8016,10 @@
     "rest_days": 3
   },
   "奥斯KFUM": {
-    "elo": 1413.4,
-    "attack": 0.8018,
-    "defense": 1.0381,
-    "form": -0.4623,
+    "elo": 1452.7,
+    "attack": 0.8292,
+    "defense": 0.9721,
+    "form": -0.0236,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1523.9,
-    "attack": 1.0216,
-    "defense": 0.9198,
-    "form": 0.363,
+    "elo": 1535.9,
+    "attack": 0.9924,
+    "defense": 0.8653,
+    "form": 0.5541,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10552,10 +10552,10 @@
     "rest_days": 3
   },
   "布伦特": {
-    "elo": 1529.5,
-    "attack": 0.8659,
-    "defense": 0.8659,
-    "form": 0.0,
+    "elo": 1585.5,
+    "attack": 0.887,
+    "defense": 0.7815,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10600,10 +10600,10 @@
     "rest_days": 3
   },
   "布城": {
-    "elo": 1528.2,
-    "attack": 1.0081,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1533.3,
+    "attack": 0.945,
+    "defense": 0.8463,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11065,6 +11065,14 @@
   },
   "赫尔蒙德": {
     "elo": 1487.5,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "海尔蒙特": {
+    "elo": 1488.0,
     "attack": 0.9377,
     "defense": 0.9729,
     "form": -0.3,
