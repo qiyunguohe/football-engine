@@ -704,10 +704,10 @@
     "rest_days": 3
   },
   "尼斯": {
-    "elo": 1524.5,
-    "attack": 0.6953,
-    "defense": 0.9873,
-    "form": -0.2555,
+    "elo": 1545.6,
+    "attack": 0.6979,
+    "defense": 0.9262,
+    "form": 0.1212,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1376,10 +1376,10 @@
     "rest_days": 3
   },
   "里尔": {
-    "elo": 1703.5,
-    "attack": 0.796,
-    "defense": 0.5749,
-    "form": 0.3011,
+    "elo": 1682.4,
+    "attack": 0.7536,
+    "defense": 0.5892,
+    "form": -0.0892,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2280,10 +2280,10 @@
     "rest_days": 3
   },
   "富勒姆": {
-    "elo": 1700.1,
-    "attack": 0.6745,
-    "defense": 0.7786,
-    "form": -0.3235,
+    "elo": 1702.7,
+    "attack": 0.6439,
+    "defense": 0.7379,
+    "form": -0.2264,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4600,10 +4600,10 @@
     "rest_days": 3
   },
   "曼联": {
-    "elo": 1823.1,
-    "attack": 1.2306,
-    "defense": 0.7362,
-    "form": 0.055,
+    "elo": 1820.5,
+    "attack": 1.1458,
+    "defense": 0.6996,
+    "form": 0.0385,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6056,10 +6056,10 @@
     "rest_days": 3
   },
   "维京": {
-    "elo": 1689.4,
-    "attack": 0.639,
-    "defense": 0.4818,
-    "form": 0.097,
+    "elo": 1705.0,
+    "attack": 0.6823,
+    "defense": 0.4348,
+    "form": 0.3679,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10504,10 +10504,10 @@
     "rest_days": 3
   },
   "埃弗斯堡": {
-    "elo": 1546.7,
-    "attack": 0.9834,
-    "defense": 0.9581,
-    "form": 0.057,
+    "elo": 1548.8,
+    "attack": 0.8875,
+    "defense": 0.8647,
+    "form": 0.0399,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10544,10 +10544,10 @@
     "rest_days": 3
   },
   "沙尔克": {
-    "elo": 1527.4,
-    "attack": 0.8406,
-    "defense": 0.8563,
-    "form": 0.153,
+    "elo": 1525.3,
+    "attack": 0.7586,
+    "defense": 0.7728,
+    "form": 0.1071,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11139,6 +11139,14 @@
     "elo": 1396.2,
     "attack": 0.9025,
     "defense": 1.1488,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "利勒斯特罗姆": {
+    "elo": 1484.4,
+    "attack": 0.9025,
+    "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
