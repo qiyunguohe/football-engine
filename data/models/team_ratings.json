@@ -1936,10 +1936,10 @@
     "rest_days": 3
   },
   "比利亚雷亚尔": {
-    "elo": 1678.8,
-    "attack": 1.0473,
-    "defense": 0.9258,
-    "form": -0.2168,
+    "elo": 1693.9,
+    "attack": 1.0507,
+    "defense": 0.8707,
+    "form": 0.1482,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1721.2,
-    "attack": 0.8453,
-    "defense": 0.7837,
-    "form": -0.2943,
+    "elo": 1687.2,
+    "attack": 0.7629,
+    "defense": 0.7777,
+    "form": -0.506,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1563.9,
-    "attack": 0.8099,
-    "defense": 0.9722,
-    "form": -0.2016,
+    "elo": 1548.8,
+    "attack": 0.7661,
+    "defense": 0.983,
+    "form": -0.4411,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1593.1,
-    "attack": 0.9419,
-    "defense": 0.7227,
-    "form": 0.2649,
+    "elo": 1627.1,
+    "attack": 0.9204,
+    "defense": 0.6522,
+    "form": 0.4854,
     "injury": 0.0,
     "rest_days": 3
   },
