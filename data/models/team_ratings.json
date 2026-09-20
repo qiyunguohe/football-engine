@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1546.9,
-    "attack": 0.6264,
-    "defense": 0.8714,
-    "form": -0.1661,
+    "elo": 1528.7,
+    "attack": 0.6357,
+    "defense": 0.892,
+    "form": -0.4163,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1564.3,
-    "attack": 0.7877,
-    "defense": 0.9446,
-    "form": -0.4018,
+    "elo": 1582.5,
+    "attack": 0.8165,
+    "defense": 0.9229,
+    "form": 0.0187,
     "injury": 0.0,
     "rest_days": 3
   },
