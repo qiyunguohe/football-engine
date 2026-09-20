@@ -259,5 +259,14 @@
     "away_team": "莱万特",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3762589",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "拉科鲁尼亚",
+    "away_team": "贝蒂斯",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]

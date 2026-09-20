@@ -573,5 +573,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762589",
+    "match_no": "周日024",
+    "home_team": "拉科鲁尼亚",
+    "away_team": "贝蒂斯",
+    "home_score": 1,
+    "away_score": 1,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "西甲",
+    "match_time": "2026-09-21 00:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.68,
+    "odds_draw": 3.62,
+    "odds_away": 1.72,
+    "corner_home": "11",
+    "corner_away": "5",
+    "yellow_home": "1",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

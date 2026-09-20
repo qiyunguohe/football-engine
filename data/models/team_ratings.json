@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1539.8,
-    "attack": 0.7801,
-    "defense": 0.7349,
-    "form": -0.0501,
+    "elo": 1540.1,
+    "attack": 0.7392,
+    "defense": 0.6984,
+    "form": -0.0351,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1612.2,
-    "attack": 0.7623,
-    "defense": 0.6364,
-    "form": 0.8718,
+    "elo": 1611.9,
+    "attack": 0.7232,
+    "defense": 0.6095,
+    "form": 0.6103,
     "injury": 0.0,
     "rest_days": 3
   },
