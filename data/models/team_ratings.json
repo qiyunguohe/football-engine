@@ -1712,10 +1712,10 @@
     "rest_days": 3
   },
   "帕德博恩": {
-    "elo": 1482.6,
-    "attack": 0.6861,
-    "defense": 1.1533,
-    "form": -0.5484,
+    "elo": 1515.7,
+    "attack": 0.7248,
+    "defense": 1.076,
+    "form": -0.0839,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2024,10 +2024,10 @@
     "rest_days": 3
   },
   "霍芬海姆": {
-    "elo": 1599.8,
-    "attack": 1.0247,
-    "defense": 1.1126,
-    "form": -0.3313,
+    "elo": 1566.7,
+    "attack": 0.96,
+    "defense": 1.1097,
+    "form": -0.5319,
     "injury": 0.0,
     "rest_days": 3
   },
