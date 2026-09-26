@@ -1304,10 +1304,10 @@
     "rest_days": 3
   },
   "多德勒支": {
-    "elo": 1148.9,
-    "attack": 0.6023,
-    "defense": 1.6418,
-    "form": -0.1663,
+    "elo": 1170.9,
+    "attack": 0.6491,
+    "defense": 1.5521,
+    "form": 0.1836,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3336,10 +3336,10 @@
     "rest_days": 3
   },
   "阿尔梅勒": {
-    "elo": 1350.8,
-    "attack": 0.7385,
-    "defense": 1.2188,
-    "form": 0.1435,
+    "elo": 1328.8,
+    "attack": 0.7369,
+    "defense": 1.2055,
+    "form": -0.1996,
     "injury": 0.0,
     "rest_days": 3
   },
