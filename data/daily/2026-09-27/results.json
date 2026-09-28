@@ -79,5 +79,16 @@
     "away_team": "登博思",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周日009",
+    "home_team": "哥伦布",
+    "away_team": "迈国际",
+    "home_score": 2,
+    "away_score": 1,
+    "competition": "美职联",
+    "match_date": "2026-09-27",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
