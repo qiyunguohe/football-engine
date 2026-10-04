@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-10-04",
   "source": "optimizer_log.jsonl",
-  "n_decisions": 456,
+  "n_decisions": 464,
   "action_counts": {
     "promote": 16,
     "cold_start": 8,
-    "hold": 425,
+    "hold": 433,
     "rollback": 7
   },
   "champion_now": {
@@ -2754,6 +2754,54 @@
       "model": 0.1,
       "market": 0.75,
       "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-27T19:13",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-27T22:18",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-28T01:05",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-28T21:21",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-29T19:20",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-29T23:08",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-09-30T20:15",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
+    },
+    {
+      "timestamp": "2026-10-04T22:07",
+      "model": 0.1,
+      "market": 0.75,
+      "djyy": 0.15
     }
   ],
   "brier_series": [
@@ -5444,8 +5492,56 @@
       "champion_brier": 0.5083,
       "candidate_brier": 0.5102,
       "improvement": -0.0019
+    },
+    {
+      "timestamp": "2026-09-27",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-27",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-28",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-28",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-29",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-29",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-09-30",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5109,
+      "improvement": -0.0026
+    },
+    {
+      "timestamp": "2026-10-04",
+      "champion_brier": 0.5083,
+      "candidate_brier": 0.5102,
+      "improvement": -0.0019
     }
   ],
   "recent_avg_improvement": -0.0025,
-  "message": "456 次决策: {'promote': 16, 'cold_start': 8, 'hold': 425, 'rollback': 7}；近10次平均 Brier 改进 -0.0025（阈值 0.005，未达标保持 hold）"
+  "message": "464 次决策: {'promote': 16, 'cold_start': 8, 'hold': 433, 'rollback': 7}；近10次平均 Brier 改进 -0.0025（阈值 0.005，未达标保持 hold）"
 }
