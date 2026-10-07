@@ -6648,10 +6648,10 @@
     "rest_days": 3
   },
   "国际图尔库": {
-    "elo": 1666.1,
-    "attack": 0.5974,
-    "defense": 0.2771,
-    "form": 0.8728,
+    "elo": 1667.6,
+    "attack": 0.5392,
+    "defense": 0.2501,
+    "form": 0.611,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7992,10 +7992,10 @@
     "rest_days": 3
   },
   "赫尔辛基火花": {
-    "elo": 1634.1,
-    "attack": 0.7112,
-    "defense": 0.5396,
-    "form": 0.3155,
+    "elo": 1632.6,
+    "attack": 0.6419,
+    "defense": 0.487,
+    "form": 0.2208,
     "injury": 0.0,
     "rest_days": 3
   },
