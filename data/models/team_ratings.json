@@ -368,18 +368,18 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1761.1,
-    "attack": 0.6076,
-    "defense": 0.2567,
-    "form": 0.5826,
+    "elo": 1753.8,
+    "attack": 0.6187,
+    "defense": 0.302,
+    "form": 0.4078,
     "injury": 0.0,
     "rest_days": 3
   },
   "巴拉纳竞技": {
-    "elo": 1668.8,
-    "attack": 0.6219,
-    "defense": 0.3547,
-    "form": 0.5964,
+    "elo": 1665.5,
+    "attack": 0.6316,
+    "defense": 0.3905,
+    "form": 0.4175,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -504,10 +504,10 @@
     "rest_days": 3
   },
   "桑托斯": {
-    "elo": 1526.1,
-    "attack": 0.5916,
-    "defense": 0.5289,
-    "form": 0.1656,
+    "elo": 1533.4,
+    "attack": 0.6043,
+    "defense": 0.5477,
+    "form": 0.1159,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -568,10 +568,10 @@
     "rest_days": 3
   },
   "米内罗竞技": {
-    "elo": 1661.9,
-    "attack": 0.827,
-    "defense": 0.6774,
-    "form": 0.6176,
+    "elo": 1665.2,
+    "attack": 0.8167,
+    "defense": 0.6817,
+    "form": 0.4323,
     "injury": 0.0,
     "rest_days": 3
   },
