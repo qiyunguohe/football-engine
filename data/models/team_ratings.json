@@ -4288,10 +4288,10 @@
     "rest_days": 3
   },
   "哥德堡": {
-    "elo": 1359.8,
-    "attack": 0.4476,
-    "defense": 0.828,
-    "form": -0.1263,
+    "elo": 1378.4,
+    "attack": 0.4391,
+    "defense": 0.7473,
+    "form": 0.2116,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5488,10 +5488,10 @@
     "rest_days": 3
   },
   "布兰": {
-    "elo": 1529.0,
-    "attack": 0.7734,
-    "defense": 0.5919,
-    "form": -0.1134,
+    "elo": 1509.1,
+    "attack": 0.698,
+    "defense": 0.6046,
+    "form": -0.3794,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6056,10 +6056,10 @@
     "rest_days": 3
   },
   "维京": {
-    "elo": 1705.0,
-    "attack": 0.6823,
-    "defense": 0.4348,
-    "form": 0.3679,
+    "elo": 1724.9,
+    "attack": 0.6861,
+    "defense": 0.3924,
+    "form": 0.5575,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7936,10 +7936,10 @@
     "rest_days": 3
   },
   "韦斯特罗斯": {
-    "elo": 1482.8,
-    "attack": 0.5537,
-    "defense": 0.7565,
-    "form": 0.1228,
+    "elo": 1464.2,
+    "attack": 0.4997,
+    "defense": 0.7179,
+    "form": -0.214,
     "injury": 0.0,
     "rest_days": 3
   },
