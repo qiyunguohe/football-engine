@@ -548,5 +548,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3634969",
+    "match_no": "周日023",
+    "home_team": "利勒斯特罗姆",
+    "away_team": "莫尔德",
+    "home_score": 2,
+    "away_score": 2,
+    "half_home_score": 1,
+    "half_away_score": 2,
+    "league": "挪超",
+    "match_time": "2026-10-12 01:15:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 2.39,
+    "odds_draw": 3.85,
+    "odds_away": 2.22,
+    "corner_home": "7",
+    "corner_away": "6",
+    "yellow_home": "0",
+    "yellow_away": "4",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
