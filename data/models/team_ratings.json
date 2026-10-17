@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1833.8,
-    "attack": 0.9803,
-    "defense": 0.6254,
-    "form": -0.1192,
+    "elo": 1839.6,
+    "attack": 0.9551,
+    "defense": 0.5644,
+    "form": 0.2166,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -936,10 +936,10 @@
     "rest_days": 3
   },
   "费耶诺德": {
-    "elo": 1693.6,
-    "attack": 1.0283,
-    "defense": 0.7186,
-    "form": 0.6752,
+    "elo": 1701.9,
+    "attack": 1.0688,
+    "defense": 0.7541,
+    "form": 0.7726,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1527.5,
-    "attack": 0.6441,
-    "defense": 0.8754,
-    "form": -0.2914,
+    "elo": 1531.3,
+    "attack": 0.5813,
+    "defense": 0.79,
+    "form": -0.204,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2392,10 +2392,10 @@
     "rest_days": 3
   },
   "热那亚": {
-    "elo": 1518.4,
-    "attack": 0.5602,
-    "defense": 0.7553,
-    "form": -0.1101,
+    "elo": 1512.6,
+    "attack": 0.5056,
+    "defense": 0.752,
+    "form": -0.3771,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3680,10 +3680,10 @@
     "rest_days": 3
   },
   "毕尔巴鄂": {
-    "elo": 1675.8,
-    "attack": 0.8786,
-    "defense": 0.7018,
-    "form": 0.1299,
+    "elo": 1672.0,
+    "attack": 0.7929,
+    "defense": 0.6334,
+    "form": 0.0909,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4760,10 +4760,10 @@
     "rest_days": 3
   },
   "特尔斯达": {
-    "elo": 1446.3,
-    "attack": 0.7706,
-    "defense": 0.9267,
-    "form": -0.3024,
+    "elo": 1438.0,
+    "attack": 0.801,
+    "defense": 0.9771,
+    "form": -0.5117,
     "injury": 0.0,
     "rest_days": 3
   },
