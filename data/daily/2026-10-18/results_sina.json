@@ -498,5 +498,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762622",
+    "match_no": "周日021",
+    "home_team": "马拉加",
+    "away_team": "皇家社会",
+    "home_score": 2,
+    "away_score": 5,
+    "half_home_score": 0,
+    "half_away_score": 2,
+    "league": "西甲",
+    "match_time": "2026-10-19 00:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.25,
+    "odds_draw": 3.55,
+    "odds_away": 1.85,
+    "corner_home": "4",
+    "corner_away": "5",
+    "yellow_home": "0",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

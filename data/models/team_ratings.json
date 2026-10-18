@@ -2152,10 +2152,10 @@
     "rest_days": 3
   },
   "马拉加": {
-    "elo": 1318.5,
-    "attack": 0.3001,
-    "defense": 0.7771,
-    "form": -0.5916,
+    "elo": 1300.0,
+    "attack": 0.3412,
+    "defense": 0.8773,
+    "form": -0.7141,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1600.9,
-    "attack": 0.7955,
-    "defense": 0.8504,
-    "form": 0.2192,
+    "elo": 1619.4,
+    "attack": 0.8939,
+    "defense": 0.8379,
+    "form": 0.4534,
     "injury": 0.0,
     "rest_days": 3
   },
