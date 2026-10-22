@@ -178,5 +178,16 @@
     "away_team": "LASK林茨",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周三013",
+    "home_team": "帕梅拉斯",
+    "away_team": "弗鲁米嫩",
+    "home_score": 0,
+    "away_score": 1,
+    "competition": "解放者杯",
+    "match_date": "2026-10-21",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
