@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1743.6,
-    "attack": 0.5584,
-    "defense": 0.2726,
-    "form": 0.2855,
+    "elo": 1731.0,
+    "attack": 0.504,
+    "defense": 0.246,
+    "form": 0.1998,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1520,10 +1520,10 @@
     "rest_days": 3
   },
   "波鸿": {
-    "elo": 1450.6,
-    "attack": 0.5012,
-    "defense": 0.901,
-    "form": -0.3643,
+    "elo": 1453.8,
+    "attack": 0.4875,
+    "defense": 0.8483,
+    "form": -0.255,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2104,10 +2104,10 @@
     "rest_days": 3
   },
   "沃尔夫斯堡": {
-    "elo": 1586.1,
-    "attack": 0.9802,
-    "defense": 1.0524,
-    "form": 0.5131,
+    "elo": 1582.9,
+    "attack": 0.9198,
+    "defense": 0.985,
+    "form": 0.3592,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8296,10 +8296,10 @@
     "rest_days": 3
   },
   "拉普拉塔大学生": {
-    "elo": 1438.1,
-    "attack": 0.4156,
-    "defense": 0.5751,
-    "form": -0.0183,
+    "elo": 1450.7,
+    "attack": 0.3751,
+    "defense": 0.519,
+    "form": -0.0128,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8600,10 +8600,10 @@
     "rest_days": 3
   },
   "布里斯班狮吼": {
-    "elo": 1549.3,
-    "attack": 1.0081,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1559.7,
+    "attack": 0.9802,
+    "defense": 0.8497,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11888,10 +11888,10 @@
     "rest_days": 3
   },
   "珀斯": {
-    "elo": 1487.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1474.5,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11920,10 +11920,10 @@
     "rest_days": 3
   },
   "珀斯光荣": {
-    "elo": 1487.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1476.6,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12148,6 +12148,14 @@
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "布里斯班": {
+    "elo": 1512.5,
+    "attack": 0.9729,
+    "defense": 0.9377,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
