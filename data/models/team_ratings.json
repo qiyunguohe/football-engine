@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1718.2,
-    "attack": 0.7253,
-    "defense": 0.5873,
-    "form": 0.0925,
+    "elo": 1736.1,
+    "attack": 0.725,
+    "defense": 0.53,
+    "form": 0.3648,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1256,10 +1256,10 @@
     "rest_days": 3
   },
   "阿尔克马尔": {
-    "elo": 1655.1,
-    "attack": 0.9658,
-    "defense": 0.6588,
-    "form": -0.203,
+    "elo": 1618.0,
+    "attack": 0.8716,
+    "defense": 0.6649,
+    "form": -0.4421,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1288,10 +1288,10 @@
     "rest_days": 3
   },
   "特温特": {
-    "elo": 1617.2,
-    "attack": 0.8032,
-    "defense": 0.565,
-    "form": 0.5167,
+    "elo": 1654.3,
+    "attack": 0.7953,
+    "defense": 0.5099,
+    "form": 0.6617,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2360,10 +2360,10 @@
     "rest_days": 3
   },
   "乌迪内斯": {
-    "elo": 1515.2,
-    "attack": 0.6522,
-    "defense": 0.8926,
-    "form": -0.8333,
+    "elo": 1497.3,
+    "attack": 0.5886,
+    "defense": 0.8759,
+    "form": -0.8833,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3512,10 +3512,10 @@
     "rest_days": 3
   },
   "皇马": {
-    "elo": 1881.5,
-    "attack": 1.1609,
-    "defense": 0.526,
-    "form": 0.9145,
+    "elo": 1900.7,
+    "attack": 1.1181,
+    "defense": 0.5099,
+    "form": 0.9402,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1886.1,
-    "attack": 1.4124,
-    "defense": 0.6538,
-    "form": 0.3873,
+    "elo": 1866.9,
+    "attack": 1.3099,
+    "defense": 0.6604,
+    "form": -0.0289,
     "injury": 0.0,
     "rest_days": 3
   },
