@@ -1519,5 +1519,32 @@
     "away_team": "桑托斯拉古纳",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19746575",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "贝西克塔斯",
+    "away_team": "伊斯坦布尔巴萨克塞尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19746579",
+    "home_score": 3,
+    "away_score": 4,
+    "home_team": "里泽体育",
+    "away_team": "特拉布宗体育",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19713904",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "伊斯特拉1961",
+    "away_team": "斯普利特海杜克",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

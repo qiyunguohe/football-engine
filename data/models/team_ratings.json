@@ -544,10 +544,10 @@
     "rest_days": 3
   },
   "斯普利特海杜克": {
-    "elo": 1688.4,
-    "attack": 0.8582,
-    "defense": 0.4762,
-    "form": 0.5539,
+    "elo": 1682.6,
+    "attack": 0.8449,
+    "defense": 0.5001,
+    "form": 0.3877,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -944,10 +944,10 @@
     "rest_days": 3
   },
   "贝西克塔斯": {
-    "elo": 1773.2,
-    "attack": 0.768,
-    "defense": 0.3373,
-    "form": 0.6976,
+    "elo": 1777.4,
+    "attack": 0.7635,
+    "defense": 0.3044,
+    "form": 0.7883,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7016,10 +7016,10 @@
     "rest_days": 3
   },
   "伊斯坦布尔巴萨克塞尔": {
-    "elo": 1397.9,
-    "attack": 0.4018,
-    "defense": 0.7336,
-    "form": -0.8823,
+    "elo": 1393.7,
+    "attack": 0.3626,
+    "defense": 0.7324,
+    "form": -0.9176,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9128,10 +9128,10 @@
     "rest_days": 3
   },
   "伊斯特拉1961": {
-    "elo": 1490.7,
-    "attack": 0.9484,
-    "defense": 0.9802,
-    "form": -0.21,
+    "elo": 1496.5,
+    "attack": 0.9263,
+    "defense": 0.955,
+    "form": -0.147,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10408,10 +10408,10 @@
     "rest_days": 3
   },
   "特拉布宗体育": {
-    "elo": 1468.9,
-    "attack": 0.9025,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1489.2,
+    "attack": 0.9552,
+    "defense": 1.047,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12620,6 +12620,14 @@
     "attack": 1.0432,
     "defense": 0.9377,
     "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "里泽体育": {
+    "elo": 1479.7,
+    "attack": 1.0081,
+    "defense": 1.0432,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }
