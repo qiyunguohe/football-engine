@@ -1546,5 +1546,68 @@
     "away_team": "斯普利特海杜克",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19713891",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "哥本哈根",
+    "away_team": "欧登塞",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19746576",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "加拉塔萨雷",
+    "away_team": "费内巴切",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19736779",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "圣克拉拉",
+    "away_team": "本菲卡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19715566",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "巴黎圣日耳曼",
+    "away_team": "里昂",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19745020",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "安道尔",
+    "away_team": "布尔戈斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19717571",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "蒙彼利埃",
+    "away_team": "红星",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-26_19717575",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "布洛涅",
+    "away_team": "兰斯",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]
