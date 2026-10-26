@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1582.2,
-    "attack": 0.6355,
-    "defense": 0.826,
-    "form": -0.225,
+    "elo": 1600.6,
+    "attack": 0.6439,
+    "defense": 0.7455,
+    "form": 0.1425,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5088,10 +5088,10 @@
     "rest_days": 3
   },
   "奥萨苏纳": {
-    "elo": 1516.0,
-    "attack": 0.6079,
-    "defense": 0.7919,
-    "form": 0.2242,
+    "elo": 1497.6,
+    "attack": 0.5486,
+    "defense": 0.7851,
+    "form": -0.1431,
     "injury": 0.0,
     "rest_days": 3
   },
