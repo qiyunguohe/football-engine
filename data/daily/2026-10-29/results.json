@@ -601,5 +601,86 @@
     "away_team": "赫尔辛基",
     "half_home_score": 1,
     "half_away_score": 2
+  },
+  {
+    "match_id": "2026-10-29_19713536",
+    "home_score": 5,
+    "away_score": 1,
+    "home_team": "弗洛西诺尼",
+    "away_team": "莱切",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635846",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "哈马比",
+    "away_team": "天狼星",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19778768",
+    "home_score": 0,
+    "away_score": 6,
+    "home_team": "利雅得体育",
+    "away_team": "卡达西亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19778769",
+    "home_score": 5,
+    "away_score": 3,
+    "home_team": "利雅得胜利",
+    "away_team": "拉斯永恒",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635841",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "卡尔马",
+    "away_team": "加尔斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635844",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "厄尔格里特",
+    "away_team": "梅尔比",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713537",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "佛罗伦萨",
+    "away_team": "亚特兰大",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3744889",
+    "home_score": 5,
+    "away_score": 1,
+    "home_team": "弗罗西诺内",
+    "away_team": "莱切",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3861628",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "埃弗顿",
+    "away_team": "纽卡斯尔联",
+    "half_home_score": 2,
+    "half_away_score": 0
   }
 ]
