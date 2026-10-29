@@ -1,0 +1,605 @@
+[
+  {
+    "match_id": "2026-10-29_19713900",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "萨格勒布迪纳摩",
+    "away_team": "里耶卡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713530",
+    "home_score": 2,
+    "away_score": 6,
+    "home_team": "萨索洛",
+    "away_team": "拉齐奥",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768837",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "贝内文托",
+    "away_team": "卡坦萨罗",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635847",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "索尔纳",
+    "away_team": "埃尔夫斯堡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768829",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "恩特拉",
+    "away_team": "阿维利诺",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768831",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "帕多瓦",
+    "away_team": "南蒂罗尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768832",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "曼托瓦",
+    "away_team": "克雷莫纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768833",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "维琴察",
+    "away_team": "摩德纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768835",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "切塞纳",
+    "away_team": "恩波利",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768838",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "阿斯科利",
+    "away_team": "桑普多利亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713529",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "都灵",
+    "away_team": "科莫",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713531",
+    "home_score": 4,
+    "away_score": 2,
+    "home_team": "罗马",
+    "away_team": "卡利亚里",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19728231",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "谢周三",
+    "away_team": "剑桥联",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19728234",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "牛津联队",
+    "away_team": "斯托克港",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19728235",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "卢顿",
+    "away_team": "唐卡斯特",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19728247",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "米尔顿凯恩斯",
+    "away_team": "布罗姆利",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19728249",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "莱斯特城",
+    "away_team": "维冈竞技",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19636564",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "阿根廷青年人",
+    "away_team": "门多萨独立",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19667093",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "塞阿拉",
+    "away_team": "戈伊亚斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19792609",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "埃及国民银行",
+    "away_team": "马斯里",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19878246",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "奥卢",
+    "away_team": "VPS瓦萨",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19792608",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "扎马雷克",
+    "away_team": "阿拉伯建筑",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713528",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "威尼斯",
+    "away_team": "国际米兰",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713532",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "帕尔马",
+    "away_team": "乌迪内斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713534",
+    "home_score": 2,
+    "away_score": 4,
+    "home_team": "AC米兰",
+    "away_team": "博洛尼亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768830",
+    "home_score": 3,
+    "away_score": 3,
+    "home_team": "比萨",
+    "away_team": "巴勒莫",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635840",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "哈尔姆斯塔德",
+    "away_team": "马尔默",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635842",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "德耶尔福斯",
+    "away_team": "瓦斯特拉斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635843",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "布罗马波伊卡纳",
+    "away_team": "赫根",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19635845",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "哥德堡",
+    "away_team": "尤尔加登",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768834",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "尤韦斯塔比亚",
+    "away_team": "赫拉斯维罗纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19768836",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "卡拉雷塞",
+    "away_team": "阿雷佐",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713533",
+    "home_score": 1,
+    "away_score": 4,
+    "home_team": "蒙扎",
+    "away_team": "那不勒斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19713535",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "热那亚",
+    "away_team": "尤文图斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722758",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "圣米伦",
+    "away_team": "希伯尼安",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722759",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "圣约翰斯通",
+    "away_team": "马瑟韦尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722761",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "邓迪FC",
+    "away_team": "基尔马诺克",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722762",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "凯尔特人",
+    "away_team": "邓迪联",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722763",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "阿伯丁",
+    "away_team": "福尔柯克",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19722760",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "哈茨",
+    "away_team": "格拉斯哥流浪者",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19621755",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "布拉干蒂诺红牛",
+    "away_team": "沙佩科恩斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19621757",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "桑托斯",
+    "away_team": "帕尔梅拉斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19621759",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "弗鲁米嫩塞",
+    "away_team": "巴西国际",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609963",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "迈阿密国际",
+    "away_team": "辛辛那提",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609964",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "纽约城",
+    "away_team": "亚特兰大联",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609965",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "新英格兰",
+    "away_team": "纽约红牛",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609966",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "夏洛特",
+    "away_team": "蒙特利尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609967",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "多伦多",
+    "away_team": "华盛顿特区联",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19621750",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "雷莫",
+    "away_team": "博塔弗戈",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19621751",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "巴伊亚",
+    "away_team": "圣保罗",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609968",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "纳什维尔",
+    "away_team": "费城联",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609969",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "达拉斯",
+    "away_team": "哥伦布机员",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609970",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "芝加哥火焰",
+    "away_team": "奥兰多城",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609971",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "明尼苏达联",
+    "away_team": "堪萨斯城竞技",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609972",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "奥斯汀",
+    "away_team": "皇家盐湖城",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609973",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "圣路易斯",
+    "away_team": "波特兰伐木者",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609974",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "温哥华白浪",
+    "away_team": "圣迭戈",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609975",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "西雅图海湾者",
+    "away_team": "休斯敦迪纳摩",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19609976",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "圣何塞地震",
+    "away_team": "科罗拉多急流",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19715256",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "墨西哥美洲",
+    "away_team": "蒂华纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19792607",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "现代体育",
+    "away_team": "阿赫利",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19778770",
+    "home_score": 4,
+    "away_score": 2,
+    "home_team": "塞哈特海湾",
+    "away_team": "哈森姆",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19878235",
+    "home_score": 2,
+    "away_score": 4,
+    "home_team": "图尔库国际",
+    "away_team": "赫尔辛基",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19792606",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "金字塔",
+    "away_team": "瓦迪格拉",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-10-29_19878225",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "古比斯",
+    "away_team": "格尼斯坦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3828489",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "上海申花",
+    "away_team": "町田泽维亚",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3852625",
+    "home_score": 2,
+    "away_score": 4,
+    "home_team": "国际图尔库",
+    "away_team": "赫尔辛基",
+    "half_home_score": 1,
+    "half_away_score": 2
+  }
+]
