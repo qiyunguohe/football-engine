@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1667.6,
-    "attack": 0.7241,
-    "defense": 0.6573,
-    "form": -0.2378,
+    "elo": 1690.4,
+    "attack": 0.7591,
+    "defense": 0.6284,
+    "form": 0.1335,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1802.6,
-    "attack": 1.1485,
-    "defense": 0.4706,
-    "form": 0.7969,
+    "elo": 1807.9,
+    "attack": 1.0717,
+    "defense": 0.4247,
+    "form": 0.8578,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1256,10 +1256,10 @@
     "rest_days": 3
   },
   "阿尔克马尔": {
-    "elo": 1586.8,
-    "attack": 0.7866,
-    "defense": 0.6704,
-    "form": -0.6095,
+    "elo": 1581.5,
+    "attack": 0.7099,
+    "defense": 0.6402,
+    "form": -0.7267,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1544,10 +1544,10 @@
     "rest_days": 3
   },
   "阿斯顿维拉": {
-    "elo": 1877.9,
-    "attack": 0.8458,
-    "defense": 0.5814,
-    "form": 0.2748,
+    "elo": 1867.1,
+    "attack": 0.7985,
+    "defense": 0.5599,
+    "form": 0.1924,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2280,10 +2280,10 @@
     "rest_days": 3
   },
   "富勒姆": {
-    "elo": 1657.5,
-    "attack": 0.4951,
-    "defense": 0.5753,
-    "form": -0.156,
+    "elo": 1668.3,
+    "attack": 0.482,
+    "defense": 0.5544,
+    "form": -0.1092,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3408,10 +3408,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1566.0,
-    "attack": 0.5774,
-    "defense": 0.6342,
-    "form": -0.4547,
+    "elo": 1551.4,
+    "attack": 0.5563,
+    "defense": 0.7835,
+    "form": -0.6183,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1866.9,
-    "attack": 1.3099,
-    "defense": 0.6604,
-    "form": -0.0289,
+    "elo": 1881.5,
+    "attack": 1.3933,
+    "defense": 0.6312,
+    "form": 0.2798,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1659.4,
-    "attack": 0.9562,
-    "defense": 0.6645,
-    "form": 0.6746,
+    "elo": 1636.6,
+    "attack": 0.8982,
+    "defense": 0.7053,
+    "form": 0.1722,
     "injury": 0.0,
     "rest_days": 3
   },
