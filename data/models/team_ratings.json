@@ -600,10 +600,10 @@
     "rest_days": 3
   },
   "利物浦": {
-    "elo": 1846.5,
-    "attack": 0.8538,
-    "defense": 0.5689,
-    "form": 0.6071,
+    "elo": 1838.4,
+    "attack": 0.7706,
+    "defense": 0.5486,
+    "form": 0.125,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2098.6,
-    "attack": 0.8692,
-    "defense": 0.3447,
-    "form": 0.641,
+    "elo": 2106.7,
+    "attack": 0.8196,
+    "defense": 0.3111,
+    "form": 0.7487,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1224,10 +1224,10 @@
     "rest_days": 3
   },
   "格罗宁根": {
-    "elo": 1475.7,
-    "attack": 0.9154,
-    "defense": 0.9943,
-    "form": -0.158,
+    "elo": 1451.5,
+    "attack": 0.8965,
+    "defense": 1.0029,
+    "form": -0.4106,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2064,18 +2064,18 @@
     "rest_days": 3
   },
   "汉堡": {
-    "elo": 1433.0,
-    "attack": 0.5459,
-    "defense": 1.0111,
-    "form": -0.3114,
+    "elo": 1416.1,
+    "attack": 0.5279,
+    "defense": 1.0181,
+    "form": -0.518,
     "injury": 0.0,
     "rest_days": 3
   },
   "法兰克福": {
-    "elo": 1521.2,
-    "attack": 0.6859,
-    "defense": 1.0029,
-    "form": -0.08,
+    "elo": 1538.1,
+    "attack": 0.7246,
+    "defense": 0.9403,
+    "form": 0.244,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3344,10 +3344,10 @@
     "rest_days": 3
   },
   "鹿特丹斯巴达": {
-    "elo": 1343.4,
-    "attack": 0.7518,
-    "defense": 1.1183,
-    "form": -0.5447,
+    "elo": 1367.6,
+    "attack": 0.7841,
+    "defense": 1.0796,
+    "form": -0.0813,
     "injury": 0.0,
     "rest_days": 3
   },
