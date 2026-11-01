@@ -1368,10 +1368,10 @@
     "rest_days": 3
   },
   "马赛": {
-    "elo": 1611.3,
-    "attack": 0.8434,
-    "defense": 0.7853,
-    "form": 0.0809,
+    "elo": 1632.9,
+    "attack": 0.8315,
+    "defense": 0.7087,
+    "form": 0.3566,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1424,10 +1424,10 @@
     "rest_days": 3
   },
   "图卢兹": {
-    "elo": 1588.1,
-    "attack": 0.7393,
-    "defense": 0.7907,
-    "form": 0.067,
+    "elo": 1566.5,
+    "attack": 0.6672,
+    "defense": 0.784,
+    "form": -0.2531,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1765.2,
-    "attack": 0.9471,
-    "defense": 0.6199,
-    "form": 0.5347,
+    "elo": 1728.4,
+    "attack": 0.8548,
+    "defense": 0.6298,
+    "form": 0.0743,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1702.4,
-    "attack": 0.9629,
-    "defense": 0.6829,
-    "form": 0.8125,
+    "elo": 1687.5,
+    "attack": 0.9042,
+    "defense": 0.6867,
+    "form": 0.2687,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3680,10 +3680,10 @@
     "rest_days": 3
   },
   "毕尔巴鄂": {
-    "elo": 1661.7,
-    "attack": 0.8183,
-    "defense": 0.6112,
-    "form": 0.1345,
+    "elo": 1676.6,
+    "attack": 0.8089,
+    "defense": 0.5868,
+    "form": 0.3942,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1601.0,
-    "attack": 0.6859,
-    "defense": 0.6021,
-    "form": -0.0638,
+    "elo": 1637.8,
+    "attack": 0.6894,
+    "defense": 0.5434,
+    "form": 0.2553,
     "injury": 0.0,
     "rest_days": 3
   },
