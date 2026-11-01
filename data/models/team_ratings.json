@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1509.3,
-    "attack": 0.5404,
-    "defense": 0.7773,
-    "form": -0.61,
+    "elo": 1531.7,
+    "attack": 0.5229,
+    "defense": 0.7015,
+    "form": -0.127,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1616,10 +1616,10 @@
     "rest_days": 3
   },
   "莱切": {
-    "elo": 1427.5,
-    "attack": 0.4252,
-    "defense": 0.9604,
-    "form": -0.7623,
+    "elo": 1416.2,
+    "attack": 0.4189,
+    "defense": 0.9371,
+    "form": -0.8336,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2216,10 +2216,10 @@
     "rest_days": 3
   },
   "埃尔切": {
-    "elo": 1591.0,
-    "attack": 0.6071,
-    "defense": 0.6487,
-    "form": 0.2601,
+    "elo": 1568.6,
+    "attack": 0.5479,
+    "defense": 0.6206,
+    "form": -0.1179,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2392,10 +2392,10 @@
     "rest_days": 3
   },
   "热那亚": {
-    "elo": 1598.7,
-    "attack": 0.5239,
-    "defense": 0.4989,
-    "form": 0.6693,
+    "elo": 1610.0,
+    "attack": 0.5432,
+    "defense": 0.4854,
+    "form": 0.7685,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9648,10 +9648,10 @@
     "rest_days": 3
   },
   "维塞乌": {
-    "elo": 1529.6,
-    "attack": 0.7681,
-    "defense": 0.8104,
-    "form": 0.291,
+    "elo": 1541.3,
+    "attack": 0.7636,
+    "defense": 0.7666,
+    "form": 0.5037,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12876,6 +12876,14 @@
     "attack": 0.8814,
     "defense": 0.8814,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "阿维河": {
+    "elo": 1488.3,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }

@@ -178,5 +178,32 @@
     "away_team": "汉堡",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3744871",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "莱切",
+    "away_team": "热那亚",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3762663",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "埃尔切",
+    "away_team": "巴伦西亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3775655",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "维塞乌",
+    "away_team": "阿维河",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]
