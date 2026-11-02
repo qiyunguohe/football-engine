@@ -1438,5 +1438,104 @@
     "away_team": "安道尔",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19745004",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "皇家奥维耶多",
+    "away_team": "拉斯帕尔马斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19730192",
+    "home_score": 5,
+    "away_score": 0,
+    "home_team": "卡帕迪",
+    "away_team": "库德里夫卡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19763843",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "阿特罗米托斯",
+    "away_team": "维洛斯NFC",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19878226",
+    "home_score": 4,
+    "away_score": 3,
+    "home_team": "图尔库国际",
+    "away_team": "格尼斯坦",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19878238",
+    "home_score": 0,
+    "away_score": 4,
+    "home_team": "VPS瓦萨",
+    "away_team": "赫尔辛基",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19746569",
+    "home_score": 5,
+    "away_score": 0,
+    "home_team": "根克勒比利吉",
+    "away_team": "阿拉尼亚体育",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19716305",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "卢宾扎格列比",
+    "away_team": "凯尔采科罗纳",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19716309",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "拉多米亚克",
+    "away_team": "弗罗茨瓦夫",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19763842",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "卡拉玛达",
+    "away_team": "伊拉克里斯",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19713519",
+    "home_score": 2,
+    "away_score": 4,
+    "home_team": "萨索洛",
+    "away_team": "佛罗伦萨",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-11-02_19745001",
+    "home_score": 4,
+    "away_score": 3,
+    "home_team": "皇家巴利亚多利德",
+    "away_team": "莱加内斯",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]
