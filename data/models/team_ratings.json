@@ -432,10 +432,10 @@
     "rest_days": 3
   },
   "格雷米奥": {
-    "elo": 1556.1,
-    "attack": 0.5106,
-    "defense": 0.5334,
-    "form": -0.2184,
+    "elo": 1588.3,
+    "attack": 0.5312,
+    "defense": 0.4814,
+    "form": 0.1471,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -568,10 +568,10 @@
     "rest_days": 3
   },
   "米内罗竞技": {
-    "elo": 1662.4,
-    "attack": 0.799,
-    "defense": 0.6925,
-    "form": 0.1218,
+    "elo": 1630.2,
+    "attack": 0.7211,
+    "defense": 0.6954,
+    "form": -0.2147,
     "injury": 0.0,
     "rest_days": 3
   },
