@@ -1224,10 +1224,10 @@
     "rest_days": 3
   },
   "格罗宁根": {
-    "elo": 1451.5,
-    "attack": 0.8965,
-    "defense": 1.0029,
-    "form": -0.4106,
+    "elo": 1433.9,
+    "attack": 0.8795,
+    "defense": 1.0107,
+    "form": -0.5874,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1562.8,
-    "attack": 0.6163,
-    "defense": 0.7784,
-    "form": -0.2002,
+    "elo": 1539.5,
+    "attack": 0.5914,
+    "defense": 0.8081,
+    "form": -0.4401,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1688,10 +1688,10 @@
     "rest_days": 3
   },
   "里奥阿维": {
-    "elo": 1263.3,
-    "attack": 0.3667,
-    "defense": 1.1513,
-    "form": -0.9392,
+    "elo": 1259.4,
+    "attack": 0.3661,
+    "defense": 1.1094,
+    "form": -0.9574,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1720,10 +1720,10 @@
     "rest_days": 3
   },
   "弗洛西诺": {
-    "elo": 1492.6,
-    "attack": 0.646,
-    "defense": 1.0238,
-    "form": -0.1321,
+    "elo": 1520.9,
+    "attack": 0.6534,
+    "defense": 0.924,
+    "form": 0.2075,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1728.4,
-    "attack": 0.8548,
-    "defense": 0.6298,
-    "form": 0.0743,
+    "elo": 1704.6,
+    "attack": 0.7715,
+    "defense": 0.6388,
+    "form": -0.248,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1564.6,
-    "attack": 0.4205,
-    "defense": 0.5843,
-    "form": -0.2691,
+    "elo": 1587.9,
+    "attack": 0.4851,
+    "defense": 0.5625,
+    "form": 0.1116,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2336,10 +2336,10 @@
     "rest_days": 3
   },
   "尤文图斯": {
-    "elo": 1724.5,
-    "attack": 0.9542,
-    "defense": 0.5828,
-    "form": 0.0123,
+    "elo": 1748.3,
+    "attack": 0.9315,
+    "defense": 0.526,
+    "form": 0.3086,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2376,10 +2376,10 @@
     "rest_days": 3
   },
   "都灵": {
-    "elo": 1551.0,
-    "attack": 0.5956,
-    "defense": 0.7924,
-    "form": -0.4673,
+    "elo": 1522.7,
+    "attack": 0.5375,
+    "defense": 0.7855,
+    "form": -0.6271,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9648,10 +9648,10 @@
     "rest_days": 3
   },
   "维塞乌": {
-    "elo": 1541.3,
-    "attack": 0.7636,
-    "defense": 0.7666,
-    "form": 0.5037,
+    "elo": 1545.2,
+    "attack": 0.7595,
+    "defense": 0.727,
+    "form": 0.6526,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10664,10 +10664,10 @@
     "rest_days": 3
   },
   "鹿斯巴达": {
-    "elo": 1480.6,
-    "attack": 0.9132,
-    "defense": 1.0188,
-    "form": -0.3,
+    "elo": 1498.2,
+    "attack": 0.9297,
+    "defense": 0.9898,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
