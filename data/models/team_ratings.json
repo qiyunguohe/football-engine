@@ -1528,10 +1528,10 @@
     "rest_days": 3
   },
   "斯图加特": {
-    "elo": 1742.6,
-    "attack": 0.8613,
-    "defense": 0.733,
-    "form": 0.294,
+    "elo": 1712.0,
+    "attack": 0.7773,
+    "defense": 0.7319,
+    "form": -0.0942,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2944,10 +2944,10 @@
     "rest_days": 3
   },
   "加拉塔萨雷": {
-    "elo": 1655.8,
-    "attack": 1.0167,
-    "defense": 1.1967,
-    "form": 0.2047,
+    "elo": 1686.4,
+    "attack": 0.9879,
+    "defense": 1.08,
+    "form": 0.4433,
     "injury": 0.0,
     "rest_days": 3
   },
