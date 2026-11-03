@@ -1717,5 +1717,27 @@
     "away_team": "桑托斯",
     "half_home_score": 2,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周一001",
+    "home_team": "国际图尔",
+    "away_team": "赫尔火花",
+    "home_score": 4,
+    "away_score": 3,
+    "competition": "芬超",
+    "match_date": "2026-11-02",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周一009",
+    "home_team": "布拉干RB",
+    "away_team": "桑托斯",
+    "home_score": 2,
+    "away_score": 1,
+    "competition": "巴西甲",
+    "match_date": "2026-11-02",
+    "match_no": "",
+    "status": "完赛"
   }
 ]

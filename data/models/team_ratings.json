@@ -6704,10 +6704,10 @@
     "rest_days": 3
   },
   "大田市民": {
-    "elo": 1479.9,
-    "attack": 0.4813,
-    "defense": 0.486,
-    "form": -0.3669,
+    "elo": 1468.0,
+    "attack": 0.4344,
+    "defense": 0.509,
+    "form": -0.5568,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8168,10 +8168,10 @@
     "rest_days": 3
   },
   "北京国安": {
-    "elo": 1581.5,
-    "attack": 0.8702,
-    "defense": 0.6777,
-    "form": 0.4599,
+    "elo": 1535.5,
+    "attack": 0.9261,
+    "defense": 0.8579,
+    "form": 0.0219,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9784,10 +9784,10 @@
     "rest_days": 3
   },
   "上海海港": {
-    "elo": 1574.5,
-    "attack": 1.1387,
-    "defense": 0.992,
-    "form": 0.4599,
+    "elo": 1616.9,
+    "attack": 1.1952,
+    "defense": 0.9419,
+    "form": 0.7354,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9992,10 +9992,10 @@
     "rest_days": 3
   },
   "柏太阳神": {
-    "elo": 1648.1,
-    "attack": 0.9171,
-    "defense": 0.5553,
-    "form": 0.4933,
+    "elo": 1660.0,
+    "attack": 0.8981,
+    "defense": 0.5012,
+    "form": 0.6453,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11528,18 +11528,18 @@
     "rest_days": 3
   },
   "纽喷气机": {
-    "elo": 1426.4,
-    "attack": 0.8976,
-    "defense": 1.0606,
-    "form": -0.447,
+    "elo": 1404.4,
+    "attack": 0.8805,
+    "defense": 1.0979,
+    "form": -0.6129,
     "injury": 0.0,
     "rest_days": 3
   },
   "纽卡斯尔喷气机": {
-    "elo": 1426.9,
-    "attack": 0.8976,
-    "defense": 1.0606,
-    "form": -0.447,
+    "elo": 1406.5,
+    "attack": 0.8805,
+    "defense": 1.0979,
+    "form": -0.6129,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11568,10 +11568,10 @@
     "rest_days": 3
   },
   "泰港": {
-    "elo": 1479.5,
-    "attack": 0.9377,
-    "defense": 1.0784,
-    "form": -0.3,
+    "elo": 1525.5,
+    "attack": 1.0926,
+    "defense": 1.114,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
