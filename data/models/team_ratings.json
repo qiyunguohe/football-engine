@@ -600,10 +600,10 @@
     "rest_days": 3
   },
   "利物浦": {
-    "elo": 1830.8,
-    "attack": 0.6955,
-    "defense": 0.5303,
-    "form": -0.2125,
+    "elo": 1809.5,
+    "attack": 0.6981,
+    "defense": 0.5842,
+    "form": -0.4487,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4384,10 +4384,10 @@
     "rest_days": 3
   },
   "费内巴切": {
-    "elo": 1645.3,
-    "attack": 0.5442,
-    "defense": 0.6431,
-    "form": -0.5188,
+    "elo": 1666.6,
+    "attack": 0.5967,
+    "defense": 0.6508,
+    "form": -0.0632,
     "injury": 0.0,
     "rest_days": 3
   },
