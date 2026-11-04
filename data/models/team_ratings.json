@@ -8168,10 +8168,10 @@
     "rest_days": 3
   },
   "北京国安": {
-    "elo": 1535.5,
-    "attack": 0.9261,
-    "defense": 0.8579,
-    "form": 0.0219,
+    "elo": 1494.7,
+    "attack": 0.9765,
+    "defense": 1.0206,
+    "form": -0.2847,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11552,10 +11552,10 @@
     "rest_days": 3
   },
   "曼谷港务": {
-    "elo": 1477.2,
-    "attack": 0.9377,
-    "defense": 1.0784,
-    "form": -0.3,
+    "elo": 1518.0,
+    "attack": 1.0926,
+    "defense": 1.114,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
