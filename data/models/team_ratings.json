@@ -9200,10 +9200,10 @@
     "rest_days": 3
   },
   "上海申花": {
-    "elo": 1488.0,
-    "attack": 0.8101,
-    "defense": 0.8366,
-    "form": -0.0459,
+    "elo": 1468.7,
+    "attack": 0.7268,
+    "defense": 0.8153,
+    "form": -0.5325,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10344,10 +10344,10 @@
     "rest_days": 3
   },
   "町田泽维亚": {
-    "elo": 1571.1,
-    "attack": 0.6155,
-    "defense": 0.4588,
-    "form": 0.2846,
+    "elo": 1580.3,
+    "attack": 0.6259,
+    "defense": 0.4493,
+    "form": 0.4992,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10456,10 +10456,10 @@
     "rest_days": 3
   },
   "町田泽维": {
-    "elo": 1556.2,
-    "attack": 0.717,
-    "defense": 0.5907,
-    "form": 0.2636,
+    "elo": 1566.3,
+    "attack": 0.7175,
+    "defense": 0.5683,
+    "form": 0.4845,
     "injury": 0.0,
     "rest_days": 3
   },
