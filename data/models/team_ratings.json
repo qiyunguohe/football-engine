@@ -1160,10 +1160,10 @@
     "rest_days": 3
   },
   "兹沃勒": {
-    "elo": 1356.5,
-    "attack": 0.6268,
-    "defense": 0.8309,
-    "form": 0.4472,
+    "elo": 1350.2,
+    "attack": 0.6009,
+    "defense": 0.7851,
+    "form": 0.313,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1200,10 +1200,10 @@
     "rest_days": 3
   },
   "威廉二世": {
-    "elo": 1145.9,
-    "attack": 0.5654,
-    "defense": 1.443,
-    "form": -0.8417,
+    "elo": 1152.2,
+    "attack": 0.5455,
+    "defense": 1.3375,
+    "form": -0.5892,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1312,10 +1312,10 @@
     "rest_days": 3
   },
   "蒙彼利埃": {
-    "elo": 1444.4,
-    "attack": 0.6003,
-    "defense": 0.9176,
-    "form": 0.52,
+    "elo": 1418.8,
+    "attack": 0.6121,
+    "defense": 0.9337,
+    "form": 0.064,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1384,10 +1384,10 @@
     "rest_days": 3
   },
   "梅斯": {
-    "elo": 1268.0,
-    "attack": 0.6305,
-    "defense": 1.377,
-    "form": -0.5459,
+    "elo": 1293.6,
+    "attack": 0.6746,
+    "defense": 1.3131,
+    "form": -0.0821,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3904,10 +3904,10 @@
     "rest_days": 3
   },
   "埃尔夫斯堡": {
-    "elo": 1592.6,
-    "attack": 0.6978,
-    "defense": 0.5488,
-    "form": 0.3994,
+    "elo": 1565.4,
+    "attack": 0.6649,
+    "defense": 0.636,
+    "form": -0.0204,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5280,10 +5280,10 @@
     "rest_days": 3
   },
   "瓦尔韦克": {
-    "elo": 1286.2,
-    "attack": 0.8891,
-    "defense": 1.3661,
-    "form": -0.545,
+    "elo": 1295.8,
+    "attack": 0.8376,
+    "defense": 1.2681,
+    "form": -0.3815,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6040,10 +6040,10 @@
     "rest_days": 3
   },
   "哈马比": {
-    "elo": 1653.3,
-    "attack": 0.6887,
-    "defense": 0.3878,
-    "form": 0.8804,
+    "elo": 1680.5,
+    "attack": 0.7623,
+    "defense": 0.3852,
+    "form": 0.9163,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9432,10 +9432,10 @@
     "rest_days": 3
   },
   "奥斯": {
-    "elo": 1461.2,
-    "attack": 0.8815,
-    "defense": 0.9484,
-    "form": -0.51,
+    "elo": 1451.6,
+    "attack": 0.8307,
+    "defense": 0.8911,
+    "form": -0.357,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9768,10 +9768,10 @@
     "rest_days": 3
   },
   "科特布斯": {
-    "elo": 1495.4,
-    "attack": 0.888,
-    "defense": 0.8659,
-    "form": -0.153,
+    "elo": 1496.2,
+    "attack": 0.8014,
+    "defense": 0.7815,
+    "form": -0.1071,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10008,10 +10008,10 @@
     "rest_days": 3
   },
   "布伦瑞克": {
-    "elo": 1448.3,
-    "attack": 0.8864,
-    "defense": 0.9627,
-    "form": -0.1599,
+    "elo": 1447.5,
+    "attack": 0.8,
+    "defense": 0.8688,
+    "form": -0.1119,
     "injury": 0.0,
     "rest_days": 3
   },
