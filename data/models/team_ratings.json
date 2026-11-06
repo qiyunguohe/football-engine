@@ -752,10 +752,10 @@
     "rest_days": 3
   },
   "埃弗顿": {
-    "elo": 1773.2,
-    "attack": 0.5857,
-    "defense": 0.4906,
-    "form": 0.5463,
+    "elo": 1784.9,
+    "attack": 0.6341,
+    "defense": 0.478,
+    "form": 0.6824,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1424,10 +1424,10 @@
     "rest_days": 3
   },
   "图卢兹": {
-    "elo": 1548.1,
-    "attack": 0.6021,
-    "defense": 0.7779,
-    "form": -0.4772,
+    "elo": 1575.0,
+    "attack": 0.649,
+    "defense": 0.7372,
+    "form": -0.034,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1509.5,
-    "attack": 0.5689,
-    "defense": 0.8349,
-    "form": -0.6081,
+    "elo": 1507.6,
+    "attack": 0.5134,
+    "defense": 0.7535,
+    "form": -0.4257,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1848,10 +1848,10 @@
     "rest_days": 3
   },
   "阿罗卡": {
-    "elo": 1585.6,
-    "attack": 0.7718,
-    "defense": 0.7458,
-    "form": 0.0512,
+    "elo": 1569.2,
+    "attack": 0.6965,
+    "defense": 0.7083,
+    "form": -0.2642,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2064,10 +2064,10 @@
     "rest_days": 3
   },
   "汉堡": {
-    "elo": 1401.5,
-    "attack": 0.5116,
-    "defense": 1.0244,
-    "form": -0.6626,
+    "elo": 1434.6,
+    "attack": 0.5673,
+    "defense": 0.9597,
+    "form": -0.1638,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2360,10 +2360,10 @@
     "rest_days": 3
   },
   "乌迪内斯": {
-    "elo": 1459.0,
-    "attack": 0.4863,
-    "defense": 0.9059,
-    "form": -0.7305,
+    "elo": 1440.3,
+    "attack": 0.4741,
+    "defense": 0.8879,
+    "form": -0.8114,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3264,10 +3264,10 @@
     "rest_days": 3
   },
   "门兴": {
-    "elo": 1519.1,
-    "attack": 0.7498,
-    "defense": 1.0228,
-    "form": -0.2698,
+    "elo": 1486.0,
+    "attack": 0.7119,
+    "defense": 1.0286,
+    "form": -0.4889,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3408,10 +3408,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1532.5,
-    "attack": 0.5372,
-    "defense": 0.9182,
-    "form": -0.7328,
+    "elo": 1534.4,
+    "attack": 0.4848,
+    "defense": 0.8287,
+    "form": -0.513,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3576,10 +3576,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1590.7,
-    "attack": 0.8287,
-    "defense": 0.8861,
-    "form": -0.2441,
+    "elo": 1563.8,
+    "attack": 0.7831,
+    "defense": 0.9053,
+    "form": -0.4709,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5920,10 +5920,10 @@
     "rest_days": 3
   },
   "法马利康": {
-    "elo": 1512.4,
-    "attack": 0.5692,
-    "defense": 0.5942,
-    "form": -0.266,
+    "elo": 1528.8,
+    "attack": 0.5489,
+    "defense": 0.5363,
+    "form": 0.1138,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5936,10 +5936,10 @@
     "rest_days": 3
   },
   "威尼斯": {
-    "elo": 1334.4,
-    "attack": 0.2563,
-    "defense": 0.7404,
-    "form": -0.9271,
+    "elo": 1353.1,
+    "attack": 0.3017,
+    "defense": 0.7034,
+    "form": -0.349,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10120,10 +10120,10 @@
     "rest_days": 3
   },
   "博尔顿": {
-    "elo": 1431.2,
-    "attack": 0.8911,
-    "defense": 1.0349,
-    "form": -0.363,
+    "elo": 1415.3,
+    "attack": 0.8394,
+    "defense": 1.0396,
+    "form": -0.5541,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10272,10 +10272,10 @@
     "rest_days": 3
   },
   "考文垂": {
-    "elo": 1600.7,
-    "attack": 0.6958,
-    "defense": 0.6529,
-    "form": 0.1352,
+    "elo": 1589.0,
+    "attack": 0.6631,
+    "defense": 0.6948,
+    "form": -0.2054,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10568,10 +10568,10 @@
     "rest_days": 3
   },
   "德比郡": {
-    "elo": 1533.3,
-    "attack": 0.9729,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1549.2,
+    "attack": 0.9836,
+    "defense": 0.8497,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
