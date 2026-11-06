@@ -11864,10 +11864,10 @@
     "rest_days": 3
   },
   "悉尼FC": {
-    "elo": 1529.6,
-    "attack": 0.7899,
-    "defense": 0.6944,
-    "form": 0.657,
+    "elo": 1584.6,
+    "attack": 0.9111,
+    "defense": 0.6325,
+    "form": 0.8319,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11896,10 +11896,10 @@
     "rest_days": 3
   },
   "中央海岸": {
-    "elo": 1495.3,
-    "attack": 0.9729,
-    "defense": 0.9729,
-    "form": 0.0,
+    "elo": 1465.3,
+    "attack": 0.9132,
+    "defense": 1.0188,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11928,10 +11928,10 @@
     "rest_days": 3
   },
   "中央海岸水手": {
-    "elo": 1477.9,
-    "attack": 0.8276,
-    "defense": 0.8911,
-    "form": -0.21,
+    "elo": 1452.9,
+    "attack": 0.7821,
+    "defense": 0.945,
+    "form": -0.447,
     "injury": 0.0,
     "rest_days": 3
   },
