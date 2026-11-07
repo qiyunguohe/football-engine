@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1853.6,
-    "attack": 1.1785,
-    "defense": 0.6934,
-    "form": 0.2691,
+    "elo": 1859.2,
+    "attack": 1.1692,
+    "defense": 0.6258,
+    "form": 0.4884,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1461.7,
-    "attack": 0.6587,
-    "defense": 1.1039,
-    "form": -0.8276,
+    "elo": 1456.1,
+    "attack": 0.5945,
+    "defense": 1.1018,
+    "form": -0.8793,
     "injury": 0.0,
     "rest_days": 3
   },
