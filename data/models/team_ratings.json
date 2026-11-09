@@ -12232,18 +12232,18 @@
     "rest_days": 3
   },
   "拉斯帕尔马斯": {
-    "elo": 1529.3,
-    "attack": 0.9518,
-    "defense": 0.8849,
-    "form": 0.51,
+    "elo": 1545.7,
+    "attack": 0.9294,
+    "defense": 0.7986,
+    "form": 0.657,
     "injury": 0.0,
     "rest_days": 3
   },
   "皇家社会B队": {
-    "elo": 1487.0,
-    "attack": 0.9025,
-    "defense": 0.9377,
-    "form": -0.3,
+    "elo": 1489.9,
+    "attack": 0.8145,
+    "defense": 0.8463,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12456,10 +12456,10 @@
     "rest_days": 3
   },
   "沙巴度尔": {
-    "elo": 1485.1,
-    "attack": 0.8815,
-    "defense": 0.9166,
-    "form": -0.3,
+    "elo": 1482.2,
+    "attack": 0.7956,
+    "defense": 0.8272,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12528,10 +12528,10 @@
     "rest_days": 3
   },
   "埃尔登塞": {
-    "elo": 1434.9,
-    "attack": 0.8145,
-    "defense": 0.9484,
-    "form": -0.51,
+    "elo": 1418.5,
+    "attack": 0.7351,
+    "defense": 0.9263,
+    "form": -0.657,
     "injury": 0.0,
     "rest_days": 3
   },
