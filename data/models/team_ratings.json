@@ -11168,10 +11168,10 @@
     "rest_days": 3
   },
   "米尔顿凯恩斯": {
-    "elo": 1564.0,
-    "attack": 1.0822,
-    "defense": 0.8815,
-    "form": 0.51,
+    "elo": 1578.7,
+    "attack": 1.0471,
+    "defense": 0.8307,
+    "form": 0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11184,10 +11184,10 @@
     "rest_days": 3
   },
   "诺茨郡": {
-    "elo": 1525.5,
-    "attack": 0.9484,
-    "defense": 0.8815,
-    "form": 0.51,
+    "elo": 1571.8,
+    "attack": 0.9615,
+    "defense": 0.7956,
+    "form": 0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12760,10 +12760,10 @@
     "rest_days": 3
   },
   "布罗姆利": {
-    "elo": 1469.9,
-    "attack": 0.9377,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1455.2,
+    "attack": 0.8815,
+    "defense": 1.0119,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -13099,6 +13099,14 @@
     "elo": 1471.1,
     "attack": 0.9377,
     "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "伯顿": {
+    "elo": 1453.7,
+    "attack": 0.9025,
+    "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
