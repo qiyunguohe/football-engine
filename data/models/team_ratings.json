@@ -12360,10 +12360,10 @@
     "rest_days": 3
   },
   "庞特普雷塔": {
-    "elo": 1477.8,
-    "attack": 0.7924,
-    "defense": 0.8593,
-    "form": -0.51,
+    "elo": 1444.5,
+    "attack": 0.7151,
+    "defense": 0.8459,
+    "form": -0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -13008,10 +13008,10 @@
     "rest_days": 3
   },
   "欧帕尔利奥": {
-    "elo": 1487.8,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1521.1,
+    "attack": 0.9166,
+    "defense": 0.878,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
