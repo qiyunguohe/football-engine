@@ -2432,10 +2432,10 @@
     "rest_days": 3
   },
   "摩尔多瓦": {
-    "elo": 1155.4,
-    "attack": 0.3062,
-    "defense": 2.0191,
-    "form": -0.9603,
+    "elo": 1177.0,
+    "attack": 0.3467,
+    "defense": 1.8574,
+    "form": -0.3722,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3152,10 +3152,10 @@
     "rest_days": 3
   },
   "哈萨克斯坦": {
-    "elo": 1348.1,
-    "attack": 0.5047,
-    "defense": 1.3133,
-    "form": -0.4113,
+    "elo": 1326.5,
+    "attack": 0.4907,
+    "defense": 1.2556,
+    "form": -0.5879,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4736,10 +4736,10 @@
     "rest_days": 3
   },
   "莱加内斯": {
-    "elo": 1490.1,
-    "attack": 0.8415,
-    "defense": 1.1233,
-    "form": -0.3075,
+    "elo": 1514.6,
+    "attack": 0.865,
+    "defense": 1.049,
+    "form": 0.0847,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12632,10 +12632,10 @@
     "rest_days": 3
   },
   "布尔戈斯": {
-    "elo": 1502.9,
-    "attack": 0.945,
-    "defense": 0.9132,
-    "form": 0.21,
+    "elo": 1478.4,
+    "attack": 0.888,
+    "defense": 0.9297,
+    "form": -0.153,
     "injury": 0.0,
     "rest_days": 3
   },
