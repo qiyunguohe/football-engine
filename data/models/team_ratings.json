@@ -2688,10 +2688,10 @@
     "rest_days": 3
   },
   "巴拉圭": {
-    "elo": 1717.0,
-    "attack": 0.7302,
-    "defense": 0.8042,
-    "form": -0.2278,
+    "elo": 1726.1,
+    "attack": 0.7997,
+    "defense": 0.761,
+    "form": 0.1405,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3880,10 +3880,10 @@
     "rest_days": 3
   },
   "新加坡": {
-    "elo": 1288.6,
-    "attack": 0.5666,
-    "defense": 1.8001,
-    "form": -0.9615,
+    "elo": 1279.5,
+    "attack": 0.5465,
+    "defense": 1.7653,
+    "form": -0.973,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12328,10 +12328,10 @@
     "rest_days": 3
   },
   "圣贝纳多": {
-    "elo": 1514.3,
-    "attack": 0.9198,
-    "defense": 0.8945,
-    "form": 0.057,
+    "elo": 1509.6,
+    "attack": 0.9005,
+    "defense": 0.8777,
+    "form": 0.0399,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12352,18 +12352,18 @@
     "rest_days": 3
   },
   "隆迪那": {
-    "elo": 1467.3,
-    "attack": 0.8659,
-    "defense": 0.9229,
-    "form": -0.057,
+    "elo": 1479.5,
+    "attack": 0.8518,
+    "defense": 0.8681,
+    "form": 0.2601,
     "injury": 0.0,
     "rest_days": 3
   },
   "庞特普雷塔": {
-    "elo": 1444.5,
-    "attack": 0.7151,
-    "defense": 0.8459,
-    "form": -0.657,
+    "elo": 1416.7,
+    "attack": 0.6454,
+    "defense": 0.8338,
+    "form": -0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12952,10 +12952,10 @@
     "rest_days": 3
   },
   "累西腓航海": {
-    "elo": 1449.1,
-    "attack": 0.799,
-    "defense": 0.9008,
-    "form": -0.363,
+    "elo": 1436.9,
+    "attack": 0.7563,
+    "defense": 0.8833,
+    "form": -0.5541,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -13008,10 +13008,10 @@
     "rest_days": 3
   },
   "欧帕尔利奥": {
-    "elo": 1521.1,
-    "attack": 0.9166,
-    "defense": 0.878,
-    "form": 0.09,
+    "elo": 1548.9,
+    "attack": 0.8976,
+    "defense": 0.7924,
+    "form": 0.363,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -13032,10 +13032,10 @@
     "rest_days": 3
   },
   "巴西竞技": {
-    "elo": 1474.0,
-    "attack": 0.9263,
-    "defense": 0.9646,
-    "form": -0.363,
+    "elo": 1478.7,
+    "attack": 0.9064,
+    "defense": 0.9409,
+    "form": -0.2541,
     "injury": 0.0,
     "rest_days": 3
   },
