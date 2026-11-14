@@ -2296,10 +2296,10 @@
     "rest_days": 3
   },
   "挪威": {
-    "elo": 1900.2,
-    "attack": 1.58,
-    "defense": 0.8152,
-    "form": 0.1123,
+    "elo": 1905.9,
+    "attack": 1.5315,
+    "defense": 0.7709,
+    "form": 0.3786,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2720,10 +2720,10 @@
     "rest_days": 3
   },
   "匈牙利": {
-    "elo": 1617.5,
-    "attack": 0.9253,
-    "defense": 0.8685,
-    "form": 0.4154,
+    "elo": 1648.6,
+    "attack": 0.9055,
+    "defense": 0.7838,
+    "form": 0.5908,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2768,10 +2768,10 @@
     "rest_days": 3
   },
   "格鲁吉亚": {
-    "elo": 1580.4,
-    "attack": 0.9532,
-    "defense": 0.8644,
-    "form": -0.0729,
+    "elo": 1549.3,
+    "attack": 0.8603,
+    "defense": 0.8505,
+    "form": -0.351,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2872,10 +2872,10 @@
     "rest_days": 3
   },
   "威尔士": {
-    "elo": 1582.3,
-    "attack": 0.9078,
-    "defense": 0.8511,
-    "form": -0.6271,
+    "elo": 1576.6,
+    "attack": 0.8545,
+    "defense": 0.8737,
+    "form": -0.739,
     "injury": 0.0,
     "rest_days": 3
   },
