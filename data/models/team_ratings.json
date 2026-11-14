@@ -1,9 +1,9 @@
 {
   "巴西": {
-    "elo": 2012.8,
-    "attack": 1.3661,
-    "defense": 0.6784,
-    "form": 0.4276,
+    "elo": 1996.4,
+    "attack": 1.3033,
+    "defense": 0.7178,
+    "form": -0.0007,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -88,10 +88,10 @@
     "rest_days": 3
   },
   "日本": {
-    "elo": 1938.7,
-    "attack": 1.5423,
-    "defense": 0.5057,
-    "form": 0.5378,
+    "elo": 1955.1,
+    "attack": 1.4975,
+    "defense": 0.5268,
+    "form": 0.6765,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -256,10 +256,10 @@
     "rest_days": 3
   },
   "中国": {
-    "elo": 1333.1,
-    "attack": 0.4072,
-    "defense": 1.0791,
-    "form": -0.657,
+    "elo": 1353.2,
+    "attack": 0.4379,
+    "defense": 0.9739,
+    "form": -0.1599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1264,10 +1264,10 @@
     "rest_days": 3
   },
   "布雷达": {
-    "elo": 1300.8,
-    "attack": 0.7156,
-    "defense": 1.103,
-    "form": 0.111,
+    "elo": 1326.9,
+    "attack": 0.7866,
+    "defense": 1.0658,
+    "form": 0.3777,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4688,10 +4688,10 @@
     "rest_days": 3
   },
   "马来西亚": {
-    "elo": 1289.7,
-    "attack": 0.7578,
-    "defense": 1.4919,
-    "form": -0.6589,
+    "elo": 1269.6,
+    "attack": 0.6839,
+    "defense": 1.4168,
+    "form": -0.7612,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5272,10 +5272,10 @@
     "rest_days": 3
   },
   "埃门": {
-    "elo": 1333.5,
-    "attack": 0.857,
-    "defense": 1.3464,
-    "form": 0.1116,
+    "elo": 1307.4,
+    "attack": 0.8438,
+    "defense": 1.3559,
+    "form": -0.2219,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9472,10 +9472,10 @@
     "rest_days": 3
   },
   "RB大宫松鼠": {
-    "elo": 1566.7,
-    "attack": 0.8705,
-    "defense": 0.6968,
-    "form": 0.5012,
+    "elo": 1574.7,
+    "attack": 0.856,
+    "defense": 0.664,
+    "form": 0.6508,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9616,10 +9616,10 @@
     "rest_days": 3
   },
   "山形山神": {
-    "elo": 1450.4,
-    "attack": 0.7755,
-    "defense": 0.8546,
-    "form": -0.5541,
+    "elo": 1432.0,
+    "attack": 0.6986,
+    "defense": 0.83,
+    "form": -0.7815,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10472,18 +10472,18 @@
     "rest_days": 3
   },
   "大宫松鼠": {
-    "elo": 1510.6,
-    "attack": 0.885,
-    "defense": 0.8304,
-    "form": 0.237,
+    "elo": 1521.1,
+    "attack": 0.8691,
+    "defense": 0.7846,
+    "form": 0.4659,
     "injury": 0.0,
     "rest_days": 3
   },
   "湘南海洋": {
-    "elo": 1522.9,
-    "attack": 0.8712,
-    "defense": 0.8394,
-    "form": 0.21,
+    "elo": 1545.0,
+    "attack": 0.8566,
+    "defense": 0.7576,
+    "form": 0.447,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11360,10 +11360,10 @@
     "rest_days": 3
   },
   "横滨FC": {
-    "elo": 1505.7,
-    "attack": 1.0081,
-    "defense": 1.0081,
-    "form": 0.0,
+    "elo": 1483.6,
+    "attack": 0.9098,
+    "defense": 0.9802,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },

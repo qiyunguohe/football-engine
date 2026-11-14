@@ -135,12 +135,23 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3893824",
+    "match_id": "周五010",
     "home_score": 1,
     "away_score": 2,
     "home_team": "阿根廷",
     "away_team": "乌拉圭",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周五011",
+    "home_team": "哥伦比亚",
+    "away_team": "智利",
+    "home_score": 1,
+    "away_score": 0,
+    "competition": "国际友谊",
+    "match_date": "2026-11-13",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
