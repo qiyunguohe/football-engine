@@ -112,10 +112,10 @@
     "rest_days": 3
   },
   "乌拉圭": {
-    "elo": 1820.0,
-    "attack": 0.853,
-    "defense": 0.6645,
-    "form": -0.0569,
+    "elo": 1848.1,
+    "attack": 0.8402,
+    "defense": 0.6349,
+    "form": 0.2602,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -128,10 +128,10 @@
     "rest_days": 3
   },
   "阿根廷": {
-    "elo": 2095.9,
-    "attack": 1.396,
-    "defense": 0.349,
-    "form": 0.3339,
+    "elo": 2067.8,
+    "attack": 1.2951,
+    "defense": 0.3853,
+    "form": -0.0663,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -144,10 +144,10 @@
     "rest_days": 3
   },
   "瑞士": {
-    "elo": 1925.1,
-    "attack": 1.1677,
-    "defense": 0.4906,
-    "form": 0.5436,
+    "elo": 1914.9,
+    "attack": 1.0538,
+    "defense": 0.4428,
+    "form": 0.3805,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2432,10 +2432,10 @@
     "rest_days": 3
   },
   "摩尔多瓦": {
-    "elo": 1177.0,
-    "attack": 0.3467,
-    "defense": 1.8574,
-    "form": -0.3722,
+    "elo": 1202.5,
+    "attack": 0.3833,
+    "defense": 1.7115,
+    "form": 0.0395,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2832,10 +2832,10 @@
     "rest_days": 3
   },
   "斯洛文尼": {
-    "elo": 1599.2,
-    "attack": 0.717,
-    "defense": 0.6965,
-    "form": 0.1482,
+    "elo": 1609.4,
+    "attack": 0.6471,
+    "defense": 0.6286,
+    "form": 0.1037,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11416,10 +11416,10 @@
     "rest_days": 3
   },
   "哈萨克": {
-    "elo": 1479.8,
-    "attack": 0.9166,
-    "defense": 0.9166,
-    "form": 0.0,
+    "elo": 1454.3,
+    "attack": 0.8624,
+    "defense": 0.8976,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
