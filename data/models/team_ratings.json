@@ -40,10 +40,10 @@
     "rest_days": 3
   },
   "荷兰": {
-    "elo": 1967.4,
-    "attack": 1.6438,
-    "defense": 0.5918,
-    "form": 0.6619,
+    "elo": 1901.4,
+    "attack": 1.4835,
+    "defense": 0.71,
+    "form": 0.1633,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -72,10 +72,10 @@
     "rest_days": 3
   },
   "希腊": {
-    "elo": 1668.4,
-    "attack": 0.9175,
-    "defense": 0.8456,
-    "form": -0.0798,
+    "elo": 1678.3,
+    "attack": 0.8632,
+    "defense": 0.7632,
+    "form": 0.2441,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -144,10 +144,10 @@
     "rest_days": 3
   },
   "瑞士": {
-    "elo": 1914.9,
-    "attack": 1.0538,
-    "defense": 0.4428,
-    "form": 0.3805,
+    "elo": 1927.2,
+    "attack": 1.0918,
+    "defense": 0.3996,
+    "form": 0.5663,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -208,10 +208,10 @@
     "rest_days": 3
   },
   "德国": {
-    "elo": 1908.8,
-    "attack": 1.4632,
-    "defense": 0.6882,
-    "form": 0.1811,
+    "elo": 1974.8,
+    "attack": 1.4965,
+    "defense": 0.6211,
+    "form": 0.4268,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -264,10 +264,10 @@
     "rest_days": 3
   },
   "北马其顿": {
-    "elo": 1411.5,
-    "attack": 0.57,
-    "defense": 0.9985,
-    "form": -0.8687,
+    "elo": 1356.2,
+    "attack": 0.4643,
+    "defense": 1.0141,
+    "form": -0.9357,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2552,10 +2552,10 @@
     "rest_days": 3
   },
   "斯洛伐克": {
-    "elo": 1587.4,
-    "attack": 0.9888,
-    "defense": 0.7674,
-    "form": 0.3125,
+    "elo": 1584.3,
+    "attack": 0.9628,
+    "defense": 0.7629,
+    "form": 0.2188,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2704,10 +2704,10 @@
     "rest_days": 3
   },
   "塞尔维亚": {
-    "elo": 1593.4,
-    "attack": 0.7418,
-    "defense": 1.0235,
-    "form": -0.8035,
+    "elo": 1583.5,
+    "attack": 0.6695,
+    "defense": 0.9589,
+    "form": -0.8624,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2736,10 +2736,10 @@
     "rest_days": 3
   },
   "苏格兰": {
-    "elo": 1622.3,
-    "attack": 0.7307,
-    "defense": 0.7527,
-    "form": -0.188,
+    "elo": 1610.0,
+    "attack": 0.6595,
+    "defense": 0.8201,
+    "form": -0.4316,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2832,10 +2832,10 @@
     "rest_days": 3
   },
   "斯洛文尼": {
-    "elo": 1609.4,
-    "attack": 0.6471,
-    "defense": 0.6286,
-    "form": 0.1037,
+    "elo": 1635.8,
+    "attack": 0.6896,
+    "defense": 0.5673,
+    "form": 0.3726,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11400,10 +11400,10 @@
     "rest_days": 3
   },
   "斯洛文尼亚": {
-    "elo": 1560.1,
-    "attack": 0.7843,
-    "defense": 0.6952,
-    "form": 0.357,
+    "elo": 1589.0,
+    "attack": 0.8134,
+    "defense": 0.6274,
+    "form": 0.5499,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11416,10 +11416,10 @@
     "rest_days": 3
   },
   "哈萨克": {
-    "elo": 1454.3,
-    "attack": 0.8624,
-    "defense": 0.8976,
-    "form": -0.3,
+    "elo": 1457.4,
+    "attack": 0.8487,
+    "defense": 0.8805,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
