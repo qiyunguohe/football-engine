@@ -16,10 +16,10 @@
     "rest_days": 3
   },
   "智利": {
-    "elo": 1672.7,
-    "attack": 0.8481,
-    "defense": 0.9547,
-    "form": -0.1853,
+    "elo": 1682.2,
+    "attack": 0.7654,
+    "defense": 0.8616,
+    "form": -0.1297,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -64,10 +64,10 @@
     "rest_days": 3
   },
   "哥伦比亚": {
-    "elo": 1976.7,
-    "attack": 1.2424,
-    "defense": 0.5586,
-    "form": 0.4575,
+    "elo": 1967.2,
+    "attack": 1.1213,
+    "defense": 0.5041,
+    "form": 0.3202,
     "injury": 0.0,
     "rest_days": 3
   },
