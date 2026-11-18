@@ -12248,10 +12248,10 @@
     "rest_days": 3
   },
   "塞尔塔B队": {
-    "elo": 1457.9,
-    "attack": 0.9166,
-    "defense": 1.0436,
-    "form": -0.21,
+    "elo": 1449.4,
+    "attack": 0.8272,
+    "defense": 0.977,
+    "form": -0.447,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -12520,10 +12520,10 @@
     "rest_days": 3
   },
   "阿尔巴塞特": {
-    "elo": 1568.6,
-    "attack": 0.9615,
-    "defense": 0.802,
-    "form": 0.657,
+    "elo": 1577.1,
+    "attack": 0.9029,
+    "defense": 0.7238,
+    "form": 0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
