@@ -368,18 +368,18 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1741.6,
-    "attack": 0.5604,
-    "defense": 0.2924,
-    "form": 0.4399,
+    "elo": 1751.2,
+    "attack": 0.5761,
+    "defense": 0.2991,
+    "form": 0.6079,
     "injury": 0.0,
     "rest_days": 3
   },
   "巴拉纳竞技": {
-    "elo": 1660.0,
-    "attack": 0.6052,
-    "defense": 0.3876,
-    "form": 0.2922,
+    "elo": 1650.4,
+    "attack": 0.5814,
+    "defense": 0.4202,
+    "form": -0.0955,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -392,18 +392,18 @@
     "rest_days": 3
   },
   "博塔弗戈": {
-    "elo": 1574.7,
-    "attack": 0.3182,
-    "defense": 0.475,
-    "form": -0.6236,
+    "elo": 1536.5,
+    "attack": 0.2872,
+    "defense": 0.5694,
+    "form": -0.7365,
     "injury": 0.0,
     "rest_days": 3
   },
   "科里蒂巴": {
-    "elo": 1496.2,
-    "attack": 0.3017,
-    "defense": 0.4353,
-    "form": -0.1753,
+    "elo": 1480.1,
+    "attack": 0.2723,
+    "defense": 0.428,
+    "form": -0.4227,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -432,10 +432,10 @@
     "rest_days": 3
   },
   "格雷米奥": {
-    "elo": 1593.1,
-    "attack": 0.5146,
-    "defense": 0.4696,
-    "form": 0.103,
+    "elo": 1593.7,
+    "attack": 0.4644,
+    "defense": 0.4238,
+    "form": 0.0721,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -448,10 +448,10 @@
     "rest_days": 3
   },
   "巴伊亚": {
-    "elo": 1670.4,
-    "attack": 0.4715,
-    "defense": 0.408,
-    "form": 0.328,
+    "elo": 1669.8,
+    "attack": 0.4255,
+    "defense": 0.3682,
+    "form": 0.2296,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -488,10 +488,10 @@
     "rest_days": 3
   },
   "科林蒂安": {
-    "elo": 1616.5,
-    "attack": 0.3749,
-    "defense": 0.3768,
-    "form": -0.7013,
+    "elo": 1654.7,
+    "attack": 0.4791,
+    "defense": 0.3401,
+    "form": -0.1909,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -504,26 +504,26 @@
     "rest_days": 3
   },
   "桑托斯": {
-    "elo": 1558.7,
-    "attack": 0.4872,
-    "defense": 0.4508,
-    "form": 0.1253,
+    "elo": 1574.8,
+    "attack": 0.4749,
+    "defense": 0.4068,
+    "form": 0.3877,
     "injury": 0.0,
     "rest_days": 3
   },
   "帕尔梅拉斯": {
-    "elo": 1770.6,
-    "attack": 0.6433,
-    "defense": 0.3148,
-    "form": 0.2848,
+    "elo": 1755.8,
+    "attack": 0.6158,
+    "defense": 0.3545,
+    "form": -0.1006,
     "injury": 0.0,
     "rest_days": 3
   },
   "克鲁塞罗": {
-    "elo": 1731.9,
-    "attack": 0.5169,
-    "defense": 0.3336,
-    "form": 0.7016,
+    "elo": 1746.7,
+    "attack": 0.5369,
+    "defense": 0.3363,
+    "form": 0.7911,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -576,10 +576,10 @@
     "rest_days": 3
   },
   "沙佩科恩斯": {
-    "elo": 1337.2,
-    "attack": 0.3853,
-    "defense": 0.8867,
-    "form": -0.7816,
+    "elo": 1327.1,
+    "attack": 0.3477,
+    "defense": 0.8706,
+    "form": -0.8471,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6944,10 +6944,10 @@
     "rest_days": 3
   },
   "雷莫": {
-    "elo": 1540.6,
-    "attack": 0.483,
-    "defense": 0.4708,
-    "form": 0.3787,
+    "elo": 1550.7,
+    "attack": 0.5063,
+    "defense": 0.4249,
+    "form": 0.5651,
     "injury": 0.0,
     "rest_days": 3
   },
