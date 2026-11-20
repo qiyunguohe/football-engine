@@ -496,10 +496,10 @@
     "rest_days": 3
   },
   "巴西国际": {
-    "elo": 1543.2,
-    "attack": 0.4085,
-    "defense": 0.4733,
-    "form": -0.0174,
+    "elo": 1532.2,
+    "attack": 0.4039,
+    "defense": 0.4975,
+    "form": -0.3122,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -528,10 +528,10 @@
     "rest_days": 3
   },
   "维多利亚": {
-    "elo": 1458.3,
-    "attack": 0.2778,
-    "defense": 0.6545,
-    "form": -0.2192,
+    "elo": 1487.4,
+    "attack": 0.3601,
+    "defense": 0.6,
+    "form": 0.4026,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -640,10 +640,10 @@
     "rest_days": 3
   },
   "瓦斯科达伽马": {
-    "elo": 1590.5,
-    "attack": 0.627,
-    "defense": 0.5131,
-    "form": 0.8222,
+    "elo": 1601.5,
+    "attack": 0.6362,
+    "defense": 0.4983,
+    "form": 0.8755,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8312,10 +8312,10 @@
     "rest_days": 3
   },
   "布拉干蒂诺红牛": {
-    "elo": 1490.3,
-    "attack": 0.5027,
-    "defense": 0.518,
-    "form": -0.057,
+    "elo": 1475.8,
+    "attack": 0.4889,
+    "defense": 0.5379,
+    "form": -0.3399,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10672,10 +10672,10 @@
     "rest_days": 3
   },
   "巴甘蒂诺": {
-    "elo": 1507.9,
-    "attack": 0.8945,
-    "defense": 0.888,
-    "form": 0.153,
+    "elo": 1493.3,
+    "attack": 0.8425,
+    "defense": 0.8718,
+    "form": -0.1929,
     "injury": 0.0,
     "rest_days": 3
   },
