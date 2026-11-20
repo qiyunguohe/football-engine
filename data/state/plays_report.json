@@ -22,7 +22,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3221,
+      "best_edge": 0.3214,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -33,7 +33,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.9045,
+      "best_edge": 0.9038,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -44,7 +44,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 2.4306,
+      "best_edge": 2.4298,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -55,7 +55,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 2)",
-      "best_edge": 1.1937,
+      "best_edge": 1.1948,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -66,7 +66,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 3.4321,
+      "best_edge": 3.4311,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -77,7 +77,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 0)",
-      "best_edge": 0.5653,
+      "best_edge": 0.5661,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -88,7 +88,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.9746,
+      "best_edge": 1.9735,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -99,7 +99,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.1044,
+      "best_edge": 3.103,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -110,7 +110,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.9326,
+      "best_edge": 0.9314,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -121,7 +121,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.0635,
+      "best_edge": 2.0618,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -132,7 +132,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.8228,
+      "best_edge": 0.822,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -143,7 +143,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 2)",
-      "best_edge": 0.9641,
+      "best_edge": 0.9649,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -154,7 +154,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.4635,
+      "best_edge": 1.4627,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -165,7 +165,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.1918,
+      "best_edge": 2.1913,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -176,7 +176,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.3695,
+      "best_edge": 1.3683,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -187,7 +187,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 0)",
-      "best_edge": 1.5015,
+      "best_edge": 1.5027,
       "odds": 20.5,
       "hit": false,
       "pnl": -1.0
@@ -198,7 +198,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.3189,
+      "best_edge": 0.3177,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -209,7 +209,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(4, 0)",
-      "best_edge": 0.7672,
+      "best_edge": 0.7667,
       "odds": 29.0,
       "hit": false,
       "pnl": -1.0
@@ -220,7 +220,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.0556,
+      "best_edge": 1.0553,
       "odds": 5.5,
       "hit": true,
       "pnl": 4.5
@@ -231,7 +231,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.517,
+      "best_edge": 1.5164,
       "odds": 5.5,
       "hit": true,
       "pnl": 4.5
@@ -242,7 +242,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.3473,
+      "best_edge": 0.3464,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -253,7 +253,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 0)",
-      "best_edge": 0.6073,
+      "best_edge": 0.606,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -264,7 +264,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.0552,
+      "best_edge": -0.0559,
       "odds": 9.2,
       "hit": false,
       "pnl": -1.0
@@ -275,7 +275,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 6.1182,
+      "best_edge": 6.1148,
       "odds": 200.0,
       "hit": false,
       "pnl": -1.0
@@ -286,7 +286,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3427,
+      "best_edge": 0.3421,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -297,7 +297,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.366,
+      "best_edge": 1.3651,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -308,7 +308,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3723,
+      "best_edge": 0.3717,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -319,7 +319,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.823,
+      "best_edge": 1.8224,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -330,7 +330,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0282,
+      "best_edge": 0.0275,
       "odds": 10.5,
       "hit": false,
       "pnl": -1.0
@@ -341,7 +341,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.639,
+      "best_edge": 0.6379,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -352,7 +352,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2422,
+      "best_edge": 0.2416,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -363,7 +363,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.3202,
+      "best_edge": 3.3197,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -374,7 +374,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4268,
+      "best_edge": 0.4257,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -385,7 +385,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.3414,
+      "best_edge": 1.3398,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -396,7 +396,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": 0.0169,
+      "best_edge": 0.0178,
       "odds": 6.5,
       "hit": false,
       "pnl": -1.0
@@ -407,7 +407,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.4262,
+      "best_edge": 1.4252,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -418,7 +418,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.0516,
+      "best_edge": 1.0501,
       "odds": 36.0,
       "hit": false,
       "pnl": -1.0
@@ -429,7 +429,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 2)",
-      "best_edge": 8.3461,
+      "best_edge": 8.3415,
       "odds": 100.0,
       "hit": false,
       "pnl": -1.0
@@ -440,7 +440,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0737,
+      "best_edge": -0.0728,
       "odds": 6.9,
       "hit": false,
       "pnl": -1.0
@@ -451,7 +451,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.7295,
+      "best_edge": 1.7283,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -462,7 +462,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1425,
+      "best_edge": 0.1419,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -473,7 +473,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(4, 0)",
-      "best_edge": 2.172,
+      "best_edge": 2.171,
       "odds": 33.0,
       "hit": false,
       "pnl": -1.0
@@ -484,7 +484,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2844,
+      "best_edge": 0.2834,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -495,7 +495,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.6874,
+      "best_edge": 1.6855,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -506,7 +506,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0485,
+      "best_edge": -0.0479,
       "odds": 5.1,
       "hit": false,
       "pnl": -1.0
@@ -517,7 +517,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.5047,
+      "best_edge": 0.5039,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -528,7 +528,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.0238,
+      "best_edge": -0.0244,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -539,7 +539,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 2)",
-      "best_edge": 0.5011,
+      "best_edge": 0.5,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -550,7 +550,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5789,
+      "best_edge": 0.5782,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -561,7 +561,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 2)",
-      "best_edge": 0.957,
+      "best_edge": 0.9581,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -572,7 +572,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.2767,
+      "best_edge": 0.2758,
       "odds": 40.0,
       "hit": false,
       "pnl": -1.0
@@ -583,7 +583,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(4, 0)",
-      "best_edge": 0.6027,
+      "best_edge": 0.6021,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -594,7 +594,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.15,
+      "best_edge": 0.1496,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -605,7 +605,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.0121,
+      "best_edge": 2.0112,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -616,7 +616,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": -0.0495,
+      "best_edge": -0.0501,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -627,7 +627,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.3942,
+      "best_edge": 0.3932,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -638,7 +638,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.2319,
+      "best_edge": 0.2309,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -649,7 +649,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.5004,
+      "best_edge": 0.4999,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -660,7 +660,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.1874,
+      "best_edge": 0.1868,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -671,7 +671,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 0)",
-      "best_edge": 1.2303,
+      "best_edge": 1.2288,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -682,7 +682,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.1607,
+      "best_edge": 0.1599,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -693,7 +693,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.4972,
+      "best_edge": 0.4965,
       "odds": 10.0,
       "hit": false,
       "pnl": -1.0
@@ -704,7 +704,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0503,
+      "best_edge": 0.0497,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -715,7 +715,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 1)",
-      "best_edge": 0.3805,
+      "best_edge": 0.3815,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -726,7 +726,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.1919,
+      "best_edge": 0.1909,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -737,7 +737,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 0.2591,
+      "best_edge": 0.2586,
       "odds": 17.5,
       "hit": false,
       "pnl": -1.0
@@ -748,7 +748,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4794,
+      "best_edge": 0.4786,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -759,7 +759,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8792,
+      "best_edge": 0.878,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -770,7 +770,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.7811,
+      "best_edge": 0.7805,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -781,7 +781,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 0.5986,
+      "best_edge": 0.5974,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -792,7 +792,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.2067,
+      "best_edge": 0.2063,
       "odds": 20.0,
       "hit": true,
       "pnl": 19.0
@@ -803,7 +803,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 1)",
-      "best_edge": 0.8139,
+      "best_edge": 0.8128,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -814,7 +814,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4837,
+      "best_edge": 0.4833,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -825,7 +825,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 1)",
-      "best_edge": 0.2186,
+      "best_edge": 0.2196,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -836,7 +836,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2796,
+      "best_edge": 0.279,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -847,7 +847,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.1023,
+      "best_edge": 2.1013,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -858,7 +858,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.255,
+      "best_edge": 0.2542,
       "odds": 21.0,
       "hit": false,
       "pnl": -1.0
@@ -869,7 +869,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 0)",
-      "best_edge": 1.4304,
+      "best_edge": 1.4317,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -880,7 +880,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0627,
+      "best_edge": -0.0621,
       "odds": 4.45,
       "hit": false,
       "pnl": -1.0
@@ -891,7 +891,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.3144,
+      "best_edge": 0.3138,
       "odds": 9.5,
       "hit": false,
       "pnl": -1.0
@@ -902,7 +902,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1321,
+      "best_edge": 0.131,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -913,7 +913,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.7483,
+      "best_edge": 5.7458,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -924,7 +924,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.0863,
+      "best_edge": -0.0869,
       "odds": 16.0,
       "hit": true,
       "pnl": 15.0
@@ -935,7 +935,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.1844,
+      "best_edge": 1.1834,
       "odds": 16.0,
       "hit": true,
       "pnl": 15.0
@@ -946,7 +946,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0554,
+      "best_edge": 0.0543,
       "odds": 29.0,
       "hit": false,
       "pnl": -1.0
@@ -957,7 +957,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 5)",
-      "best_edge": 19.0904,
+      "best_edge": 19.0873,
       "odds": 350.0,
       "hit": false,
       "pnl": -1.0
@@ -968,7 +968,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0753,
+      "best_edge": -0.0745,
       "odds": 6.45,
       "hit": false,
       "pnl": -1.0
@@ -979,7 +979,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 0)",
-      "best_edge": 0.6011,
+      "best_edge": 0.6019,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -990,7 +990,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.516,
+      "best_edge": 0.5146,
       "odds": 40.0,
       "hit": false,
       "pnl": -1.0
@@ -1001,7 +1001,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 0)",
-      "best_edge": 0.5206,
+      "best_edge": 0.5197,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -1012,7 +1012,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.8668,
+      "best_edge": 0.865,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -1023,7 +1023,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.3682,
+      "best_edge": 0.3678,
       "odds": 5.5,
       "hit": false,
       "pnl": -1.0
@@ -1034,7 +1034,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.6078,
+      "best_edge": 0.607,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -1045,7 +1045,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6084,
+      "best_edge": 0.6072,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -1056,7 +1056,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 2.1602,
+      "best_edge": 2.1581,
       "odds": 50.0,
       "hit": false,
       "pnl": -1.0
@@ -1067,7 +1067,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 7.4754,
+      "best_edge": 7.4724,
       "odds": 50.0,
       "hit": false,
       "pnl": -1.0
@@ -1078,7 +1078,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5366,
+      "best_edge": 0.5353,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -1089,7 +1089,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.366,
+      "best_edge": 3.3642,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -1100,7 +1100,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3437,
+      "best_edge": 0.3429,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1111,7 +1111,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(1, 3)",
-      "best_edge": 1.5307,
+      "best_edge": 1.529,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -1122,7 +1122,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.6024,
+      "best_edge": 0.6008,
       "odds": 80.0,
       "hit": false,
       "pnl": -1.0
@@ -1133,7 +1133,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 2)",
-      "best_edge": 0.3912,
+      "best_edge": 0.3902,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -1144,7 +1144,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.3549,
+      "best_edge": 1.3542,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -1155,7 +1155,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 1)",
-      "best_edge": 1.3248,
+      "best_edge": 1.323,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1166,7 +1166,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.2182,
+      "best_edge": 1.2173,
       "odds": 45.0,
       "hit": false,
       "pnl": -1.0
@@ -1177,7 +1177,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.7292,
+      "best_edge": 2.7283,
       "odds": 8.0,
       "hit": false,
       "pnl": -1.0
@@ -1188,7 +1188,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1344,
+      "best_edge": 0.1336,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -1199,7 +1199,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 2)",
-      "best_edge": 0.4323,
+      "best_edge": 0.4314,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -1210,7 +1210,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.3882,
+      "best_edge": 0.387,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -1221,7 +1221,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.2848,
+      "best_edge": 0.2843,
       "odds": 8.0,
       "hit": true,
       "pnl": 7.0
@@ -1232,7 +1232,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0034,
+      "best_edge": -0.0027,
       "odds": 5.95,
       "hit": false,
       "pnl": -1.0
@@ -1243,7 +1243,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 3.1177,
+      "best_edge": 3.1167,
       "odds": 60.0,
       "hit": false,
       "pnl": -1.0
@@ -1254,7 +1254,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.1116,
+      "best_edge": -0.1121,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -1265,7 +1265,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.8143,
+      "best_edge": 4.8129,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -1276,7 +1276,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.1491,
+      "best_edge": 0.1482,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -1287,7 +1287,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.4328,
+      "best_edge": 2.4319,
       "odds": 9.5,
       "hit": false,
       "pnl": -1.0
@@ -1298,7 +1298,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1534,
+      "best_edge": 0.1527,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1309,7 +1309,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.6361,
+      "best_edge": 2.635,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1320,7 +1320,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2578,
+      "best_edge": 0.2572,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -1331,7 +1331,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.2233,
+      "best_edge": 4.2219,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -1342,7 +1342,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": -0.0995,
+      "best_edge": -0.0998,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1353,7 +1353,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.4496,
+      "best_edge": 5.4487,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -1364,7 +1364,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.2546,
+      "best_edge": 1.2534,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1375,7 +1375,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.601,
+      "best_edge": 3.5998,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1386,7 +1386,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.0193,
+      "best_edge": -0.0205,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1397,7 +1397,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.6216,
+      "best_edge": 2.6194,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1408,7 +1408,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.0231,
+      "best_edge": 1.0219,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1419,7 +1419,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 6.4752,
+      "best_edge": 6.4727,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -1430,7 +1430,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.7315,
+      "best_edge": 1.7308,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -1441,7 +1441,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 1.3107,
+      "best_edge": 1.3091,
       "odds": 28.0,
       "hit": true,
       "pnl": 27.0
@@ -1452,7 +1452,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.1238,
+      "best_edge": -0.1232,
       "odds": 4.6,
       "hit": false,
       "pnl": -1.0
@@ -1463,7 +1463,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.8243,
+      "best_edge": 3.8231,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -1474,7 +1474,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.1197,
+      "best_edge": -0.1204,
       "odds": 10.0,
       "hit": false,
       "pnl": -1.0
@@ -1485,7 +1485,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.0515,
+      "best_edge": 1.0508,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -1496,7 +1496,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.375,
+      "best_edge": 0.3743,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1507,7 +1507,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.4312,
+      "best_edge": 5.4307,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1518,7 +1518,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.536,
+      "best_edge": 0.5353,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1529,7 +1529,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.3008,
+      "best_edge": 4.3003,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1539,9 +1539,9 @@
       "match_id": "2026-08-16_周日016",
       "play": "ttg",
       "label": "总进球",
-      "best_sel": "0",
-      "best_edge": -0.0927,
-      "odds": 25.0,
+      "best_sel": "7",
+      "best_edge": -0.0937,
+      "odds": 12.5,
       "hit": false,
       "pnl": -1.0
     },
@@ -1551,7 +1551,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.4657,
+      "best_edge": 2.4646,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -1562,7 +1562,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0675,
+      "best_edge": 0.0669,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1573,7 +1573,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 1.8377,
+      "best_edge": 1.8366,
       "odds": 50.0,
       "hit": false,
       "pnl": -1.0
@@ -1584,7 +1584,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.0963,
+      "best_edge": 0.0958,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -1595,7 +1595,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.5151,
+      "best_edge": 1.5139,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1606,7 +1606,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.1297,
+      "best_edge": -0.1302,
       "odds": 8.0,
       "hit": true,
       "pnl": 7.0
@@ -1617,7 +1617,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.6054,
+      "best_edge": 1.6044,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1628,7 +1628,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.108,
+      "best_edge": 1.107,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -1639,7 +1639,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 9.3153,
+      "best_edge": 9.3146,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -1650,7 +1650,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5235,
+      "best_edge": 0.5227,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1661,7 +1661,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.8579,
+      "best_edge": 3.8571,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1672,7 +1672,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0778,
+      "best_edge": 0.0769,
       "odds": 14.5,
       "hit": false,
       "pnl": -1.0
@@ -1683,7 +1683,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 2)",
-      "best_edge": 0.7369,
+      "best_edge": 0.7361,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -1694,7 +1694,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.2479,
+      "best_edge": 0.2471,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -1705,7 +1705,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6319,
+      "best_edge": 0.631,
       "odds": 10.0,
       "hit": false,
       "pnl": -1.0
@@ -1716,7 +1716,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3517,
+      "best_edge": 0.3511,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1727,7 +1727,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.7423,
+      "best_edge": 2.7411,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1738,7 +1738,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.2115,
+      "best_edge": 0.2106,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -1749,7 +1749,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.2477,
+      "best_edge": 2.2473,
       "odds": 11.5,
       "hit": false,
       "pnl": -1.0
@@ -1760,7 +1760,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0508,
+      "best_edge": 0.0498,
       "odds": 13.5,
       "hit": false,
       "pnl": -1.0
@@ -1771,7 +1771,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.1626,
+      "best_edge": 1.1621,
       "odds": 10.5,
       "hit": false,
       "pnl": -1.0
@@ -1782,7 +1782,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.3431,
+      "best_edge": 0.3424,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -1793,7 +1793,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.5544,
+      "best_edge": 1.5539,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -1804,7 +1804,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.025,
+      "best_edge": -0.0258,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1815,7 +1815,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.6128,
+      "best_edge": 2.612,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -1826,7 +1826,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5102,
+      "best_edge": 0.5094,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1837,7 +1837,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 8.4065,
+      "best_edge": 8.4042,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -1848,7 +1848,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 2.7157,
+      "best_edge": 2.7145,
       "odds": 29.0,
       "hit": false,
       "pnl": -1.0
@@ -1859,7 +1859,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 13.7654,
+      "best_edge": 13.7647,
       "odds": 29.0,
       "hit": false,
       "pnl": -1.0
@@ -1870,7 +1870,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": 0.0035,
+      "best_edge": 0.0042,
       "odds": 5.6,
       "hit": false,
       "pnl": -1.0
@@ -1881,7 +1881,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6369,
+      "best_edge": 0.6361,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -1892,7 +1892,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0734,
+      "best_edge": 0.0724,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -1903,7 +1903,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 1.5059,
+      "best_edge": 1.505,
       "odds": 35.0,
       "hit": false,
       "pnl": -1.0
@@ -1914,7 +1914,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.1229,
+      "best_edge": 0.1225,
       "odds": 18.5,
       "hit": true,
       "pnl": 17.5
@@ -1925,7 +1925,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.2354,
+      "best_edge": 2.2338,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -1936,7 +1936,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.7034,
+      "best_edge": 0.7028,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -1947,7 +1947,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 6.4363,
+      "best_edge": 6.436,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -1958,7 +1958,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 1.0032,
+      "best_edge": 1.0015,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -1969,7 +1969,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 1.0577,
+      "best_edge": 1.0566,
       "odds": 50.0,
       "hit": false,
       "pnl": -1.0
@@ -1980,7 +1980,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.3577,
+      "best_edge": 0.3563,
       "odds": 37.0,
       "hit": false,
       "pnl": -1.0
@@ -1991,7 +1991,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8396,
+      "best_edge": 0.839,
       "odds": 9.0,
       "hit": true,
       "pnl": 8.0
@@ -2002,7 +2002,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0837,
+      "best_edge": 0.083,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -2013,7 +2013,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.6869,
+      "best_edge": 3.6854,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -2024,7 +2024,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0666,
+      "best_edge": -0.0659,
       "odds": 5.7,
       "hit": false,
       "pnl": -1.0
@@ -2035,7 +2035,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.4308,
+      "best_edge": 3.4303,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2046,7 +2046,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.1087,
+      "best_edge": 0.108,
       "odds": 10.5,
       "hit": false,
       "pnl": -1.0
@@ -2057,7 +2057,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.1036,
+      "best_edge": 3.1024,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -2068,7 +2068,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.6599,
+      "best_edge": 0.6594,
       "odds": 21.0,
       "hit": false,
       "pnl": -1.0
@@ -2079,7 +2079,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8902,
+      "best_edge": 0.8895,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -2090,7 +2090,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.659,
+      "best_edge": 1.6576,
       "odds": 65.0,
       "hit": false,
       "pnl": -1.0
@@ -2101,7 +2101,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 0.6374,
+      "best_edge": 0.6368,
       "odds": 34.0,
       "hit": false,
       "pnl": -1.0
@@ -2112,7 +2112,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.8746,
+      "best_edge": 1.8736,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -2123,7 +2123,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 8.8068,
+      "best_edge": 8.8044,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -2134,7 +2134,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0852,
+      "best_edge": -0.0844,
       "odds": 6.25,
       "hit": true,
       "pnl": 5.25
@@ -2145,7 +2145,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.9537,
+      "best_edge": 2.9522,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2156,7 +2156,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.0249,
+      "best_edge": -0.0255,
       "odds": 8.75,
       "hit": false,
       "pnl": -1.0
@@ -2167,7 +2167,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.1245,
+      "best_edge": 1.1233,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2178,7 +2178,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0313,
+      "best_edge": -0.0302,
       "odds": 8.6,
       "hit": false,
       "pnl": -1.0
@@ -2189,7 +2189,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.5587,
+      "best_edge": 4.5564,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -2200,7 +2200,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": -0.0537,
+      "best_edge": -0.0544,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -2211,7 +2211,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.2373,
+      "best_edge": 3.2367,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2222,7 +2222,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.2714,
+      "best_edge": 0.2709,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -2233,7 +2233,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 3)",
-      "best_edge": 2.1815,
+      "best_edge": 2.1805,
       "odds": 35.0,
       "hit": false,
       "pnl": -1.0
@@ -2244,7 +2244,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.7067,
+      "best_edge": 0.7053,
       "odds": 40.0,
       "hit": false,
       "pnl": -1.0
@@ -2255,7 +2255,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6963,
+      "best_edge": 0.6958,
       "odds": 8.0,
       "hit": false,
       "pnl": -1.0
@@ -2266,7 +2266,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.8495,
+      "best_edge": 0.8478,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -2277,7 +2277,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.5899,
+      "best_edge": 1.5897,
       "odds": 5.4,
       "hit": false,
       "pnl": -1.0
@@ -2288,7 +2288,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.1748,
+      "best_edge": 1.1739,
       "odds": 45.0,
       "hit": false,
       "pnl": -1.0
@@ -2299,7 +2299,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.9726,
+      "best_edge": 1.9715,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -2310,7 +2310,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.649,
+      "best_edge": 0.6482,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -2321,7 +2321,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.0489,
+      "best_edge": 4.0476,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -2332,7 +2332,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": -0.0706,
+      "best_edge": -0.0713,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -2343,7 +2343,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 8.2228,
+      "best_edge": 8.2186,
       "odds": 250.0,
       "hit": false,
       "pnl": -1.0
@@ -2354,7 +2354,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2552,
+      "best_edge": 0.2543,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -2365,7 +2365,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.7366,
+      "best_edge": 3.7357,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -2376,7 +2376,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2283,
+      "best_edge": 0.2276,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -2387,7 +2387,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 2.667,
+      "best_edge": 2.6657,
       "odds": 55.0,
       "hit": false,
       "pnl": -1.0
@@ -2398,7 +2398,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0895,
+      "best_edge": 0.0882,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -2409,7 +2409,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.2476,
+      "best_edge": 5.2462,
       "odds": 31.0,
       "hit": false,
       "pnl": -1.0
@@ -2420,7 +2420,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.0901,
+      "best_edge": -0.0906,
       "odds": 8.25,
       "hit": false,
       "pnl": -1.0
@@ -2431,7 +2431,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6428,
+      "best_edge": 0.6418,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2442,7 +2442,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.0703,
+      "best_edge": -0.0709,
       "odds": 9.5,
       "hit": false,
       "pnl": -1.0
@@ -2453,7 +2453,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.0163,
+      "best_edge": 1.0155,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2464,7 +2464,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.376,
+      "best_edge": 0.3749,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -2475,7 +2475,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.7867,
+      "best_edge": 1.785,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -2486,7 +2486,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4322,
+      "best_edge": 0.4315,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2497,7 +2497,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 6.0606,
+      "best_edge": 6.0601,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2508,7 +2508,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4205,
+      "best_edge": 0.4194,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -2519,7 +2519,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 9.5311,
+      "best_edge": 9.5303,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -2530,7 +2530,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.4074,
+      "best_edge": 1.406,
       "odds": 34.0,
       "hit": false,
       "pnl": -1.0
@@ -2541,7 +2541,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.5222,
+      "best_edge": 5.52,
       "odds": 34.0,
       "hit": false,
       "pnl": -1.0
@@ -2552,7 +2552,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0867,
+      "best_edge": 0.0861,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -2563,7 +2563,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(4, 0)",
-      "best_edge": 2.5546,
+      "best_edge": 2.5537,
       "odds": 60.0,
       "hit": false,
       "pnl": -1.0
@@ -2574,7 +2574,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3967,
+      "best_edge": 0.3957,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -2585,7 +2585,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.4282,
+      "best_edge": 2.4268,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -2596,7 +2596,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0621,
+      "best_edge": -0.0612,
       "odds": 7.2,
       "hit": false,
       "pnl": -1.0
@@ -2607,7 +2607,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.7404,
+      "best_edge": 1.7392,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -2618,7 +2618,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.7953,
+      "best_edge": 0.7949,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -2629,7 +2629,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.3696,
+      "best_edge": 1.3689,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -2640,7 +2640,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0015,
+      "best_edge": 0.0008,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -2651,7 +2651,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.3187,
+      "best_edge": 1.3179,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -2662,7 +2662,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.2603,
+      "best_edge": 0.2594,
       "odds": 12.5,
       "hit": true,
       "pnl": 11.5
@@ -2673,7 +2673,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 1)",
-      "best_edge": 0.3147,
+      "best_edge": 0.3156,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -2684,7 +2684,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.4394,
+      "best_edge": 0.4383,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2695,7 +2695,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.3366,
+      "best_edge": 0.3361,
       "odds": 8.0,
       "hit": false,
       "pnl": -1.0
@@ -2706,7 +2706,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.1723,
+      "best_edge": 0.1714,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -2717,7 +2717,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 0.89,
+      "best_edge": 0.8889,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -2728,7 +2728,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.3177,
+      "best_edge": 0.3167,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2739,7 +2739,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.5057,
+      "best_edge": 0.5052,
       "odds": 8.5,
       "hit": false,
       "pnl": -1.0
@@ -2750,7 +2750,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.01,
+      "best_edge": -0.0106,
       "odds": 8.7,
       "hit": false,
       "pnl": -1.0
@@ -2761,7 +2761,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.4582,
+      "best_edge": 5.4566,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2772,7 +2772,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2586,
+      "best_edge": 0.258,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -2783,7 +2783,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.4137,
+      "best_edge": 3.4133,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -2794,7 +2794,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": -0.0767,
+      "best_edge": -0.0772,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -2805,7 +2805,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8446,
+      "best_edge": 0.8434,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -2816,7 +2816,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0553,
+      "best_edge": 0.0548,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -2827,7 +2827,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(4, 0)",
-      "best_edge": 2.7409,
+      "best_edge": 2.7399,
       "odds": 60.0,
       "hit": false,
       "pnl": -1.0
@@ -2838,7 +2838,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0547,
+      "best_edge": 0.054,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2849,7 +2849,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.6362,
+      "best_edge": 3.6356,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -2860,7 +2860,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": -0.0059,
+      "best_edge": -0.0067,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -2871,7 +2871,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.0126,
+      "best_edge": 1.012,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -2882,7 +2882,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.2112,
+      "best_edge": 0.2102,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -2893,7 +2893,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8412,
+      "best_edge": 0.8406,
       "odds": 10.0,
       "hit": false,
       "pnl": -1.0
@@ -2904,7 +2904,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0274,
+      "best_edge": 0.0264,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -2915,7 +2915,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 4)",
-      "best_edge": 4.4869,
+      "best_edge": 4.4849,
       "odds": 90.0,
       "hit": false,
       "pnl": -1.0
@@ -2926,7 +2926,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4707,
+      "best_edge": 0.4702,
       "odds": 11.5,
       "hit": true,
       "pnl": 10.5
@@ -2937,7 +2937,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 1.5012,
+      "best_edge": 1.4996,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -2948,7 +2948,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3576,
+      "best_edge": 0.3566,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -2959,7 +2959,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.8927,
+      "best_edge": 2.8913,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -2970,7 +2970,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.1235,
+      "best_edge": 0.1225,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -2981,7 +2981,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.9256,
+      "best_edge": 0.9251,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -2992,7 +2992,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.2113,
+      "best_edge": 0.2104,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -3003,7 +3003,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.4739,
+      "best_edge": 0.4734,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -3014,7 +3014,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.2978,
+      "best_edge": 0.2975,
       "odds": 18.0,
       "hit": true,
       "pnl": 17.0
@@ -3025,7 +3025,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.4857,
+      "best_edge": 1.4841,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -3036,7 +3036,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.7208,
+      "best_edge": 0.7203,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -3047,7 +3047,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.7674,
+      "best_edge": 2.7661,
       "odds": 16.0,
       "hit": false,
       "pnl": -1.0
@@ -3058,7 +3058,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 3.0199,
+      "best_edge": 3.0189,
       "odds": 48.0,
       "hit": false,
       "pnl": -1.0
@@ -3069,7 +3069,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8839,
+      "best_edge": 0.883,
       "odds": 10.5,
       "hit": false,
       "pnl": -1.0
@@ -3080,7 +3080,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.356,
+      "best_edge": 0.3556,
       "odds": 16.5,
       "hit": false,
       "pnl": -1.0
@@ -3091,7 +3091,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.3479,
+      "best_edge": 1.3472,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -3102,7 +3102,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.7383,
+      "best_edge": 0.7371,
       "odds": 35.0,
       "hit": false,
       "pnl": -1.0
@@ -3113,7 +3113,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.6596,
+      "best_edge": 0.659,
       "odds": 8.75,
       "hit": true,
       "pnl": 7.75
@@ -3124,7 +3124,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.1825,
+      "best_edge": 0.1823,
       "odds": 9.5,
       "hit": false,
       "pnl": -1.0
@@ -3135,7 +3135,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 4.6349,
+      "best_edge": 4.6313,
       "odds": 65.0,
       "hit": false,
       "pnl": -1.0
@@ -3146,7 +3146,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 1.8207,
+      "best_edge": 1.8197,
       "odds": 50.0,
       "hit": false,
       "pnl": -1.0
@@ -3157,7 +3157,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.5303,
+      "best_edge": 0.5296,
       "odds": 8.0,
       "hit": false,
       "pnl": -1.0
@@ -3168,7 +3168,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.161,
+      "best_edge": 0.1598,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -3179,7 +3179,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8311,
+      "best_edge": 0.8306,
       "odds": 7.5,
       "hit": false,
       "pnl": -1.0
@@ -3190,7 +3190,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0866,
+      "best_edge": 0.0856,
       "odds": 28.0,
       "hit": false,
       "pnl": -1.0
@@ -3201,7 +3201,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.7182,
+      "best_edge": 0.7176,
       "odds": 10.0,
       "hit": true,
       "pnl": 9.0
@@ -3212,7 +3212,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.1346,
+      "best_edge": 0.1337,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3223,7 +3223,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.256,
+      "best_edge": 1.2553,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -3234,7 +3234,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.4627,
+      "best_edge": 0.4622,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -3245,7 +3245,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.5768,
+      "best_edge": 1.5754,
       "odds": 19.0,
       "hit": false,
       "pnl": -1.0
@@ -3256,7 +3256,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5827,
+      "best_edge": 0.5818,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -3267,7 +3267,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.6895,
+      "best_edge": 3.6881,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -3278,7 +3278,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4232,
+      "best_edge": 0.4221,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3289,7 +3289,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(5, 0)",
-      "best_edge": 1.9831,
+      "best_edge": 1.983,
       "odds": 65.0,
       "hit": false,
       "pnl": -1.0
@@ -3300,7 +3300,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0289,
+      "best_edge": 0.0281,
       "odds": 10.5,
       "hit": false,
       "pnl": -1.0
@@ -3311,7 +3311,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(3, 0)",
-      "best_edge": 0.6885,
+      "best_edge": 0.6876,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -3322,7 +3322,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0646,
+      "best_edge": 0.0635,
       "odds": 30.0,
       "hit": false,
       "pnl": -1.0
@@ -3333,7 +3333,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.5289,
+      "best_edge": 2.5285,
       "odds": 10.0,
       "hit": false,
       "pnl": -1.0
@@ -3344,7 +3344,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3722,
+      "best_edge": 0.3718,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -3355,7 +3355,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.9944,
+      "best_edge": 0.9938,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -3366,7 +3366,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.0215,
+      "best_edge": 1.0208,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -3377,7 +3377,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.4639,
+      "best_edge": 2.4627,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -3388,7 +3388,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0214,
+      "best_edge": 0.0208,
       "odds": 14.5,
       "hit": false,
       "pnl": -1.0
@@ -3399,7 +3399,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.2089,
+      "best_edge": 3.2073,
       "odds": 14.5,
       "hit": false,
       "pnl": -1.0
@@ -3410,7 +3410,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.4097,
+      "best_edge": 0.4087,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -3421,7 +3421,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 8.9499,
+      "best_edge": 8.9474,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -3432,7 +3432,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.3057,
+      "best_edge": 1.3039,
       "odds": 44.0,
       "hit": false,
       "pnl": -1.0
@@ -3443,7 +3443,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 6.454,
+      "best_edge": 6.4512,
       "odds": 44.0,
       "hit": false,
       "pnl": -1.0
@@ -3454,7 +3454,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0717,
+      "best_edge": 0.0707,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3465,7 +3465,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.1557,
+      "best_edge": 3.1541,
       "odds": 27.0,
       "hit": false,
       "pnl": -1.0
@@ -3476,7 +3476,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.004,
+      "best_edge": 0.0031,
       "odds": 13.0,
       "hit": false,
       "pnl": -1.0
@@ -3487,7 +3487,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.928,
+      "best_edge": 0.9272,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -3498,7 +3498,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0269,
+      "best_edge": 0.0261,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -3509,7 +3509,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.9336,
+      "best_edge": 1.9325,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -3520,7 +3520,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0258,
+      "best_edge": 0.0249,
       "odds": 23.0,
       "hit": false,
       "pnl": -1.0
@@ -3531,7 +3531,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 3.475,
+      "best_edge": 3.473,
       "odds": 80.0,
       "hit": false,
       "pnl": -1.0
@@ -3542,7 +3542,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 1.3116,
+      "best_edge": 1.3105,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -3553,7 +3553,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 8.5812,
+      "best_edge": 8.5804,
       "odds": 26.0,
       "hit": false,
       "pnl": -1.0
@@ -3564,7 +3564,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5213,
+      "best_edge": 0.5197,
       "odds": 38.0,
       "hit": false,
       "pnl": -1.0
@@ -3575,7 +3575,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.8938,
+      "best_edge": 2.8913,
       "odds": 38.0,
       "hit": false,
       "pnl": -1.0
@@ -3586,7 +3586,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.1066,
+      "best_edge": 0.1061,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -3597,7 +3597,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.1457,
+      "best_edge": 2.1446,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -3608,7 +3608,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.1196,
+      "best_edge": -0.119,
       "odds": 5.2,
       "hit": true,
       "pnl": 4.2
@@ -3619,7 +3619,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.9043,
+      "best_edge": 0.9036,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -3630,7 +3630,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1606,
+      "best_edge": 0.1596,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -3641,7 +3641,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.0512,
+      "best_edge": 2.0497,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -3652,7 +3652,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "4",
-      "best_edge": -0.1314,
+      "best_edge": -0.1307,
       "odds": 5.4,
       "hit": false,
       "pnl": -1.0
@@ -3663,7 +3663,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8616,
+      "best_edge": 0.8607,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -3674,7 +3674,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0397,
+      "best_edge": 0.0393,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -3685,7 +3685,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.3927,
+      "best_edge": 1.3919,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -3696,7 +3696,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.7044,
+      "best_edge": 0.7029,
       "odds": 22.0,
       "hit": false,
       "pnl": -1.0
@@ -3707,7 +3707,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8784,
+      "best_edge": 0.8779,
       "odds": 6.5,
       "hit": false,
       "pnl": -1.0
@@ -3718,7 +3718,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.489,
+      "best_edge": 0.4878,
       "odds": 18.0,
       "hit": false,
       "pnl": -1.0
@@ -3729,7 +3729,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.2879,
+      "best_edge": 0.2874,
       "odds": 7.0,
       "hit": false,
       "pnl": -1.0
@@ -3740,7 +3740,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0393,
+      "best_edge": 0.0384,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -3751,7 +3751,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.1012,
+      "best_edge": 1.1005,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -3762,7 +3762,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.1117,
+      "best_edge": -0.1109,
       "odds": 5.7,
       "hit": false,
       "pnl": -1.0
@@ -3773,7 +3773,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.5052,
+      "best_edge": 1.5039,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -3784,7 +3784,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.5906,
+      "best_edge": 0.5896,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3795,7 +3795,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 0)",
-      "best_edge": 4.3791,
+      "best_edge": 4.3753,
       "odds": 65.0,
       "hit": false,
       "pnl": -1.0
@@ -3806,7 +3806,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 0.1541,
+      "best_edge": 0.1536,
       "odds": 24.0,
       "hit": false,
       "pnl": -1.0
@@ -3817,7 +3817,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.393,
+      "best_edge": 2.3922,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -3828,7 +3828,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": -0.0117,
+      "best_edge": -0.0124,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -3839,7 +3839,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.4477,
+      "best_edge": 4.4465,
       "odds": 17.0,
       "hit": false,
       "pnl": -1.0
@@ -3850,7 +3850,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0985,
+      "best_edge": 0.098,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -3861,7 +3861,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.1783,
+      "best_edge": 4.1773,
       "odds": 12.5,
       "hit": false,
       "pnl": -1.0
@@ -3872,7 +3872,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.2155,
+      "best_edge": 0.2145,
       "odds": 15.0,
       "hit": false,
       "pnl": -1.0
@@ -3883,7 +3883,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8365,
+      "best_edge": 0.8359,
       "odds": 9.0,
       "hit": false,
       "pnl": -1.0
@@ -3894,7 +3894,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.3191,
+      "best_edge": 0.3181,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3905,7 +3905,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 2.0798,
+      "best_edge": 2.0781,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -3916,7 +3916,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.2592,
+      "best_edge": 0.2584,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -3927,7 +3927,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 6.0403,
+      "best_edge": 6.0384,
       "odds": 20.0,
       "hit": false,
       "pnl": -1.0
@@ -3938,7 +3938,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "5",
-      "best_edge": 0.0981,
+      "best_edge": 0.0972,
       "odds": 14.0,
       "hit": false,
       "pnl": -1.0
@@ -3949,7 +3949,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 2)",
-      "best_edge": 1.5157,
+      "best_edge": 1.5144,
       "odds": 27.0,
       "hit": false,
       "pnl": -1.0
@@ -3960,7 +3960,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0523,
+      "best_edge": 0.0514,
       "odds": 21.0,
       "hit": false,
       "pnl": -1.0
@@ -3971,7 +3971,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.1029,
+      "best_edge": 1.1016,
       "odds": 21.0,
       "hit": false,
       "pnl": -1.0
@@ -3982,7 +3982,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "7",
-      "best_edge": 2.1952,
+      "best_edge": 2.1945,
       "odds": 36.0,
       "hit": false,
       "pnl": -1.0
@@ -3993,7 +3993,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.802,
+      "best_edge": 0.8014,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -4004,7 +4004,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": -0.0799,
+      "best_edge": -0.0792,
       "odds": 5.0,
       "hit": false,
       "pnl": -1.0
@@ -4015,7 +4015,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 3.2887,
+      "best_edge": 3.2873,
       "odds": 12.0,
       "hit": false,
       "pnl": -1.0
@@ -4026,7 +4026,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "1",
-      "best_edge": 0.0401,
+      "best_edge": 0.0408,
       "odds": 5.75,
       "hit": false,
       "pnl": -1.0
@@ -4037,7 +4037,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(2, 0)",
-      "best_edge": 1.8386,
+      "best_edge": 1.837,
       "odds": 25.0,
       "hit": false,
       "pnl": -1.0
@@ -4048,7 +4048,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.1969,
+      "best_edge": 0.1956,
       "odds": 37.0,
       "hit": false,
       "pnl": -1.0
@@ -4059,7 +4059,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 0.8596,
+      "best_edge": 0.8592,
       "odds": 9.5,
       "hit": false,
       "pnl": -1.0
@@ -4070,7 +4070,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.1152,
+      "best_edge": 0.1149,
       "odds": 8.5,
       "hit": false,
       "pnl": -1.0
@@ -4081,7 +4081,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 1.2673,
+      "best_edge": 1.2666,
       "odds": 8.5,
       "hit": false,
       "pnl": -1.0
@@ -4092,7 +4092,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "6",
-      "best_edge": 0.0738,
+      "best_edge": 0.0727,
       "odds": 32.0,
       "hit": false,
       "pnl": -1.0
@@ -4103,7 +4103,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 5.3861,
+      "best_edge": 5.3855,
       "odds": 11.0,
       "hit": false,
       "pnl": -1.0
@@ -4114,7 +4114,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0067,
+      "best_edge": 0.0058,
       "odds": 21.0,
       "hit": false,
       "pnl": -1.0
@@ -4125,7 +4125,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 3)",
-      "best_edge": 2.6426,
+      "best_edge": 2.6412,
       "odds": 45.0,
       "hit": false,
       "pnl": -1.0
@@ -4136,7 +4136,7 @@
       "play": "ttg",
       "label": "总进球",
       "best_sel": "0",
-      "best_edge": 0.0841,
+      "best_edge": 0.0828,
       "odds": 33.0,
       "hit": false,
       "pnl": -1.0
@@ -4147,7 +4147,7 @@
       "play": "crs",
       "label": "波胆",
       "best_sel": "(0, 0)",
-      "best_edge": 4.749,
+      "best_edge": 4.7475,
       "odds": 33.0,
       "hit": false,
       "pnl": -1.0
