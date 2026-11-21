@@ -1088,10 +1088,10 @@
     "rest_days": 3
   },
   "摩纳哥": {
-    "elo": 1682.2,
-    "attack": 0.6181,
-    "defense": 0.5668,
-    "form": -0.0707,
+    "elo": 1672.4,
+    "attack": 0.593,
+    "defense": 0.5467,
+    "form": -0.0495,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3568,10 +3568,10 @@
     "rest_days": 3
   },
   "欧塞尔": {
-    "elo": 1499.5,
-    "attack": 0.6094,
-    "defense": 0.9128,
-    "form": -0.714,
+    "elo": 1509.3,
+    "attack": 0.5852,
+    "defense": 0.859,
+    "form": -0.4998,
     "injury": 0.0,
     "rest_days": 3
   },
