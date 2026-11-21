@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2116.6,
-    "attack": 0.7298,
-    "defense": 0.2605,
-    "form": 0.9138,
+    "elo": 2104.7,
+    "attack": 0.729,
+    "defense": 0.3055,
+    "form": 0.6397,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1488,10 +1488,10 @@
     "rest_days": 3
   },
   "塞维利亚": {
-    "elo": 1507.6,
-    "attack": 0.5134,
-    "defense": 0.7535,
-    "form": -0.4257,
+    "elo": 1512.2,
+    "attack": 0.4985,
+    "defense": 0.7152,
+    "form": -0.298,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1528,10 +1528,10 @@
     "rest_days": 3
   },
   "斯图加特": {
-    "elo": 1725.7,
-    "attack": 0.7001,
-    "defense": 0.5961,
-    "form": 0.4639,
+    "elo": 1718.1,
+    "attack": 0.6318,
+    "defense": 0.538,
+    "form": 0.3247,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1632,10 +1632,10 @@
     "rest_days": 3
   },
   "纽卡斯尔联": {
-    "elo": 1718.1,
-    "attack": 0.6521,
-    "defense": 0.7291,
-    "form": -0.2495,
+    "elo": 1730.0,
+    "attack": 0.6589,
+    "defense": 0.7284,
+    "form": -0.1746,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1676.0,
-    "attack": 0.6861,
-    "defense": 0.5382,
-    "form": 0.3538,
+    "elo": 1671.4,
+    "attack": 0.6544,
+    "defense": 0.5209,
+    "form": 0.2477,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10544,10 +10544,10 @@
     "rest_days": 3
   },
   "沙尔克": {
-    "elo": 1481.5,
-    "attack": 0.5127,
-    "defense": 0.6691,
-    "form": -0.6669,
+    "elo": 1489.1,
+    "attack": 0.4627,
+    "defense": 0.6039,
+    "form": -0.4668,
     "injury": 0.0,
     "rest_days": 3
   },
