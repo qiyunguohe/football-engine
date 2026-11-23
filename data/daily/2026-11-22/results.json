@@ -72,7 +72,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3744884",
+    "match_id": "周日008",
     "home_score": 1,
     "away_score": 1,
     "home_team": "博洛尼亚",
@@ -81,7 +81,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3744954",
+    "match_id": "周日009",
     "home_score": 0,
     "away_score": 2,
     "home_team": "萨索洛",
@@ -90,7 +90,7 @@
     "half_away_score": 2
   },
   {
-    "match_id": "3763672",
+    "match_id": "周日010",
     "home_score": 3,
     "away_score": 1,
     "home_team": "奥格斯堡",
@@ -108,7 +108,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3754989",
+    "match_id": "周日012",
     "home_score": 4,
     "away_score": 0,
     "home_team": "利物浦",
@@ -142,5 +142,104 @@
     "away_team": "利勒斯特罗姆",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周日006",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "巴萨",
+    "away_team": "比利亚雷",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "周日007",
+    "home_score": 1,
+    "away_score": 5,
+    "home_team": "鹿斯巴达",
+    "away_team": "阿尔克马",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周日011",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "桑坦德",
+    "away_team": "皇家社会",
+    "half_home_score": 2,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周日013",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "不来梅",
+    "away_team": "汉堡",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周日014",
+    "home_score": 5,
+    "away_score": 1,
+    "home_team": "AC米兰",
+    "away_team": "弗洛西诺",
+    "half_home_score": 2,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周日015",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "萨普斯堡",
+    "away_team": "利勒斯特",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周日016",
+    "home_score": 4,
+    "away_score": 4,
+    "home_team": "亚特兰大",
+    "away_team": "国际米兰",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "周日017",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "马赛",
+    "away_team": "勒芒",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周日018",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "赫塔费",
+    "away_team": "马竞",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3744915",
+    "home_score": 4,
+    "away_score": 4,
+    "home_team": "亚特兰大",
+    "away_team": "国米",
+    "half_home_score": 1,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3762778",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "赫塔菲",
+    "away_team": "马竞",
+    "half_home_score": 0,
+    "half_away_score": 2
   }
 ]
